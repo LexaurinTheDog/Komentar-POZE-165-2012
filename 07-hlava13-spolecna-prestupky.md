@@ -26,6 +26,42 @@ Odst. 2 byl do zákona vložen v důsledku implementace nařízení EU o udržit
 
 Odst. 2 je příkladem tzv. **kombinované pravomoci**: SEI vykonává kontrolu jak na základě POZE, tak na základě přímo použitelného předpisu EU, přičemž zákon ji za účelem plnění unijních povinností výslovně označuje za příslušný vnitrostátní orgán.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** SEI při kontrole solární elektrárny zjistí, že její provozovatel (právnická osoba) vedle podpory podle POZE odebírá rovněž dotaci z OPŽP a že měřidlo elektřiny nemá platné ověření. Provozovatel namítne, že kontrolu nemůže provádět SEI, protože jde současně o čerpání dotace z fondu EU, jehož správa náleží jinému orgánu. Důkazy: protokol o kontrole, ověřovací list měřidla, registrace formy podpory u OTE.
+
+**2. Právní otázka.** Je SEI věcně příslušná ke kontrole dodržování všech povinností výrobce podle POZE, nebo je její pravomoc omezena tam, kde se uplatní jiné kontrolní režimy (odvod, dotace EU)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 48 odst. 1 — kontrolu dodržování POZE provádí Inspekce s jedinou výjimkou (správa odvodu).
+- *Související ustanovení téhož zákona:* § 49 (přestupky, které SEI projednává), § 50 odst. 2 (příslušnost SEI k projednání přestupků), § 51 odst. 4 (správu placení neoprávněně čerpané podpory vykonává celní úřad — nikoli SEI).
+- *Související předpisy:* zákon č. 255/2012 Sb. (kontrolní řád) jako procesní rámec kontroly; zákon č. 500/2004 Sb. (správní řád); zákon č. 458/2000 Sb. (zřízení SEI); nařízení (EU) 2023/2405 (ReFuelEU Aviation) pro odst. 2.
+- *Judikatura:* obecný nosný závěr správních soudů, že věcnou příslušnost správního orgánu nelze rozšiřovat ani zužovat výkladem nad rámec zákona; kontrola podle kontrolního řádu a navazující sankční řízení jsou dvě oddělené fáze.
+
+**4. Subsumpce.** Kontrola dodržování povinnosti udržovat ověřené měřidlo (§ 11a) spadá pod „dodržování tohoto zákona" dle § 48 odst. 1 a je v pravomoci SEI. Souběžné čerpání dotace z OPŽP nevylučuje kontrolní pravomoc SEI ohledně povinností podle POZE — jde o paralelní režimy. Pouze správa odvodu je z působnosti SEI vyňata; v posuzovaném případě se o odvod nejedná.
+
+**5. Řešení.** Námitka nepříslušnosti je nedůvodná. SEI je oprávněna kontrolu provést, zjištění zadokumentovat a případně zahájit přestupkové řízení podle § 49. Otázka souběhu dotace EU a podpory POZE se řeší samostatně v rámci posouzení neoprávněného čerpání (§ 51), nikoli vyloučením kontroly. Procesně: protokol o kontrole, vypořádání námitek, navazující řízení dle správního a přestupkového zákona.
+
+**6. Varianty.** (a) Pokud by předmětem kontroly byla výhradně správnost a výše odvodu, SEI by věcně příslušná nebyla — působnost má celní úřad. (b) Jde-li o dodavatele leteckého paliva, kontrolní pravomoc SEI plyne z odst. 2 ve spojení s nařízením EU, a námitka, že jde o „unijní" povinnost mimo český zákon, by neuspěla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Kontrola dotace z fondu EU patří poskytovateli dotace, ne SEI." Neutralizace: SEI nekontroluje čerpání dotace, nýbrž dodržování POZE; oba režimy běží paralelně a vzájemně se nevylučují.
+- *Protiargument:* „Bez výslovného odkazu na kontrolní řád nelze postup SEI podřadit pod kontrolní řád." Neutralizace: kontrolní řád č. 255/2012 Sb. se uplatní jako obecný předpis pro výkon kontroly i bez výslovného odkazu.
+- *Slabé místo:* hranice mezi „dodržováním zákona" (SEI) a „správou odvodu" (celní úřad) může být v konkrétním případě sporná, je-li předmětem souběžně povinnost technická i odvodová.
+
+#### H. Praktický závěr
+
+Kontrolu veškerých povinností podle POZE vykonává SEI; jediná výjimka je správa odvodu (celní úřad). U dodavatelů leteckých paliv působí SEI jako příslušný orgán dle nařízení EU 2023/2405.
+
+**Checklist (advokát / SEI / adresát normy):**
+- [ ] Je předmětem kontroly povinnost podle POZE, nebo správa odvodu? (určuje příslušnost SEI vs. celní úřad)
+- [ ] Postupuje SEI podle kontrolního řádu (č. 255/2012 Sb.) a vede řádný protokol?
+- [ ] Jde-li o letecké palivo, je dán základ pravomoci v odst. 2 a nařízení EU?
+- [ ] Navazuje na kontrolu řádně zahájené přestupkové řízení podle § 49/49a?
+
+**Typicky rozhodné důkazy / podklady:** protokol o kontrole, ověřovací listy měřidel, registrace formy podpory u OTE, doklady o souběžných dotacích, korespondence SEI s kontrolovaným subjektem.
+
 ---
 
 ### § 49 — Přestupky
@@ -389,6 +425,43 @@ Zákon volí **subjektový přístup** k uspořádání katalogu přestupků: ka
 
 Odstavec 11 písm. b) v textu zdroje uvádí: „*dále registruje všechny změny v těchto údajích*" — s vysokou pravděpodobností jde o legislativní chybu (zřejmě má být „*nezaregistruje … nebo dále neregistruje změny*"). Totožná formulace se opakuje v odst. 15. Komentář věrně reprodukuje text zdroje bez opravy; zákonodárce by měl tuto anomálii při nejbližší novelizaci opravit.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobce elektřiny z bioplynové stanice (právnická osoba) čerpá podporu formou zeleného bonusu. Při kontrole SEI vyjde najevo, že (i) v jednom čtvrtletí nepředal OTE elektronickou formou naměřené hodnoty podle § 11a odst. 5 [odst. 1 písm. h)] a (ii) neuchoval doklady o použitém palivu z biomasy podle § 39 odst. 5 [odst. 1 písm. m)]. Roční nárok výrobce na podporu činí 8 mil. Kč. Důkazy: výpis z evidence OTE o nepředaných hodnotách, výzva SEI a její nevyřízení, absence dokumentace paliva.
+
+**2. Právní otázka.** Jakou maximální pokutu lze výrobci uložit za souběh obou jednání a uplatní se na ně strop „ročního nároku na podporu" podle odst. 27?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 49 odst. 1 písm. h) a m); sazba a strop dle odst. 27.
+- *Související ustanovení téhož zákona:* § 11a odst. 5 a § 39 odst. 5 (porušené primární povinnosti); § 48 (kontrola); § 50 (promlčení, příslušnost SEI).
+- *Související předpisy:* zákon č. 250/2016 Sb. o odpovědnosti za přestupky — subsidiárně (objektivní odpovědnost s liberací § 21–22, zásady ukládání trestu § 37–40, souběh přestupků § 41).
+- *Judikatura:* nosný závěr NSS, že u objektivní odpovědnosti podnikatele postačí prokázání protiprávního stavu a liberace je na pachateli; při více přestupcích se ukládá pokuta podle absorpční zásady (za nejpřísněji postižitelný, k ostatním se přihlédne jako k přitěžující okolnosti).
+
+**4. Subsumpce.** Obě jednání naplňují skutkové podstaty odst. 1. Pro písm. m) (uchování dokladů o palivu) platí strop „ročního nároku na podporu" dle odst. 27 věty druhé (8 mil. Kč). Pro písm. h) se však strop ročního nároku NEUPLATNÍ — odst. 27 věta třetí ho z výjimek (mj. písm. h)) výslovně vylučuje, takže horní hranice je 50 000 000 Kč.
+
+**5. Řešení.** SEI uloží jednu pokutu podle absorpční zásady (§ 41 PřestZ) za přísněji postižitelný přestupek — zde písm. h) s horní hranicí 50 mil. Kč (strop ročního nároku se neuplatní), k písm. m) přihlédne jako k přitěžující okolnosti. Konkrétní výši určí podle § 37–40 PřestZ (závažnost, následek, polehčující okolnosti). Výrobce se může liberovat (§ 21 PřestZ) prokázáním, že vynaložil veškeré úsilí — např. selhání bylo způsobeno prokazatelnou poruchou systému OTE na straně operátora.
+
+**6. Varianty.** (a) Kdyby šlo jen o písm. m) (a nikoli h)), strop pokuty by byl roční nárok 8 mil. Kč. (b) Šlo-li by o přestupek podle odst. 23 písm. a) (vodík) nebo odst. 26 písm. a)/c), pokuta by se nestanovila „do" částky, nýbrž výpočtem (množství × sazba) dle odst. 28–30 — bez správního uvážení o výši.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Strop ročního nároku na podporu musí platit pro všechny přestupky výrobce." Neutralizace: odst. 27 věta třetí výslovně vyjímá písm. h), odst. 2, odst. 4 písm. a), odst. 5 písm. e) a odst. 6 písm. e) — u nich strop neplatí.
+- *Protiargument:* „Za dva skutky musí být dvě pokuty." Neutralizace: subsidiárně se uplatní absorpční zásada § 41 PřestZ — ukládá se jedna pokuta za nejpřísněji postižitelný přestupek.
+- *Slabé místo:* odst. 11 písm. b) (a shodně odst. 15) obsahuje pravděpodobnou legislativní chybu („dále registruje" namísto „neregistruje"); subsumpce takto formulované skutkové podstaty může narazit na zásadu nullum crimen sine lege certa a být obtížně vymahatelná.
+
+#### H. Praktický závěr
+
+§ 49 je subjektově členěný katalog 27 skupin skutkových podstat se třemi režimy sankce: paušální strop 50 mil. Kč (případně omezený ročním nárokem na podporu, s výjimkami v odst. 27), a tři výpočtové sazby (odst. 28–30: vodík, biometán/RFNBO, emise). Procesně se subsidiárně řídí zákonem č. 250/2016 Sb.
+
+**Checklist (advokát / SEI / adresát normy):**
+- [ ] Pod který odstavec/písmeno § 49 jednání spadá a jaké je porušené primární ustanovení?
+- [ ] Uplatní se strop „ročního nároku na podporu" (odst. 27 v. 2), nebo jde o vyňatou výjimku (odst. 27 v. 3)?
+- [ ] Jde o paušální sazbu (50 mil.), nebo o výpočtovou sazbu (odst. 28–30)?
+- [ ] Je dán souběh více přestupků? (absorpční zásada § 41 PřestZ)
+- [ ] Je možná liberace dle § 21 PřestZ (veškeré úsilí, vnější příčina)?
+
+**Typicky rozhodné důkazy / podklady:** evidence OTE o předaných/nepředaných údajích, ověřovací listy měřidel, dokumentace paliva (§ 39), výzvy SEI, doklad o ročním nároku na podporu (pro výpočet stropu), u výpočtových sazeb údaje o množství (MJ, kg emisí).
+
 ---
 
 ### § 49a — Přestupky dodavatele leteckého paliva
@@ -434,6 +507,42 @@ Zákon konstruuje dvě skupiny přestupků s odlišnou přísností:
 
 Odst. 3 zavádí výjimečný režim **absolutní přestupkové odpovědnosti** — dodavatel se nemůže zprostit odpovědnosti liberačním důvodem. Zároveň zákon explicitně vylučuje trest **propadnutí věci nebo náhradní hodnoty** a vylučuje upuštění od trestu (§ 44 PřestZ) i podmíněné upuštění od trestu (§ 46 PřestZ). Tato přísnost odpovídá závažnosti manipulace s daty o leteckých palivech, jež by mohla mít dopad na bezpečnost letecké dopravy i na plnění cílů EU v oblasti dekarbonizace.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dodavatel leteckého paliva (právnická osoba) dodá v daném vykazovaném období na pražské letiště letecké palivo, které neobsahuje minimální podíl udržitelných leteckých paliv stanovený nařízením ReFuelEU Aviation [odst. 1 písm. a)]. Současně do databáze EU vykáže nepřesné údaje o obsahu SAF [odst. 1 písm. d)]. SEI věc zjistí z databáze EU a součinnosti provozovatele letiště. Dodavatel namítá, že nesplnění zavinil výpadek dodávek SAF od subdodavatele a žádá o liberaci a o mimořádné snížení pokuty.
+
+**2. Právní otázka.** Lze dodavatele liberovat z odpovědnosti za přestupek podle odst. 1 písm. a) a d) a lze mu mimořádně snížit pokutu pod dolní hranici sazby stanovené nařízením EU?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 49a odst. 1 písm. a) a d); odst. 3 (absolutní odpovědnost, zákaz liberace, zákaz upuštění a mimořádného snížení).
+- *Související ustanovení téhož zákona:* § 48 odst. 2 (SEI jako příslušný orgán); § 50 (promlčení a příslušnost).
+- *Související předpisy:* nařízení (EU) 2023/2405 (ReFuelEU Aviation) — určuje povinnosti i dolní hranici sazby pokuty; zákon č. 250/2016 Sb. — § 44 (upuštění od trestu), § 46 (podmíněné upuštění), § 47 (mimořádné snížení), které § 49a odst. 3 výslovně vylučuje.
+- *Judikatura:* nosný závěr SDEU, že vnitrostátní sankce za porušení přímo použitelného nařízení EU musí být účinné, přiměřené a odrazující; absolutní (přísnější) odpovědnost je s tím slučitelná.
+
+**4. Subsumpce.** Jednání pod písm. a) (dodávka paliva bez minimálního podílu) a písm. d) (zavádějící/nepřesné údaje do databáze EU) spadají do „nejpřísnější" skupiny odst. 3. Pro tuto skupinu zákon vylučuje liberaci („nemůže se zprostit"), takže výpadek subdodavatele nemá liberační účinek. Pokuta se ukládá od dolní hranice sazby dle nařízení EU do jejího dvojnásobku; mimořádné snížení (§ 47 PřestZ) ani upuštění od trestu jsou vyloučeny.
+
+**5. Řešení.** Liberace je vyloučena (odst. 3 věta první). SEI uloží pokutu v rozmezí od dolní hranice sazby EU do jejího dvojnásobku, nemůže ji snížit pod tuto dolní hranici ani upustit od trestu, ani uložit propadnutí věci. Argument výpadku subdodavatele lze zohlednit nanejvýš při volbě konkrétní výše v rámci zákonného rozpětí (blíže dolní hranici), nikoli k vyloučení odpovědnosti či podkročení dolní hranice.
+
+**6. Varianty.** (a) Šlo-li by jen o přestupek podle písm. b), c), e), f) nebo g) [odst. 2], uplatnila by se standardní sazba do 50 mil. Kč a liberace dle § 21 PřestZ by byla možná. (b) Pokud by dodavatel prokázal, že vůbec nebyl „dodavatelem leteckého paliva" ve smyslu nařízení (nesplnění definičního znaku subjektu), odpovědnost by nevznikla bez ohledu na přísnost odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Absolutní odpovědnost bez možnosti liberace odporuje zásadě zavinění." Neutralizace: jde o legitimní zpřísnění odpovídající závažnosti a unijnímu požadavku odrazujících sankcí; obdobné absolutní delikty zná i jiné veřejné právo.
+- *Protiargument:* „Pokutu lze mimořádně snížit pro zjevnou nepřiměřenost." Neutralizace: odst. 3 výslovně vylučuje mimořádné snížení i (podmíněné) upuštění od trestu — § 47 a § 44/46 PřestZ se nepoužijí.
+- *Slabé místo:* dolní hranice sazby je určena nařízením EU, nikoli českým zákonem; její konkrétní výše vyžaduje aktuální znění nařízení 2023/2405 a může se vyvíjet — riziko nesprávného určení rozpětí.
+
+#### H. Praktický závěr
+
+§ 49a zavádí dvouúrovňový sankční režim za porušení nařízení ReFuelEU Aviation: méně závažné přestupky (odst. 2) se sazbou do 50 mil. Kč a liberací, a nejzávažnější přestupky (odst. 3, písm. a/d/h) s absolutní odpovědností, sazbou od dolní hranice EU do dvojnásobku a zákazem liberace, upuštění i mimořádného snížení.
+
+**Checklist (advokát / SEI / adresát normy):**
+- [ ] Je subjekt „dodavatelem leteckého paliva" ve smyslu nařízení 2023/2405?
+- [ ] Spadá jednání do odst. 2 (mírnější), nebo odst. 3 (písm. a/d/h — nejpřísnější)?
+- [ ] U odst. 3: je vyloučena liberace, mimořádné snížení, upuštění od trestu a propadnutí věci?
+- [ ] Je správně určena dolní hranice sazby dle aktuálního znění nařízení EU a dvojnásobek jako horní hranice?
+
+**Typicky rozhodné důkazy / podklady:** záznamy z databáze EU pro paliva, údaje od provozovatele letiště, doklady o složení a podílu SAF/syntetických paliv, vykazované zprávy dodavatele, aktuální znění nařízení 2023/2405 pro sazby.
+
 ---
 
 ### § 50 — Společná ustanovení k přestupkům
@@ -462,6 +571,42 @@ Prodloužení je odůvodněno **specifiky sektoru podporovaných zdrojů**: pře
 #### Příslušnost SEI k projednávání přestupků (odst. 2)
 
 Všechny přestupky podle §§ 49 a 49a projednává **Státní energetická inspekce (SEI)**. SEI je věcně příslušná bez výjimky — zákon nestanoví alternativní příslušnost jiného orgánu (celní úřad projednává správu placení, nikoliv přestupky samotné). Místní příslušnost se řídí obecnými pravidly správního řádu a zákona o SEI. Odvolacím orgánem vůči rozhodnutím SEI je ústřední inspektorát SEI, případně věcně příslušné ministerstvo v zákonem stanovených případech.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobce manipuloval s měřicím zařízením v roce 2021, čímž navyšoval vykazovanou výrobu a čerpanou podporu. SEI poruchu odhalí až při auditu v roce 2025. Mezitím v roce 2024 SEI vydala výzvu ke sdělení údajů. Výrobce v roce 2026, kdy SEI zahajuje přestupkové řízení, namítá promlčení s odkazem na tříletou promlčecí dobu podle § 30 zákona č. 250/2016 Sb.
+
+**2. Právní otázka.** Je odpovědnost za přestupek spáchaný v roce 2021 v roce 2026 již promlčena, použije-li se modifikovaná promlčecí doba podle § 50 odst. 1 POZE?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 50 odst. 1 — promlčecí doba 5 let; při přerušení zánik nejpozději 8 let od spáchání; odst. 2 — příslušnost SEI.
+- *Související ustanovení téhož zákona:* § 49 (skutkové podstaty), § 31 (sektorové šetření), § 47ba (audity) jako typické zdroje pozdního zjištění.
+- *Související předpisy:* zákon č. 250/2016 Sb. — § 30 (obecná promlčecí doba 3 roky), § 32 (přerušení a stavení promlčecí doby); POZE je vůči nim lex specialis.
+- *Judikatura:* nosný závěr, že zvláštní zákon může prodloužit promlčecí dobu přestupku oproti obecné úpravě; úkony směřující ke zjištění přestupku/pachatele promlčecí dobu přerušují.
+
+**4. Subsumpce.** Přestupek byl spáchán 2021. Podle § 50 odst. 1 je promlčecí doba 5 let, tj. by uplynula 2026; výzva SEI z roku 2024 je úkonem směřujícím ke zjištění přestupku a promlčecí dobu přerušuje (§ 32 odst. 2 PřestZ), čímž běží nová pětiletá doba. Absolutní zánik nastane nejpozději 8 let od spáchání, tj. 2029.
+
+**5. Řešení.** Námitka promlčení je nedůvodná. Aplikuje se speciální pětiletá doba (nikoli tříletá obecná), navíc přerušená výzvou z roku 2024; v roce 2026 odpovědnost ani po standardní době, ani po absolutní osmileté lhůtě nezanikla. Řízení vede a o přestupku rozhoduje SEI (odst. 2). Procesně je třeba doložit datum spáchání, datum a obsah přerušujícího úkonu a běh lhůt.
+
+**6. Varianty.** (a) Pokud by nebyl učiněn žádný přerušující úkon, odpovědnost by zanikla uplynutím 5 let (2026) — řízení zahájené po tomto datu by bylo nepřípustné. (b) U trvajícího/pokračujícího přestupku se počátek běhu doby posouvá k okamžiku ukončení protiprávního stavu, což může promlčení dále oddálit.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Platí obecná tříletá promlčecí doba dle přestupkového zákona." Neutralizace: § 50 odst. 1 POZE je lex specialis a stanoví 5 let (resp. 8 let absolutně); obecná úprava se neuplatní.
+- *Protiargument:* „Výzva ke sdělení údajů není úkonem přerušujícím promlčení." Neutralizace: jde o úkon směřující ke zjištění přestupku a pachatele dle § 32 PřestZ, jenž promlčecí dobu přerušuje.
+- *Slabé místo:* určení přesného data spáchání u skrytých manipulací s měřením může být důkazně obtížné; chybné určení počátku běhu lhůty ohrožuje celé řízení.
+
+#### H. Praktický závěr
+
+§ 50 modifikuje obecnou úpravu přestupkového zákona: promlčecí doba je 5 let (místo 3) a absolutní zánik odpovědnosti nastává nejpozději 8 let od spáchání (místo 5) při přerušení. Všechny přestupky podle §§ 49 a 49a projednává výlučně SEI.
+
+**Checklist (advokát / SEI):**
+- [ ] Kdy byl přestupek spáchán (počátek běhu 5leté doby)?
+- [ ] Byl učiněn úkon přerušující promlčecí dobu (§ 32 PřestZ) a kdy?
+- [ ] Neuplynula již absolutní 8letá lhůta od spáchání?
+- [ ] Je řízení vedeno věcně příslušnou SEI?
+
+**Typicky rozhodné důkazy / podklady:** protokoly o kontrole a auditu s datací, evidence úkonů SEI (výzvy, zahájení řízení) prokazujících přerušení, dokumentace o trvání protiprávního stavu.
 
 ---
 
@@ -507,6 +652,43 @@ Na řízení o neoprávněně čerpané podpoře se použije **správní řád**
 
 Správu placení (inkaso, vymáhání, úrokování) neoprávněně čerpané podpory vykonávají **celní úřady** (nikoliv SEI ani finanční úřady). Výrobce má při správě placení postavení **daňového subjektu** ve smyslu daňového řádu. Tím se na vymáhání neoprávněně čerpané podpory uplatní — subsidiárně — zákon č. 280/2009 Sb. (daňový řád), nikoliv zákon č. 99/1963 Sb. (OSŘ). Lhůta pro stanovení neoprávněně čerpané podpory (10 let) je podstatně delší než obecné promlčecí lhůty soukromého práva a je srovnatelná s lhůtou pro stanovení daně dle § 160 daňového řádu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobce po několik let čerpal zelený bonus na elektřinu vyšší, než mu příslušelo, protože nesprávně zahrnul do podporované výroby i elektřinu spotřebovanou na technologickou vlastní spotřebu. SEI ho na to upozorní výzvou a vyzve k vrácení. Výrobce část (za poslední rok) dobrovolně vrátí ještě před vydáním rozhodnutí, zbytek odmítne s tím, že nejde o neoprávněné čerpání.
+
+**2. Právní otázka.** Podléhá dobrovolně vrácená část úroku z prodlení a v jaké lhůtě lze stanovit neoprávněně čerpanou podporu za zbývající období?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 51 odst. 1 (rozhodnutí SEI ex officio), odst. 2 (úhrada do 30 dnů + úrok z prodlení), odst. 3 (dobrovolné vrácení před rozhodnutím), odst. 4 (správa placení celním úřadem, 10letá lhůta).
+- *Související ustanovení téhož zákona:* § 50 (přestupková promlčecí doba — odlišná od 10leté lhůty zde), § 48 (kontrola), § 54 (zachování starých nároků).
+- *Související předpisy:* zákon č. 280/2009 Sb. (daňový řád) — úrok z prodlení, postavení daňového subjektu, § 160 (lhůta pro placení); zákon č. 500/2004 Sb. (správní řád) — procesní rámec řízení o neoprávněném čerpání.
+- *Judikatura:* nosný závěr, že institut vrácení veřejné podpory čerpané bez právního titulu má restituční, nikoli trestní povahu; je oddělen od přestupkové odpovědnosti a může s ní souběžně existovat.
+
+**4. Subsumpce.** Čerpání podpory v nesprávné (vyšší) výši naplňuje pojem „neoprávněné čerpání" dle odst. 1. Dobrovolně vrácená část na výzvu před rozhodnutím se podle odst. 3 za neoprávněné čerpání nepovažuje — nepodléhá tedy úroku z prodlení dle odst. 2 písm. b). Pro zbývající období SEI rozhodne ex officio; částku lze stanovit do 10 let od 1. ledna roku následujícího po roce neoprávněného čerpání.
+
+**5. Řešení.** SEI vydá rozhodnutí o neoprávněném čerpání jen pro nevrácenou část; tu je výrobce povinen uhradit do 30 dnů od právní moci do státního rozpočtu a uhradit úrok z prodlení (max. do výše neoprávněného čerpání). Dobrovolně vrácená část úroku nepodléhá. Správu placení (vymáhání, úroky) vykonává celní úřad, kde má výrobce postavení daňového subjektu. Souběžně může SEI vést přestupkové řízení (§ 49) — instituty se nevylučují.
+
+**6. Varianty.** (a) Pokud by výrobce vrátil dobrovolně celou částku před rozhodnutím, řízení o neoprávněném čerpání by ztratilo předmět a úrok by se neuplatnil. (b) Šlo-li by o podporu čerpanou podle z. 180/2005 Sb., institut by se uplatnil i zde — odst. 1 výslovně kryje i „předchozí právní předpisy".
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vrácení podpory je sankce, proto platí přestupková promlčecí doba 5 let." Neutralizace: jde o restituční institut se samostatnou 10letou lhůtou dle odst. 4, oddělený od přestupkové odpovědnosti (§ 50).
+- *Protiargument:* „Dobrovolně vrácená částka má být rovněž úročena." Neutralizace: odst. 3 ji výslovně vyjímá z pojmu neoprávněného čerpání, takže úrok z prodlení dle odst. 2 písm. b) na ni nedopadá.
+- *Slabé místo:* okamžik „před vydáním rozhodnutí" a vazba na „výzvu SEI" mohou být sporné; je třeba doložit, že vrácení proběhlo na výzvu a před rozhodnutím.
+
+#### H. Praktický závěr
+
+§ 51 zavádí restituční institut vrácení neoprávněně (nebo v nesprávné výši) čerpané podpory do státního rozpočtu, oddělený od přestupkové odpovědnosti. O něm rozhoduje SEI ex officio (správní řád), správu placení s úrokem z prodlení vykonává celní úřad (daňový řád, postavení daňového subjektu), a to ve lhůtě 10 let. Dobrovolné vrácení na výzvu před rozhodnutím vylučuje úrok.
+
+**Checklist (advokát / SEI / celní úřad / výrobce):**
+- [ ] Jde o čerpání bez vzniku práva, nebo v nesprávné výši (odst. 1)?
+- [ ] Bylo část/celek vráceno dobrovolně na výzvu před rozhodnutím (odst. 3 — bez úroku)?
+- [ ] Byla dodržena 10letá lhůta pro stanovení (odst. 4)?
+- [ ] Je úrok z prodlení vyčíslen dle daňového řádu a omezen výší neoprávněného čerpání?
+- [ ] Vede se souběžně přestupkové řízení dle § 49?
+
+**Typicky rozhodné důkazy / podklady:** vyúčtování podpory a podklady o skutečné oprávněné výši, výzva SEI a doklad o dobrovolném vrácení, rozhodnutí SEI o neoprávněném čerpání, výpočet úroku z prodlení, evidence celního úřadu.
+
 ---
 
 ### § 52 — Rozhodování sporů
@@ -530,6 +712,42 @@ Věcný rozsah sporů zahrnuje:
 - úhradu podpory biometanu (zelené bonusy, aukční bonusy).
 
 Typickými účastníky sporu budou výrobce (příjemce podpory) na jedné straně a operátor trhu nebo povinně vykupující na straně druhé. Procesní rámec poskytuje energetický zákon (zákon č. 458/2000 Sb.), který ERÚ svěřuje rozhodovací pravomoc ve sporech na energetickém trhu. Rozhodnutí ERÚ je přezkoumatelné správním soudem (§ 65 a násl. SŘS).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor trhu odmítne výrobci uhradit zelený bonus na elektřinu za část období s odůvodněním, že výrobce nesplnil podmínky předání naměřených hodnot. Výrobce tvrdí, že hodnoty řádně předal a požaduje úhradu bonusu. Strany se nedohodnou; výrobce zvažuje, zda podat žalobu k civilnímu soudu, nebo návrh k ERÚ.
+
+**2. Právní otázka.** Který orgán je příslušný rozhodnout spor o splnění povinnosti uhradit zelený bonus — civilní soud, nebo Energetický regulační úřad?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52 — ERÚ rozhoduje spory o splnění povinnosti úhrady podpory elektřiny (OZE, druhotné zdroje, VKVET), tepla, přechodné transformační podpory tepla a podpory biometanu.
+- *Související ustanovení téhož zákona:* § 9 a § 26 (úhrada zelených bonusů), § 13 (toky plateb přes OTE), § 49 odst. 14 (přestupek OTE při neuhrazení bonusu).
+- *Související předpisy:* zákon č. 458/2000 Sb. (energetický zákon) — procesní rámec rozhodování sporů ERÚ; zákon č. 500/2004 Sb. (správní řád); zákon č. 150/2002 Sb. (SŘS) pro soudní přezkum rozhodnutí ERÚ; § 7 OSŘ (rozhraničení civilní a správní pravomoci).
+- *Judikatura:* nosný závěr, že byla-li rozhodovací pravomoc o určitém soukromoprávním sporu svěřena zvláštním zákonem správnímu orgánu, je pravomoc civilního soudu vyloučena; rozhodnutí správního orgánu pak přezkoumává správní soud.
+
+**4. Subsumpce.** Spor o úhradu zeleného bonusu na elektřinu spadá pod „splnění povinnosti úhrady podpory elektřiny z obnovitelných zdrojů" dle § 52. Tím je pravomoc k rozhodnutí svěřena ERÚ (správní arbitráž), nikoli civilnímu soudu. Civilní žaloba by byla odmítnuta pro nedostatek pravomoci soudu (§ 7 OSŘ).
+
+**5. Řešení.** Výrobce má podat návrh na rozhodnutí sporu k ERÚ, který rozhodne jako první instance; proti rozhodnutí je přípustný rozklad a následně žaloba ve správním soudnictví (§ 65 a násl. SŘS). Civilní žalobu nelze úspěšně podat. Procesně: vymezit předmět sporu (částka, období), doložit předání hodnot a vznik nároku na bonus.
+
+**6. Varianty.** (a) Jde-li o spor čistě smluvní povahy nesouvisející s úhradou zákonné podpory (např. náhrada škody z jiného titulu), pravomoc ERÚ podle § 52 se neuplatní a věc patří civilnímu soudu. (b) Týká-li se spor podpory biometanu nebo přechodné transformační podpory tepla, pravomoc ERÚ je dána stejně — § 52 je výslovně zahrnuje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nárok na úhradu bonusu je soukromoprávní, proto patří civilnímu soudu." Neutralizace: § 52 jako zvláštní zákon svěřuje rozhodování tohoto sporu ERÚ; pravomoc civilního soudu je tím vyloučena.
+- *Protiargument:* „Rozhodnutí ERÚ je konečné a nepřezkoumatelné." Neutralizace: rozhodnutí ERÚ podléhá rozkladu a soudnímu přezkumu ve správním soudnictví (§ 65 a násl. SŘS).
+- *Slabé místo:* hranice mezi sporem „o úhradu podpory" (ERÚ) a jiným energetickým či smluvním sporem může být nejasná; chybná volba fóra vede k odmítnutí návrhu/žaloby a ztrátě času.
+
+#### H. Praktický závěr
+
+§ 52 svěřuje ERÚ pravomoc rozhodovat spory o splnění povinnosti uhradit podporu elektřiny (OZE, druhotné zdroje, VKVET), tepla, přechodné transformační podpory tepla a podpory biometanu — jde o správní arbitráž s vyloučením civilního soudu a s následným soudním přezkumem.
+
+**Checklist (advokát / výrobce / OTE / povinně vykupující):**
+- [ ] Je předmětem sporu úhrada podpory vyjmenované v § 52? (pak ERÚ, ne civilní soud)
+- [ ] Je návrh podán k ERÚ jako první instanci?
+- [ ] Je vyčerpán rozklad před podáním správní žaloby (§ 65 a násl. SŘS)?
+- [ ] Je řádně vymezena částka, období a titul nároku na podporu?
+
+**Typicky rozhodné důkazy / podklady:** doklady o předání naměřených hodnot OTE, vyúčtování a registrace formy podpory, korespondence o odmítnutí úhrady, smluvní dokumentace, výpočet sporné částky.
 
 ---
 
@@ -694,6 +912,42 @@ Zmocnění MPO je výjimečně rozsáhlé — zahrnuje 38 věcných oblastí (p�
 
 ERÚ vydává zejm. vyhlášky o: (i) technicko-ekonomických parametrech pro výkupní ceny a zelené bonusy, (ii) době životnosti výroben, (iii) termínech a postupech registrace a volby formy podpory, (iv) způsobu stanovení čtvrthodinového zeleného bonusu a aukčního bonusu, (v) způsobu účtování složek ceny přenosu a distribuce na podporu. Tyto vyhlášky ERÚ mají přímý ekonomický dopad na výrobce a jsou každoročně aktualizovány (zejm. cenové rozhodnutí ERÚ o výkupních cenách pro nové zdroje).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobce v řízení o neoprávněném čerpání podpory namítá, že prováděcí vyhláška ERÚ, podle níž SEI vypočetla podporovanou výrobu, překračuje zákonné zmocnění § 53, neboť do výpočtu zavádí parametr, který zákon výslovně nepředvídá. Současně namítá, že povinnost technického měření je upravena vyhláškou MPO, ačkoli podle něj měla být věc svěřena ERÚ.
+
+**2. Právní otázka.** Drží se napadené vyhlášky v mezích zákonného zmocnění § 53 a je dodrženo rozdělení zmocňovací pravomoci mezi MPO (odst. 1) a ERÚ (odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 53 odst. 1 (zmocnění MPO, písm. a–al — technické a procesní parametry) a odst. 2 (zmocnění ERÚ, písm. a–m — ekonomické a regulační parametry).
+- *Související ustanovení téhož zákona:* hmotněprávní ustanovení, k nimž se zmocnění váže (§ 11a měření, § 45a–45f záruky původu, § 47ba kritéria udržitelnosti aj.).
+- *Související předpisy:* čl. 79 odst. 3 Ústavy (vyhláška jen na základě a v mezích zákona, v rozsahu zmocnění); zákon č. 458/2000 Sb. (postavení ERÚ); judikatura ÚS k podzákonným předpisům.
+- *Judikatura:* nosný závěr ÚS, že prováděcí předpis nesmí stanovit povinnosti nad rámec zákona ani upravovat věci, k nimž chybí zmocnění (zákaz „samostatné" normotvorby exekutivy); zmocnění musí být dostatečně určité.
+
+**4. Subsumpce.** Spadá-li parametr výpočtu pod některé z písmen odst. 1 (technické/měřicí parametry → MPO) nebo odst. 2 (cenové/ekonomické → ERÚ), je vyhláška v mezích zmocnění. Měření a vykazování (technický rozměr) náleží MPO (odst. 1 písm. l, m, q, r aj.); výkupní ceny, bonusy a doba životnosti (ekonomický rozměr) náleží ERÚ (odst. 2 písm. a, b, h). Zavádí-li vyhláška parametr bez opory v žádném písmenu zmocnění, překračuje meze.
+
+**5. Řešení.** Soud (správní, případně ÚS v řízení o zrušení podzákonného předpisu) posoudí, zda napadené ustanovení vyhlášky má oporu v konkrétním písmenu § 53 a zda nepřekračuje zákonný rámec. Pokud parametr náleží do působnosti MPO a byl vydán ERÚ (nebo naopak), jde o překročení zmocnění a vyhláška je v této části neaplikovatelná (čl. 95 odst. 1 Ústavy — soud neaplikuje podzákonný předpis odporující zákonu). SEI musí výpočet opřít o platné a kompetenčně správné ustanovení.
+
+**6. Varianty.** (a) Má-li napadený parametr jednoznačnou oporu v textu zmocnění a je vydán věcně příslušným orgánem, námitka neuspěje. (b) Jde-li o oblast (např. ekonomická hodnota podpory), kterou zákon svěřuje výslovně ERÚ, a upravila by ji vyhláška MPO, šlo by o kompetenční exces bez ohledu na věcnou správnost obsahu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vyhláška může upřesnit cokoli technicky potřebného." Neutralizace: prováděcí předpis se musí držet v mezích konkrétního zmocnění (čl. 79 odst. 3 Ústavy); nelze stanovit povinnosti nad rámec zákona.
+- *Protiargument:* „Rozdělení mezi MPO a ERÚ je formalita." Neutralizace: jde o kompetenční rozdělení; vydání vyhlášky věcně nepříslušným orgánem je vadou zakládající neaplikovatelnost.
+- *Slabé místo:* šíře zmocnění MPO (38 položek) je značná a hranice mezi „technickým" a „ekonomickým" parametrem může být v hraničních případech sporná, což ztěžuje posouzení excesu.
+
+#### H. Praktický závěr
+
+§ 53 rozděluje prováděcí normotvorbu mezi MPO (odst. 1 — 38 technicko-procesních oblastí) a ERÚ (odst. 2 — 13 ekonomicko-regulačních oblastí). Vyhlášky obou orgánů jsou podzákonné předpisy vázané na zákonné zmocnění (čl. 79 odst. 3 Ústavy); překročení mezí nebo kompetence vede k jejich neaplikovatelnosti soudem.
+
+**Checklist (advokát / normotvůrce / soud):**
+- [ ] Má napadené ustanovení vyhlášky oporu v konkrétním písmenu § 53?
+- [ ] Vydal vyhlášku věcně příslušný orgán (MPO pro odst. 1, ERÚ pro odst. 2)?
+- [ ] Nestanoví vyhláška povinnosti nad rámec zákona (čl. 79 odst. 3 Ústavy)?
+- [ ] Lze ji v případě excesu napadnout (čl. 95 odst. 1 Ústavy — neaplikace; návrh na zrušení podzákonného předpisu)?
+
+**Typicky rozhodné důkazy / podklady:** text napadené vyhlášky a odkaz na konkrétní písmeno zmocnění, hmotněprávní ustanovení POZE, k němuž se zmocnění váže, srovnání působnosti MPO a ERÚ, příp. cenové rozhodnutí ERÚ.
+
 ---
 
 ### § 54 — Přechodná ustanovení
@@ -772,6 +1026,43 @@ ERÚ vydává zejm. vyhlášky o: (i) technicko-ekonomických parametrech pro v�
 
 Odst. 1 a 2 výslovně vylučují aplikaci § 4 odst. 4, 5 a 8 a § 12 odst. 6 POZE na staré výrobny. Jde o ustanovení týkající se podmínek způsobilosti (§ 4 odst. 4 — omezení pro výrobny ze záporné čtvrthodinové ceny, odst. 5 — podmínky instalovaného výkonu, odst. 8 — podmínky pro registraci) a odvodu za prodej elektřiny (§ 12 odst. 6). Výrobci starých výroben jsou tak chráněni před zpětným uplatněním zpřísněných podmínek POZE.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel fotovoltaické elektrárny uvedené do provozu v roce 2010, který čerpal podporu výkupními cenami podle zákona č. 180/2005 Sb., se po nabytí účinnosti POZE domáhá, aby mu byla zachována výše výkupní ceny dle starých předpisů po celou dobu životnosti výrobny. ERÚ následně cenovým rozhodnutím stanoví podporu; provozovatel namítá, že na něj byly zpětně uplatněny zpřísněné podmínky § 4 POZE.
+
+**2. Právní otázka.** Transformuje se starý nárok na výkupní ceny dle z. 180/2005 Sb. v nárok podle POZE se zachováním výše, a vztahují se na takovou „starou" výrobnu zpřísňující ustanovení § 4 odst. 4, 5 a 8 a § 12 odst. 6 POZE?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 54 odst. 1 (transformace nároku na výkupní ceny; ERÚ stanoví výši dle starých postupů; vyloučení § 4 odst. 4, 5, 8 a § 12 odst. 6), odst. 5 (trvání nároku po dobu životnosti dle starých předpisů).
+- *Související ustanovení téhož zákona:* § 4 (podmínky způsobilosti), § 10 odst. 2 (povinnost povinně vykupujícího), § 12 odst. 6 (odvod), § 55 (zrušení z. 180/2005 Sb.).
+- *Související předpisy:* zákon č. 180/2005 Sb. (ve znění před z. 330/2010 Sb.) jako zdroj původního nároku; čl. 1 odst. 1 Ústavy a ochrana legitimního očekávání a nabytých práv.
+- *Judikatura:* nosný závěr ÚS (k tzv. solárnímu odvodu) o ústavní přípustnosti změn podpory za podmínky zachování garantované patnáctileté návratnosti investice a ochrany legitimního očekávání; zákaz pravé retroaktivity.
+
+**4. Subsumpce.** Výrobna uvedená do provozu před účinností POZE s nárokem na výkupní ceny dle z. 180/2005 Sb. spadá pod odst. 1: nárok se transformuje v nárok dle POZE, ERÚ stanoví výši tak, aby odpovídala starým postupům, a po dobu životnosti dle starých předpisů trvá (odst. 5). Zpřísňující § 4 odst. 4, 5, 8 a § 12 odst. 6 se na ni dle odst. 1 výslovně nevztahují.
+
+**5. Řešení.** Provozovateli zůstává zachována výše podpory ekvivalentní starým pravidlům po dobu životnosti výrobny; ERÚ nesmí na něj aplikovat vyloučená zpřísňující ustanovení. Námitka zpětného uplatnění § 4 je důvodná pouze tehdy, pokud ERÚ skutečně tato vyloučená ustanovení použil; pak je rozhodnutí v rozporu s odst. 1. Procesně: doložit datum uvedení do provozu, čerpání dle z. 180/2005 Sb. a obsah cenového rozhodnutí ERÚ.
+
+**6. Varianty.** (a) Šlo-li by o elektřinu vyráběnou společně z OZE a neOZE (mimo VKVET), podpora dle starých předpisů by trvala jen do 31. 12. 2015 (odst. 6) — nárok by tedy nepokračoval po dobu životnosti. (b) Šlo-li by o výrobnu dosud nepřipojenou připojenou později, považovala by se za uvedenou do provozu v roce 2011 (odst. 3) a nárok by byl podmíněn předchozím uplatňováním podpory dle z. 180/2005 Sb. ve znění před z. 330/2010 Sb.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „POZE jako nový zákon plně nahradil staré nároky, výše není garantována." Neutralizace: § 54 odst. 1 a 5 výslovně zachovávají výši a dobu trvání nároku dle starých předpisů; jde o ochranu nabytých práv.
+- *Protiargument:* „Zpřísňující podmínky § 4 platí pro všechny výrobny." Neutralizace: odst. 1 a 2 je na staré výrobny výslovně vylučují (§ 4 odst. 4, 5, 8 a § 12 odst. 6).
+- *Slabé místo:* hranice mezi přípustnou nepravou retroaktivitou (změna pravidel do budoucna) a nepřípustným zásahem do nabytých práv je v praxi sporná; argumentace musí stát na judikatuře ÚS o zachování návratnosti investice.
+
+#### H. Praktický závěr
+
+§ 54 zajišťuje právní kontinuitu: staré nároky na podporu dle z. 180/2005 Sb. se transformují v nároky dle POZE se zachováním výše (ERÚ dle starých postupů) a doby trvání (po dobu životnosti výrobny), přičemž vybraná zpřísňující ustanovení POZE se na staré výrobny nepoužijí. Zvláštní pravidla platí pro spolu-spalování (jen do 31. 12. 2015), nepřipojené výrobny a přechod práv na OTE.
+
+**Checklist (advokát / výrobce / ERÚ):**
+- [ ] Kdy byla výrobna uvedena do provozu a podle jakého předpisu vznikl nárok (z. 180/2005 Sb.)?
+- [ ] Jde o výkupní ceny (odst. 1), zelené bonusy (odst. 2), VKVET/druhotné (odst. 4), nebo spolu-spalování (odst. 6, jen do 31. 12. 2015)?
+- [ ] Stanovil ERÚ výši podpory tak, aby odpovídala starým postupům?
+- [ ] Nebyla na starou výrobnu uplatněna vyloučená ustanovení (§ 4 odst. 4, 5, 8; § 12 odst. 6)?
+- [ ] Je zachována ústavně garantovaná návratnost investice?
+
+**Typicky rozhodné důkazy / podklady:** doklad o datu uvedení do provozu a licenci, evidence čerpání podpory dle z. 180/2005 Sb., cenová rozhodnutí ERÚ, smlouvy o výkupu/bonusu, registrace u OTE.
+
 ---
 
 ### § 55 — Zrušovací ustanovení
@@ -801,5 +1092,41 @@ Odst. 1 a 2 výslovně vylučují aplikaci § 4 odst. 4, 5 a 8 a § 12 odst. 6 P
 Zrušení z. 180/2005 Sb. bylo nevyhnutelné, neboť POZE jej komplexně nahrazuje a rozšiřuje o teplo, biometan a další oblasti. Zákon č. 330/2010 Sb. byl zvláště citlivý, neboť zavedl tzv. **solárního odvod** — retroaktivní omezení výkupních cen pro solární elektrárny uvedené do provozu v „zlaté éře" 2009–2010. POZE solární odvod přenesl do vlastního § 7a (srov. díly kapitoly věnující se odvodu) a z. 330/2010 Sb. formálně zrušil; věcná úprava nicméně pokračuje v POZE.
 
 Zrušení se týká výhradně těchto tří předpisů. Ostatní právní předpisy regulující energetický sektor (energetický zákon č. 458/2000 Sb., zákon č. 406/2000 Sb. o hospodaření energií, zákon č. 311/2006 Sb. o pohonných hmotách) jsou POZE pouze novelizovány (viz [08-casti2-7-zmeny-ucinnost.md](08-casti2-7-zmeny-ucinnost.md)), nikoli rušeny.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V soudním sporu o nárok na podporu vzniklém v roce 2011 (před účinností POZE) účastník argumentuje ustanovením zrušeného zákona č. 180/2005 Sb. Protistrana namítá, že zákon byl § 55 POZE zrušen, a proto se ho nelze dovolávat. Spor se týká výkupní ceny za rok 2011 u solární elektrárny dotčené solárním odvodem zavedeným zákonem č. 330/2010 Sb.
+
+**2. Právní otázka.** Lze po zrušení zákona č. 180/2005 Sb. (a jeho novel č. 137/2010 Sb. a 330/2010 Sb.) ustanovením § 55 POZE stále posuzovat práva a povinnosti vzniklé za jejich účinnosti podle zrušeného předpisu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55 — zrušení zákonů č. 180/2005 Sb., 137/2010 Sb. a 330/2010 Sb.
+- *Související ustanovení téhož zákona:* § 54 (přechodná ustanovení — zachování práv a postupů dle starých předpisů), § 7a (převzetí solárního odvodu z. 330/2010 Sb. do POZE).
+- *Související předpisy:* zrušené zákony č. 180/2005 Sb., 137/2010 Sb., 330/2010 Sb.; obecná intertemporální zásada, že právní vztah se posuzuje podle předpisu účinného v době jeho vzniku.
+- *Judikatura:* nosný závěr, že derogace předpisu nepůsobí zpětně na práva a povinnosti vzniklé za jeho účinnosti; ty se i nadále posuzují podle zrušeného předpisu (zákaz pravé retroaktivity); judikatura ÚS k ústavnosti solárního odvodu.
+
+**4. Subsumpce.** § 55 zrušil tři předpisy s účinností ke dni účinnosti POZE (1. 1. 2013). Práva a povinnosti vzniklá před tímto datem (výkupní cena za rok 2011, solární odvod 2011) se však posuzují podle předpisu účinného v době jejich vzniku — tedy podle zrušeného z. 180/2005 Sb. ve znění z. 330/2010 Sb. Derogace působí pouze do budoucna (pro futuro).
+
+**5. Řešení.** Námitka, že zrušený zákon nelze použít, je nedůvodná: na poměry vzniklé před 1. 1. 2013 se nadále vztahuje zrušený z. 180/2005 Sb., jak ostatně potvrzují přechodná ustanovení § 54 (zachování práv a postupů dle „dosavadních právních předpisů"). Věcná úprava solárního odvodu navíc kontinuálně pokračuje v POZE (§ 7a). Soud tedy posoudí nárok za rok 2011 podle zrušeného předpisu.
+
+**6. Varianty.** (a) Šlo-li by o nárok vzniklý až po 1. 1. 2013, aplikoval by se výhradně POZE, neboť staré předpisy již neplatí. (b) Pokud by věc spadala pod § 54 (transformovaný nárok), posuzovala by se výše podle „dosavadních postupů", ale procesně a institucionálně již podle POZE (ERÚ, OTE).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zrušený zákon nelze vůbec aplikovat." Neutralizace: derogace nepůsobí zpětně; práva vzniklá za účinnosti zrušeného předpisu se podle něj nadále posuzují (zákaz pravé retroaktivity, potvrzeno § 54).
+- *Protiargument:* „Zrušením z. 330/2010 Sb. zanikl i solární odvod." Neutralizace: věcná úprava solárního odvodu byla převzata do POZE (§ 7a); zrušení bylo pouze formální derogací duplicitní úpravy.
+- *Slabé místo:* identifikace přesného znění zrušeného předpisu rozhodného pro daný poměr (zejména rozlišení znění před a po z. 330/2010 Sb.) může být náročná a vyžaduje pečlivou intertemporální analýzu.
+
+#### H. Praktický závěr
+
+§ 55 formálně zrušuje zákon č. 180/2005 Sb. a jeho dvě novely (137/2010 Sb. a 330/2010 Sb.) ke dni účinnosti POZE. Derogace působí pouze do budoucna — na práva a povinnosti vzniklá před účinností POZE se zrušené předpisy nadále aplikují (ve spojení s přechodnými ustanoveními § 54). Věcná úprava solárního odvodu pokračuje v POZE (§ 7a).
+
+**Checklist (advokát / soud / správní orgán):**
+- [ ] Kdy vznikl posuzovaný právní vztah — před, nebo po účinnosti POZE (1. 1. 2013)?
+- [ ] Které znění zrušeného předpisu je rozhodné (před/po z. 330/2010 Sb.)?
+- [ ] Použijí se přechodná ustanovení § 54 (zachování práv a postupů)?
+- [ ] Pokračuje věcná úprava (např. solární odvod) v POZE (§ 7a)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o datu vzniku práva/povinnosti, znění zrušených předpisů rozhodné v dané době, cenová rozhodnutí ERÚ z příslušného období, dokumentace k solárnímu odvodu.
 
 ---

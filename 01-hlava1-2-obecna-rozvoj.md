@@ -90,6 +90,43 @@ Odst. 3 zakotvuje **negativní aplikační podmínku**: podpůrná pravidla zák
 
 Praktický dosah odst. 3 je omezující: správní orgány a soudy nemohou přiznat podporu, jestliže by tím ČR porušila unijní pravidla o státní podpoře. Odst. 3 tak představuje expressis verbis přednost unijního práva v oblasti veřejné podpory před vnitrostátní úpravou — platí princip aplikační přednosti nařízení a rozhodnutí Komise.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel bioplynové stanice (s.r.o.) získal na základě dřívějšího rozhodnutí ERÚ provozní podporu formou zeleného bonusu. Po několika letech provozu mu Komise v rámci přezkumu českého režimu podpory OZE oznámí, že schválené rozhodnutí o slučitelnosti se státní podporou stanovilo jako podmínku roční reporting a maximální vnitřní výnosové procento (IRR); provozovatel však tyto podmínky překročil. Operátor trhu zvažuje pozastavení výplaty. Důkazně by bylo třeba obstarat: rozhodnutí Komise o schválení režimu (notifikace), cenové výměry ERÚ, smlouvu/registraci u OTE, ekonomické podklady o dosaženém IRR.
+
+**2. Právní otázka.** Lze provozovateli odepřít (či zpětně krátit) podporu jinak nárokovou podle vnitrostátní úpravy s odkazem na § 1 odst. 3, pokud by její poskytnutí bylo v rozporu s podmínkami rozhodnutí Komise o slučitelnosti veřejné podpory?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 odst. 3 POZE — negativní aplikační klauzule; podpůrná pravidla se nepoužijí, byla-li by podpora v rozporu s unijními pravidly veřejné podpory nebo rozhodnutími Komise.
+- *Související ustanovení téhož zákona:* § 1 odst. 1 písm. e) (financování podpory přes operátora trhu), § 1 odst. 2 písm. d) (zohlednění dopadu na ceny); navazující ustanovení o formách podpory a o roli ERÚ.
+- *Související předpisy:* čl. 107 a 108 SFEU; nařízení Rady (EU) 2015/1589; CEEAG 2022; schvalovací rozhodnutí Komise k českému režimu podpory OZE.
+- *Judikatura:* ustálená judikatura SDEU, podle níž je podpora poskytnutá v rozporu s podmínkami schvalovacího rozhodnutí Komise protiprávní a podléhá navrácení (linie Alcan, Kapferer k mezím právní jistoty u protiprávní podpory); na vnitrostátní úrovni nálezy ÚS potvrzující aplikační přednost unijního práva veřejné podpory (problematika solární daně, sp. zn. Pl. ÚS 17/11).
+
+**4. Subsumpce.** Znak normy „podpora stanovená na základě zákona" je naplněn (zelený bonus). Znak „rozpor s podmínkami rozhodnutí Komise" je sporný — nutno prokázat, že schvalovací rozhodnutí obsahovalo závazné podmínky (IRR cap, reporting) a že byly porušeny. Je-li rozpor prokázán, aktivuje se negativní podmínka a podpora se nepoužije v rozsahu rozporu.
+
+**5. Řešení.** Pokud schvalovací rozhodnutí Komise obsahuje závaznou podmínku přiměřenosti a ta je překročena, § 1 odst. 3 brání poskytnutí podpory v rozporné části; operátor trhu/ERÚ jsou povinni zohlednit přednost unijního práva. Procesně: ověřit text notifikace, vyžádat ekonomické podklady, případně postupovat ke krácení/navrácení nadměrné podpory. Alternativní výklad omezuje § 1 odst. 3 jen na prospektivní stanovení podpory, nikoli na zpětné odnětí — ten je však oslaben principem efektivity unijního práva.
+
+**6. Varianty.** (a) Pokud by schvalovací rozhodnutí žádný IRR cap neobsahovalo, rozpor by nevznikl a § 1 odst. 3 by se neaktivoval. (b) Pokud by šlo o podporu spadající pod blokovou výjimku (GBER) splňující všechny podmínky, nešlo by o „podporu v rozporu" a nárok by zůstal zachován.
+
+#### G. Protiargumenty a rizika
+
+- *Princip právní jistoty a legitimního očekávání.* Provozovatel může namítat ochranu nabytých práv. Neutralizace: SDEU opakovaně připustil, že u protiprávní veřejné podpory legitimní očekávání zpravidla nevzniká, nebyla-li podpora řádně notifikována a schválena; právní jistota ustupuje povinnosti navrácení.
+- *Účel zákona je podporu poskytovat (odst. 2).* Lze argumentovat, že cíle podpory OZE převažují. Neutralizace: odst. 3 je výslovně formulován jako lex specialis omezující odst. 1 a 2; cíle nemohou ospravedlnit porušení čl. 108 SFEU.
+- *Slabé místo:* určení přesného rozsahu „rozporu" vyžaduje detailní ekonomickou analýzu (výpočet IRR), která je zdrojově náročná a může být sporná — to je hlavní důkazní riziko.
+
+#### H. Praktický závěr
+
+§ 1 vymezuje předmět a účel zákona; pro praxi je nejvíce „živé" jeho odst. 3, který podřizuje veškerou podporu unijním pravidlům veřejné podpory. Cílové ustanovení odst. 2 slouží jako výkladové vodítko pro neurčité pojmy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit nárokovanou podporu do některé z oblastí odst. 1 písm. a)–i).
+- [ ] Ověřit existenci a podmínky schvalovacího rozhodnutí Komise / blokové výjimky.
+- [ ] Posoudit, zda poskytnutí podpory neporušuje čl. 107–108 SFEU (odst. 3).
+- [ ] Při výkladu neurčitých pojmů zohlednit cíle odst. 2, zejména písm. d) (dopad na ceny).
+- [ ] Zohlednit transpoziční rámec RED II/RED III při výkladu rozsahu.
+
+**Typicky rozhodné důkazy / podklady:** notifikační/schvalovací rozhodnutí Komise, cenové výměry ERÚ, registrace/smlouva u operátora trhu, ekonomické podklady (IRR, náklady), prováděcí nařízení vlády.
+
 ---
 
 ### § 2 — Základní pojmy
@@ -323,6 +360,43 @@ Praktický dopad těchto definic se projevuje zejména v § 1 odst. 2 písm. f) 
 
 Zákon definuje **plynnou pohonnou hmotu** jako stlačené plyny pro dopravu (vodík, RFNBO, zemní plyn, biometan, recyklovaná paliva). „Dodání" plynných pohonných hmot (písm. y)) je navázáno na okamžik vzniku daňové povinnosti z daně ze zemního plynu — jde o vazbu na systém sledování dodávek pro dopravní cíle OZE. **Dodavatel plynných pohonných hmot** (písm. z)) je osobou, jejíž povinnosti v oblasti pohonných hmot zákon upravuje.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel kogenerační jednotky spalující zemní plyn vyrábí elektřinu a teplo. Část vyrobeného tepla nevyužívá k uspokojení reálné poptávky odběratelů, ale maří ho do chladicích věží, aby udržel jednotku v provozu kvůli výrobě elektřiny. Při registraci podpory u OTE deklaruje celý objem tepla jako „užitečné teplo" a nárokuje podporu jako vysokoúčinná KVET. ERÚ při kontrole zpochybní kvalifikaci. Důkazy: měřicí protokoly o dodávkách tepla odběratelům, smlouvy o dodávce tepla, technická dokumentace jednotky, údaje o provozních hodinách.
+
+**2. Právní otázka.** Zahrnuje pojem „užitečné teplo" podle § 2 odst. 1 písm. h) i teplo, které je mařeno bez uspokojení reálné poptávky, a lze tedy takovou výrobu kvalifikovat jako KVET pro účely podpory?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 1 písm. g) (KVET — současný proces) a písm. h) (užitečné teplo — poptávkový test).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 písm. m) a p) (výrobna/výrobce elektřiny z podporovaných zdrojů), § 1 odst. 1 písm. a) (předmět podpory KVET), navazující ustanovení o podmínkách podpory.
+- *Související předpisy:* příloha II směrnice 2012/27/EU o energetické účinnosti (vysokoúčinná KVET); prováděcí vyhlášky/nařízení vlády k POZE; energetický zákon č. 458/2000 Sb. (definice zdroje tepelné energie).
+- *Judikatura:* zde se uplatní spíše výkladová praxe ERÚ a NSS k pojmu užitečného tepla a k mezím nároku na regulovanou cenu; nosný závěr judikatury NSS: nárok na podporu vzniká jen při splnění všech zákonných definičních znaků, jejichž výklad nelze rozšiřovat ve prospěch žadatele.
+
+**4. Subsumpce.** Znak „přeměna primární energie na elektřinu a teplo v současně probíhajícím procesu" je naplněn. Znak „užitečné teplo" naplněn není v rozsahu mařeného tepla — test písm. h) vyžaduje, aby teplo uspokojovalo poptávku, jež nepřekračuje skutečné potřeby a byla by jinak uspokojena jiným zdrojem. Mařené teplo tento test nesplňuje.
+
+**5. Řešení.** Pro účely podpory lze započíst jen tu část tepla, která projde poptávkovým testem písm. h). ERÚ/OTE důvodně omezí kvalifikaci KVET (a navazující vysokoúčinnost) na užitečné teplo; nárok na podporu se kráti poměrně. Procesně: doložit reálné dodávky tepla, smlouvy s odběrateli, měření. Alternativní výklad (teplo využité k udržení provozu je „užitečné") neobstojí proti jasnému znění definice.
+
+**6. Varianty.** (a) Kdyby provozovatel teplo dodával do soustavy zásobování tepelnou energií k uspokojení reálné poptávky, šlo by o užitečné teplo a kvalifikace KVET by obstála. (b) Kdyby teplo bylo odpadním teplem rozptylovaným bez využití, šlo by o pojem písm. y) (odpadní teplo), nikoli o užitečné teplo KVET.
+
+#### G. Protiargumenty a rizika
+
+- *Provozní nezbytnost.* Provozovatel tvrdí, že teplo bylo „užitečné", protože jeho výroba byla technicky nutná pro výrobu elektřiny. Neutralizace: definice písm. h) je objektivní a poptávková, nikoli technicko-provozní; nutnost mařit teplo svědčí spíše proti, nikoli pro užitečnost.
+- *Nejednoznačnost prováděcích kritérií vysokoúčinné KVET.* Lze namítat neurčitost odkazu na přílohu II směrnice 2012/27/EU. Neutralizace: kritéria jsou v prováděcích předpisech konkretizována a jsou předvídatelná.
+- *Slabé místo:* hranice mezi užitečným a neužitečným teplem je v praxi měřicky náročná; chybějící či neúplné měření tepla je hlavním důkazním rizikem na obou stranách.
+
+#### H. Praktický závěr
+
+§ 2 je definičním jádrem zákona; pro praxi je rozhodující, že každý nárok na podporu stojí a padá s podřazením pod přesné definiční znaky (zejména OZE, KVET, užitečné teplo, výrobna, modernizace). Definice nelze vykládat extenzivně ve prospěch žadatele.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat, pod kterou definici odst. 1/2 spadá zdroj, palivo a zařízení.
+- [ ] U KVET ověřit současnost procesu (písm. g)) a poptávkový test užitečného tepla (písm. h)).
+- [ ] U nových paliv/vodíku rozlišit obnovitelný vodík nebiologického původu vs. nízkouhlíkový vodík (písm. o), s)).
+- [ ] U „modernizace" ověřit naplnění znaků písm. d) odst. 2, včetně změny paliva.
+- [ ] Odlišit záruku původu (písm. l) odst. 2) od nároku na provozní podporu.
+
+**Typicky rozhodné důkazy / podklady:** technická dokumentace výrobny, měřicí a fakturační protokoly (elektřina, teplo, plyn), smlouvy o dodávce tepla, doklady o palivu a jeho původu, registrace v systému OTE.
+
 ---
 
 ## Hlava II — Rozvoj a regulace podporovaných zdrojů energie
@@ -391,6 +465,43 @@ Mechanismus je **kaskádovitý**:
 
 **Povinnost průběžné aktualizace** (odst. 5) je zákonnou garancí plánovacího horizontu: vláda musí každý rok vydat nařízení doplňující vymezení podpory tak, aby byl regulatorní horizont vždy alespoň tříletý. Tím se zajišťuje **investiční předvídatelnost** — investoři do nových výroben mohou plánovat s výhledem minimálně tří let dopředu. Flexibilita je zachována tím, že vláda může nařízení měnit nebo doplňovat i v průběhu roku.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor připravuje výstavbu větrného parku, jehož uvedení do provozu plánuje na rok N+2. Spoléhá na to, že provozní podpora (aukční bonus) bude pro daný druh zdroje vymezena nařízením vlády. Vláda však pro nadcházející tříleté období vydá nařízení podle § 3 odst. 4, jímž větrné výrobny pro daný rozsah výkonu z podpory vyřadí (nezahrne je do vymezení druhů podporovaných zdrojů). Investor namítá, že nařízení je v rozporu s účelem zákona a se závaznými cíli RED III. Důkazy: znění nařízení vlády a vnitrostátního plánu, podnikatelský záměr, dokumentace projektové přípravy.
+
+**2. Právní otázka.** Může vláda nařízením podle § 3 odst. 4 zcela vyloučit určitý druh podporovaného zdroje z provozní podpory pro dané vymezené období, aniž tím překročí meze zákonného zmocnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 4 a 5 — zmocnění vlády vymezit druhy a rozsahy podpor na minimálně tříleté období; odst. 1–3 (vnitrostátní plán).
+- *Související ustanovení téhož zákona:* § 1 odst. 2 (účel a cíle), § 2 (definice druhů zdrojů), § 8 (formy podpory), § 3a (monitoring a uzávěr kapacit).
+- *Související předpisy:* nařízení (EU) 2018/1999 (Governance Regulation); RED III (cíle OZE); čl. 78 Ústavy (nařízení vlády k provedení zákona, secundum et intra legem).
+- *Judikatura:* ustálená judikatura ÚS k mezím nařizovací pravomoci vlády — nařízení se musí držet v mezích zákona a nesmí ukládat povinnosti ani zakládat/odnímat práva nad rámec zákona (linie Pl. ÚS k podzákonným předpisům); test, zda nařízení pouze provádí zákonem stanovené zmocnění.
+
+**4. Subsumpce.** Zmocnění odst. 4 výslovně svěřuje vládě vymezit „druhy podporovaných zdrojů … které budou předmětem podpory" (písm. c)) a „druhy podpor" (písm. a)). Vyloučení určitého druhu zdroje pro dané období se tak pohybuje uvnitř zmocnění — zákon nezaručuje podporu každému druhu zdroje, nýbrž svěřuje výběr vládě v rámci plánovacího cyklu. Mez tvoří účel zákona (odst. 2) a unijní cíle.
+
+**5. Řešení.** Vláda je oprávněna vymezit (i nevymezit) druhy podporovaných zdrojů pro dané období; samotné nezahrnutí druhu do podpory není překročením zmocnění, je-li slučitelné s celkovým plněním cílů dle vnitrostátního plánu. Investor nemá subjektivní nárok na to, aby konkrétní druh byl podpořen. Soudní přezkum nařízení je možný (čl. 95 odst. 1 Ústavy — soud neaplikuje nezákonné nařízení), avšak omezený na test mezí zmocnění a souladu s cíli. Procesně: investor by měl sledovat průběžnou aktualizaci dle odst. 5 a plánovat s tříletým horizontem.
+
+**6. Varianty.** (a) Kdyby nařízení vyloučilo druh zdroje takovým způsobem, že by ČR objektivně nemohla splnit závazný cíl RED III, vznikl by silnější argument o překročení mezí (rozpor s účelem). (b) Kdyby investor již měl pravomocné stavební povolení a registroval projekt včas, uplatní se ochranná pravidla navazujícího § 3a odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Rozpor s legitimním očekáváním investora.* Investor tvrdí, že spoléhal na pokračování podpory. Neutralizace: § 3 odst. 5 výslovně počítá s tříletým horizontem a možností změny i v průběhu roku; očekávání nad tento rámec není chráněno; podpora je nárok podmíněný vymezením.
+- *Rozpor se závaznými cíli RED III.* Lze namítat, že vyloučení zdroje ohrožuje plnění cílů. Neutralizace: cíle se plní souhrnně mixem zdrojů; vyloučení jednoho druhu pro jedno období cíl neohrožuje, není-li prokázán opak.
+- *Slabé místo:* přezkum souladu nařízení s účelem zákona je vágní a soudy jsou zdrženlivé; chybí jasné měřítko, kdy „výběr druhů" překračuje meze zmocnění.
+
+#### H. Praktický závěr
+
+§ 3 buduje dvoustupňový plánovací mechanismus: vnitrostátní plán (vláda) a každoroční nařízení vymezující podporu minimálně na tři roky dopředu. Pro investory je klíčové, že podpora není automatická — řídí se aktuálním nařízením vlády, které lze měnit i v průběhu roku, s garancí tříletého výhledu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit aktuální nařízení vlády podle § 3 odst. 4 pro dané vymezené období a druh zdroje.
+- [ ] Ověřit, zda je druh/rozsah výkonu výrobny vůbec zahrnut do vymezení (písm. c)).
+- [ ] Posoudit, zda nařízení nepřekračuje meze zmocnění (čl. 78 Ústavy, účel dle § 1 odst. 2).
+- [ ] Zohlednit tříletý plánovací horizont a možnost změn dle odst. 5.
+- [ ] Provázat s ochrannými pravidly § 3a (kapacitní uzávěr, výrobny s povolením stavby).
+
+**Typicky rozhodné důkazy / podklady:** platné nařízení vlády a jeho znění pro vymezené období, integrovaný vnitrostátní plán (INECP), cenové výměry ERÚ, dokumentace projektu a jeho časový plán.
+
 ---
 
 ### § 3a — Monitoring kapacit a uzavření podpory při dosažení limitu
@@ -445,6 +556,43 @@ Odstavec 3 dále obsahuje pravidlo pro případ, kdy v době uvádění výrobny
 Odstavec 4 řeší specifický případ **překročení ročního objemu podporovaného tepla** ze společného spalování OZE a neobnovitelného zdroje (dle § 3 odst. 4 písm. d)). Na rozdíl od mechanismu odst. 2 (který uzavírá přístup k podpoře pro nové výrobny) odst. 4 zachovává přístup k podpoře pro stávající výrobny, ale **krátí výši zeleného bonusu na teplo** v poměru, v jakém skutečné kumulativní množství tepla od začátku roku překročilo stanovený limit.
 
 Krácení nastupuje od prvního dne **druhého kalendářního měsíce** po zveřejnění informace o překročení — jde o kratší lhůtu než v odst. 2 (pět měsíců), neboť se nejedná o uzávěr pro nové výrobny, ale o průběžnou korekci výše bonusu u výroben již v provozu. Mechanismus proporcionálního krácení zachovává princip rovného zacházení: všichni výrobci dodávající teplo ze společného spalování do SZTE jsou kráceni ve stejném poměru.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel připravuje fotovoltaickou výrobnu, kterou plánuje uvést do provozu a registrovat u OTE. V březnu operátor trhu zveřejní podle § 3a odst. 1 informaci, že souhrnný instalovaný výkon FVE uvedených do provozu od 1. 1. 2022 dosáhl pro dané vymezené období hodnoty stanovené nařízením vlády. Provozovatel registruje výrobnu v systému OTE až v září téhož roku. OTE odmítne přiznat podporu s odkazem na uzavírací efekt. Provozovatel namítá, že stavební povolení nabylo právní moci ještě před zveřejněním informace. Důkazy: datum nabytí právní moci stavebního povolení, datum uvedení do provozu a registrace u OTE, zveřejněné statistiky OTE.
+
+**2. Právní otázka.** Je elektřina z výrobny registrované po uplynutí pětiměsíčního okna od zveřejnění dosažení limitu předmětem podpory, jestliže výrobce disponoval pravomocným stavebním povolením již přede dnem zveřejnění informace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3a odst. 2 (uzávěr podpory po dosažení limitu, pětiměsíční okno) a odst. 3 (ochranná klauzule pro výrobny s pravomocným stavebním povolením, dvouletá lhůta).
+- *Související ustanovení téhož zákona:* § 3 odst. 4 a 5 (vymezení kapacitních limitů nařízením vlády), § 3a odst. 1 (měsíční monitoring), § 2 odst. 2 písm. a) (zdroj elektřiny).
+- *Související předpisy:* prováděcí nařízení vlády stanovící souhrnné hodnoty výkonu; cenové výměry ERÚ; stavební zákon (povolení stavby a nabytí právní moci).
+- *Judikatura:* nosné závěry NSS a ÚS k ochraně legitimního očekávání u investic do regulovaného odvětví (linie k retroaktivitě podpory OZE, Pl. ÚS 17/11) — ochrana investora, který učinil nevratné dispozice na základě platného právního stavu.
+
+**4. Subsumpce.** Znak „dosažení souhrnné hodnoty výkonu" je naplněn (zveřejnění OTE v březnu). Znak uzávěru podle odst. 2 (registrace po prvním dni pátého měsíce) je rovněž naplněn (registrace v září). Aktivuje se však výjimka odst. 3: výrobce má pravomocné stavební povolení nabyté před zveřejněním a uvedení do provozu/registrace proběhlo v září, tj. do 2 let od zveřejnění informace dle odst. 1 — podmínky ochranné klauzule jsou splněny.
+
+**5. Řešení.** Uzávěr podle odst. 2 se na výrobnu nepoužije; výrobna je předmětem podpory, neboť je chráněna odst. 3 (pravomocné povolení před zveřejněním + realizace do 2 let). Pokud cenový výměr ERÚ pro rok uvedení do provozu výši podpory nestanoví, použije se podle odst. 3 věty druhé výše podpory platná pro výrobny uvedené do provozu v kalendářním roce zveřejnění informace o dosažení limitu. Procesně: doložit OTE pravomocné stavební povolení a dodržení dvouleté lhůty.
+
+**6. Varianty.** (a) Kdyby stavební povolení nabylo právní moci až po zveřejnění informace OTE, ochrana odst. 3 by se neuplatnila a uzávěr odst. 2 by podporu vyloučil. (b) Kdyby šlo o překročení ročního limitu tepla ze společného spalování (odst. 4) namísto kapacity FVE, nešlo by o uzávěr pro nové výrobny, ale o poměrné krácení zeleného bonusu na teplo od prvního dne druhého měsíce po zveřejnění.
+
+#### G. Protiargumenty a rizika
+
+- *OTE: prioritní je dodržení kapacitního stropu.* Operátor může trvat na uzávěru z důvodu vyčerpání limitu. Neutralizace: odst. 3 je výslovnou zákonnou výjimkou z odst. 2; při splnění jejích podmínek nemá OTE prostor pro uvážení.
+- *Spekulativní „parkování" stavebních povolení.* Lze namítat zneužití ochrany. Neutralizace: dvouletá lhůta v odst. 3 právě takovému jednání brání — ochrana zaniká, není-li výrobna včas realizována.
+- *Slabé místo:* určení přesného okamžiku „registrace v systému operátora trhu" a vazba na zveřejněné statistiky může být sporné; chybějící přesná evidence dat (právní moc, registrace) je hlavním důkazním rizikem.
+
+#### H. Praktický závěr
+
+§ 3a je provozním protějškem kapacitních limitů z § 3: měsíční monitoring OTE, automatický uzávěr podpory pět měsíců po dosažení limitu pro nové výrobny, ochrana výroben s pravomocným stavebním povolením (dvouletá lhůta) a poměrné krácení zeleného bonusu na teplo při překročení limitu společného spalování. Pro investora je rozhodující sledovat měsíční zveřejnění OTE a hlídat termíny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Sledovat měsíční zveřejnění OTE (do 15. dne) o čerpání kapacitních limitů dle druhu zdroje.
+- [ ] Při dosažení limitu spočítat pětiměsíční okno pro registraci (odst. 2).
+- [ ] Ověřit, zda výrobna spadá pod ochranu odst. 3 (pravomocné povolení před zveřejněním + realizace do 2 let).
+- [ ] U podpory tepla ze společného spalování hlídat poměrné krácení dle odst. 4 (dvouměsíční lhůta).
+- [ ] Ověřit, který cenový výměr ERÚ se použije, nestanoví-li výši podpory pro daný rok.
+
+**Typicky rozhodné důkazy / podklady:** zveřejněné statistiky OTE, nařízení vlády se souhrnnými hodnotami výkonu, stavební povolení s vyznačením právní moci, doklad o uvedení do provozu a o datu registrace v systému OTE, cenové výměry ERÚ.
 
 ---
 
