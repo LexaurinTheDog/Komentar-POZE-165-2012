@@ -241,6 +241,11 @@ Praktický dosah odst. 3 je omezující: správní orgány a soudy nemohou přiz
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [61 A 37/2023 - 92](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739716) — 29. 1. 2025
+  > „Pokud zákonodárce stanovil po určitou dobu pravidlo, dle kterého modernizovanou výrobnu bylo třeba považovat za výrobnu nově uvedenou do provozu (přičemž od data uvedení do provozu se odvíjí i výše podpory), bylo povinností žalobce takovouto právní úpravu a v návazností na ní též cenová rozhodnutí ERÚ respektovat. … Právě to zohledňuje pravidlo, dle něhož ukončení modernizace části výrobny zákon považoval za nové uvedení výrobny do provozu. Požadavek, aby modernizovaná část výrobny měla vlastní měření výroby, je pak zcela pochopitelný, neboť umožňuje oddělit čerpání podpory podle toho, jaká situace panovala v době uvedení do provozu jak původní, tak i modernizované části"
+
 #### Systematika § 2 — dvojí odstavec, tematické bloky
 
 Zákon rozděluje pojmový aparát do dvou odstavců. Odstavec 1 obsahuje klíčové energetické a technické pojmy (pásmo písmen a)–y)), odstavec 2 upřesňuje zejména pojmy technické (druhy zdrojů, modernizace), obchodní (referenční ceny, aukční bonus) a nové kategorie paliv a vodíku (písm. n)–z)). Toto rozdělení není striktně systematické — například „záruky původu" v odst. 2 písm. l) jsou institutem s dopadem pro celý zákon, stejně jako „zelené bonusy" v odst. 1 písm. j)–l).

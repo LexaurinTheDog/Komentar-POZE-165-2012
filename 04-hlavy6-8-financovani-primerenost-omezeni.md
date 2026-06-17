@@ -6,8 +6,6 @@
 
 ## Hlava VI — Financování podpory
 
-
-
 > Hlava VI (§§ 28–29, ve znění novelizací provedených zejména zákonem č. 382/2021 Sb. a zákonem č. 19/2023 Sb.) řeší klíčovou otázku: kdo a jak financuje výplatu provozní podpory, kterou operátor trhu poukazuje výrobcům elektřiny, tepla a biometanu. Systém stojí na třech pilířích — (1) regulované složce ceny hrazené zákazníky, (2) tržních výnosech operátora trhu (při záporném diferenciálu výkupní ceny a tržní ceny nebo z dražeb povolenek) a (3) dotaci ze státního rozpočtu coby vyrovnávacím nástrojem, o jehož výši rozhoduje vláda usnesením vždy do 30. září předcházejícího roku. Zákon tak kombinuje cenovou regulaci (Energetický regulační úřad stanoví složku ceny) s rozpočtovou procedurou (vláda schvaluje dotaci, ministerstvo vydává rozhodnutí a poukazuje prostředky čtvrtletně). Mechanismus odpovídá požadavkům čl. 107 a násl. Smlouvy o fungování Evropské unie (SFEU) a příslušných pokynů Komise k státní podpoře v oblasti energetiky a ochrany klimatu — úhrada prostřednictvím státního rozpočtu je státní podporou ve smyslu čl. 107 odst. 1 SFEU a musí být slučitelná s vnitřním trhem.
 
 ### § 28 — Financování podpory
@@ -77,6 +75,13 @@
 > *(12) Náklady uvedené v odstavci 10 písm. a) až c) a výnosy uvedené v odstavci 11 písm. a) až c), které přísluší k podpoře elektřiny, jsou zahrnuty do stanovení složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Konf 45/2017 - 14](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/649030) — 15. 1. 2019
+  > „Z ustanovení § 28 odst. 1 zákona č. 165/2012 Sb., ve spojení s ustanovením § 13 odst. 1 tohoto zákona, je přitom zřejmé, že finanční prostředky získávané na podporu elektřiny z podporovaných zdrojů, včetně prostředků, které dále slouží k poskytování podpory výroby elektřiny z OZE a KVET, tvoří složku ceny za distribuci; pokud tedy žalobce služby distribuce nevyužil, nebyl distributor oprávněn mu zmiňované platby účtovat"
+- *NSS* [9 As 146/2016 - 71](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/639110) — 14. 7. 2016
+  > „Finanční prostředky na podporu obnovitelných zdrojů elektřiny jsou získávány z příspěvku na podporu výroby obnovitelných zdrojů zahrnutého v ceně elektrické energie pro koncové spotřebitele a dále z dotací finančních prostředků vybraných na podporu těchto zdrojů plynoucích do státního rozpočtu (§ 28 zákona č. 165/2012 Sb., o podporovaných zdrojích energie a o změně některých zákonů, ve znění pozdějších předpisů)"
 
 #### Systém financování — sedm zdrojových toků (odst. 1)
 
@@ -574,6 +579,11 @@ Na rozdíl od řízení z moci úřední (§ 30 odst. 4) může sektorové šet�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 294/2022 - 83](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722345) — 19. 6. 2024
+  > „… pro účely prověření přiměřenosti podpory poskytované některým výrobcům elektřiny z obnovitelných zdrojů zákonodárce vytvořil speciální institut v § 30 a násl. zákona o podporovaných zdrojích energie (byť jím lze napravit toliko případný nežádoucí důsledek spočívající v poskytování podpory nadměrné, a nikoliv nedostatečné). … Ani zde však nelze výši podpory změnit formou individuálního správního aktu či opatření obecné povahy, ale až v cenovém rozhodnutí (podzákonném právním předpisu) pro následující kalendářní rok (§ 32 odst. 1 zákona o podporovaných zdrojích energie)"
+
 #### Mechanismus plošné korekce cen — dual-price systém (odst. 1)
 
 Plošná korekce spočívá v tom, že ERÚ pro každý postižený sektor stanoví **dvě výkupní ceny souběžně**:
@@ -842,6 +852,11 @@ Pokud Inspekce rozhodne, že výrobce má nárok na původní výši podpory (al
 > *(5) Pokud bylo dosaženo celkového množství vyrobené elektřiny, za které se hradí odvod, plátce odvodu přestane výrobci srážet nebo vybírat odvod ze základu daně, na základě doručení pravomocného rozhodnutí podle odstavce 1 nebo 2.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 As 188/2024 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/742033) — 29. 5. 2025
+  > „Nejvyšší správní soud … přisvědčil stěžovatelce, že i nájemce může žádat o stanovení individuálních podmínek podpory pro výrobnu elektřiny z obnovitelných zdrojů energie podle § 34a odst. 2 zákona o POZE. Toto ustanovení zákona o POZE ani vyhláška č. 72/2022 Sb. výslovně neomezují stanovení individuální podpory na osoby, které samy investiční náklady vynaložily, a důsledně hovoří o investicích kohokoli do výrobny elektřiny. Investiční náklady, které jsou relevantní pro stanovení individuálních podmínek podpory, se tedy vztahují právě k této výrobně a nikoli k určité osobě, která je přímo vynaložila"
 
 #### Provázání s odvodem z elektřiny z podporovaných zdrojů
 

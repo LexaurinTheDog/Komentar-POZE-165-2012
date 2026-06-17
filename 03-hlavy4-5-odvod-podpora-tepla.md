@@ -16,6 +16,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Afs 109/2013 - 46](https://vyhledavac.nssoud.cz/DokumentDetail/Index/630294) — 21. 1. 2014
+  > „Zjevně nelze vyloučit, že v individuálních případech dolehne některé z napadených ustanovení na výrobce jako likvidační („rdousící efekt“) či zasahující samotnou majetkovou podstatu výrobce v rozporu s čl. 11 Listiny – tedy protiústavně. Zde bude nutno hodnotit jak dodržení garancí ve smyslu § 6 odst. 1 zákona č. 180/2005 Sb. v jejich dlouhodobém (patnáctiletém) trvání, tak okamžité (průběžné) účinky napadených ustanovení, aby byl v takovém výjimečném případě vzniklý nárok ochráněn … Pro takové specifické případy pak zavázal obecné soudy „udělat vše pro spravedlivé řešení, jakkoliv se to může jevit složité“ (bod 88. nálezu)"
+
 #### Historický a legislativní kontext
 
 Solární odvod byl původně zaveden zákonem č. 402/2010 Sb. jako přímá reakce na prudký nárůst počtu fotovoltaických instalací v letech 2009–2010, jehož příčinou byl mimořádně vysoký zisk z výkupních cen stanovených v době, kdy ceny solárních panelů ještě nedosáhly dnešní úrovně. Zákonem č. 165/2012 Sb. byl odvod od roku 2013 integrován do kodexu POZE. Novelou č. 382/2021 Sb. byl předmět odvodu omezen na elektřinu vyrobenou od **1. ledna 2022**, přičemž povinnost trvá po celou dobu práva na podporu; de facto jde tedy o pokračování odvodu pro starší instalace bez časového omezení pevným rokem ukončení — trvání odvodu je tak vázáno na délku podpory pro danou výrobnu, nikoli na pevné datum.
@@ -203,6 +208,11 @@ Základ odvodu je peněžní (Kč, nikoli MWh) a tvoří jej částka podpory be
 > *Od odvodu je osvobozena elektřina vyrobená ze slunečního záření ve výrobně elektřiny s instalovaným výkonem výrobny do 30 kW a elektřina vyrobená ze slunečního záření přesahující celkové množství elektřiny, za které se hradí odvod a které stanoví rozhodnutí podle § 34a odst. 1 nebo 2.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Af 39/2014 - 27](https://vyhledavac.nssoud.cz/DokumentDetail/Index/548459) — 22. 8. 2014
+  > „Zákonodárce jednoznačně vyjádřil, že nová úprava osvobození je účinná od 30. 5. 2012 a starou právní úpravu osvobození od odvodu zrušil. Argument žalovaného, že osvobození dle § 17 zákona o podporovaných zdrojích energie lze vykládat pouze ve spojení s § 14 téhož zákona a lze jej proto uplatnit až u elektřiny vyrobené nejdříve od 1. 1. 2013 nemá oporu v právu. Účinnost právní normy nelze uměle posunovat pouhým výkladem. … Soud proto uzavřel, že právní norma osvobozující od odvodů výrobny elektřiny s instalovaným výkonem do 30 kW byla v právním řádu účinná a aplikovatelná od 30. 5. 2012"
 
 #### Dvě skutkové podstaty osvobození
 
@@ -3005,29 +3015,4 @@ Pro výrobce s aukčním bonusem platí podmínky individuálně stanovené v ro
 | Aukční bonus na biometan | 27ba, 27bb | OTE | Kč/MWh, měsíčně, aukce MPO | Výrobce biometanu |
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

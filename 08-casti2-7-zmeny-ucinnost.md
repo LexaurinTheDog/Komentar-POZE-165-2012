@@ -240,6 +240,13 @@ Konkrétně:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Afs 87/2013 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/630984) — 26. 3. 2014
+  > „Námitka protiústavnosti § 14 zákona č. 165/2012 Sb., o podporovaných zdrojích energie a jeho rozporu s § 12 odst. 1 písm. b) téhož zákona je v posuzovaném případě bezpředmětná. Uvedená ustanovení totiž nebyla a nemohla být v daňovém řízení stěžovatele aplikována. Plátce daně provedl napadené srážky za leden až červenec 2011. Jak plyne z § 62 zákona č. 165/2012 Sb., tento zákon nabyl účinnosti zčásti dne 30. 5. 2012 (v případě § 12) a zčásti až dne 1. 1. 2013 (v případě § 14), tedy až po ukončení daňového řízení a po podání správní žaloby"
+- *NSS* [8 Afs 88/2013 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/630839) — 26. 3. 2014
+  > „Namítaný § 14 zákona č. 165/2012 Sb. totiž nebyl a ani nemohl být v daňovém řízení stěžovatele aplikován. Plátce daně provedl napadenou srážku za červenec 2012. Jak plyne z § 62 zákona č. 165/2012 Sb., toto ustanovení nabylo účinnosti až dne 1. 1. 2013"
+
 #### Schéma účinnosti
 
 Zákon č. 165/2012 Sb. byl vyhlášen ve Sbírce zákonů v **částce 60/2012 Sb.** dne **31. května 2012**. Z tohoto data se odvíjí účinnost skupiny ustanovení dle písm. a) i výpočet 24měsíční lhůty pro výrobny dle § 54 odst. 15.

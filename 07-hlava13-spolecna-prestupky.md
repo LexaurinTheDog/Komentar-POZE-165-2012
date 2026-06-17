@@ -628,6 +628,11 @@ Všechny přestupky podle §§ 49 a 49a projednává **Státní energetická ins
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 As 187/2025 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/748604) — 9. 1. 2026
+  > „Podle současné judikatury NSS nelze § 51 zákona č. 165/2012 Sb., o podporovaných zdrojích energie, ve znění od 1. 1. 2022, který již neobsahuje podmínku spáchání přestupku podle tohoto zákona, aplikovat retroaktivně. … nepřípustnost pravé retroaktivity je mimo obecný princip právního státu obsažený v čl. 1 odst. 1 Ústavy výslovně stanovena v čl. 40 odst. 6 Listiny základních práv a svobod"
+
 #### Pojem neoprávněně čerpané podpory a podmínky vzniku
 
 § 51 zavádí zvláštní institut **neoprávněně čerpané podpory** odlišný od přestupkové odpovědnosti. Neoprávněné čerpání nastane ve dvou alternativních situacích:
@@ -698,6 +703,15 @@ Správu placení (inkaso, vymáhání, úrokování) neoprávněně čerpané po
 > *Úřad rozhoduje spory, jejichž předmětem je splnění povinnosti úhrady podpory elektřiny z obnovitelných zdrojů, elektřiny z druhotných zdrojů nebo elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla, podpory tepla, přechodné transformační podpory tepla a podpory biometanu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 258/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7FE5DD09B3EA4877C125830B00319081?openDocument) — kat. A, 9. 7. 2018
+  > „K rozhodování sporu o peněžité plnění k financování podpory podle zákona č. 165/2012 Sb. je dána pravomoc Energetického regulačního úřadu"
+- *NSS* [Konf 41/2017 - 23](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/654724) — 10. 6. 2020
+  > „Nejvyšší soud uzavřel, že „právní kvalifikace žalované pohledávky žalobkyní jako pohledávky z titulu bezdůvodného obohacení nevyjímá spor, jehož samotným základem je splnění peněžité povinnosti uložené zákonem č. 165/2012 Sb., z dosahu pravomoci ERÚ ve smyslu § 52 odst. 2 zákona č. 165/2012 Sb. Odvolací soud tedy nepochybil, jestliže vyslovil, že základem sporu je určení výše platební povinnosti žalobkyně dle § 13 zákona č. 165/2012 Sb. …“"
+- *NSS* [30 A 98/2022 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/719125) — 21. 12. 2023
+  > „Je … třeba mít při jejím výkladu na paměti, že při posuzování pravomoci správního orgánu se má uplatňovat restriktivní přístup … Žalovaný smí jednat a rozhodovat jen o věcech, které mu byly svěřeny zákonem nebo na základě zákona. … nevidí nejmenší důvod, proč by měl vykládat § 52 odst. 1 zákona o podporovaných zdrojích energie … rozšiřujícím způsobem … neboť spor o registraci se podpory výroby energie z obnovitelných zdrojů nijak bezprostředně netýká"
 
 #### ERÚ jako rozhodce sporů o platby podpory
 
@@ -995,6 +1009,11 @@ ERÚ vydává zejm. vyhlášky o: (i) technicko-ekonomických parametrech pro v�
 > *(20) Úřad stanoví poprvé výši zeleného bonusu na teplo podle § 26 a bonusu na decentrální výrobu elektřiny podle § 42 tohoto zákona pro rok 2013.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 1264/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/675AB06289EE50E0C12585EF0018A437?openDocument) — kat. A, 23. 6. 2020
+  > „V případě prodlení provozovatele přenosové nebo regionální distribuční soustavy s úhradou některé z forem podpory výroby elektřiny (zeleného bonusu, výkupní ceny či příspěvku k ceně elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla) ve výši stanovené pro rok 2012 má výrobce elektřiny právo na úroky z prodlení. Odmítl-li provozovatel přenosové nebo regionální distribuční soustavy uhradit výrobci tuto podporu, přešla s účinností od 1. 1. 2013 povinnost k jejímu zaplacení včetně úroku z prodlení na operátora trhu"
 
 #### Přechodná ustanovení — zachování práv z „předchůdce" (zákon č. 180/2005 Sb.)
 
