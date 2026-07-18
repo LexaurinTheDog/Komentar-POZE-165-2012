@@ -64,6 +64,54 @@ Kontrolu veškerých povinností podle POZE vykonává SEI; jediná výjimka je 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f3c375f3a5f10c63b96e generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 48 — Kontrola
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Kontrolu dodržování tohoto zákona, s výjimkou správy odvodu, provádí Inspekce.
+>
+> (2) Inspekce plní úkoly příslušného orgánu podle přímo použitelného předpisu Evropské unie upravujícího podmínky pro udržitelnou leteckou dopravu v oblasti leteckých paliv51) ve vztahu k dodavatelům leteckých paliv a provádí rovněž kontrolu dodržování jejich povinností podle tohoto přímo použitelného předpisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f3c375f3a5f10c63b96e -->
+
 ### § 49 — Přestupky
 
 > **§ 49**
@@ -464,6 +512,354 @@ Odstavec 11 písm. b) v textu zdroje uvádí: „*dále registruje všechny změ
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=49599b54a65ee58e18ab generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 49 — Přestupky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Výrobce se dopustí přestupku tím, že
+>
+> - a) nezaregistruje v systému operátora trhu zvolenou formu podpory nebo její změnu podle § 8 odst. 2,
+>
+> - b) neoznámí povinně vykupujícímu skutečnost podle § 11 odst. 3,
+>
+> - c) neuhradí zápornou čtvrthodinovou cenu povinně vykupujícímu podle § 11 odst. 4,
+>
+> - d) neuhradí operátorovi trhu rozdíl mezi čtvrthodinovou cenou a referenční výkupní cenou nebo referenční aukční cenou podle § 11 odst. 8,
+>
+> - e) nezměří vyrobenou elektřinu podle § 11a odst. 1,
+>
+> - f) neudržuje nebo neprovozuje měřicí zařízení s platným ověřením podle § 11a odst. 4 písm. a),
+>
+> - g) neoprávněně zasahuje do měřicího zařízení, jeho součásti nebo příslušenství nebo do zajištění proti neoprávněné manipulaci podle § 11a odst. 4 písm. b),
+>
+> - h) v případě podpory elektřiny formou zeleného bonusu na elektřinu nebo aukčního bonusu nepředá elektronickou formou operátorovi trhu úplné a pravdivé naměřené nebo vypočtené hodnoty nebo další údaje nebo na vyžádání operátora trhu neposkytne doplňující informace týkající se předávaných údajů podle § 11a odst. 5,
+>
+> - i) v případě podpory elektřiny formou výkupních cen nepředá elektronickou formou operátorovi trhu úplné a pravdivé údaje o výrobě elektřiny podle § 11a odst. 6,
+>
+> - j) neposkytne ministerstvu na vyžádání úplné a pravdivé informace potřebné k provedení sektorového šetření podle § 31 odst. 4,
+>
+> - k) nesdělí operátorovi trhu výši investičních nákladů nebo výši nevratné investiční podpory z veřejných prostředků podle § 39 odst. 1,
+>
+> - l) neuchová doklady týkající se investičních a provozních nákladů výrobny elektřiny po stanovenou dobu nebo je na vyžádání nepředloží podle § 39 odst. 4,
+>
+> - m) v případě, že používá pro výrobu elektřiny palivo z biomasy, neuchová dokumenty a záznamy o použitém palivu po stanovenou dobu nebo je na vyžádání nezpřístupní podle § 39 odst. 5,
+>
+> - n) v případě, že využívá vnitrostátní režim pro dokládání plnění kritérií udržitelnosti a úspor emisí skleníkových plynů, nezajistí jednou ročně audit podle § 47ba odst. 2,
+>
+> - o) nezadá do systému operátora trhu doklad o provedeném auditu podle § 47ba odst. 2, nebo
+>
+> - p) nezadá do systému operátora trhu prohlášení podle § 47ba odst. 4.
+>
+> (2) Výrobce elektřiny z obnovitelného zdroje uplatňující podporu elektřiny v režimu čtvrthodinového zeleného bonusu na elektřinu nebo aukčního bonusu i na vyrobenou elektřinu, která nebyla dodána do distribuční nebo přenosové soustavy, se dopustí přestupku tím, že nezměří vyrobenou elektřinu podle § 11a odst. 2.
+>
+> (3) Výrobce elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla se dopustí přestupku tím, že
+>
+> - a) nezměří množství vyrobené elektřiny, užitečné teplo nebo spotřebované palivo podle § 11a odst. 3, nebo
+>
+> - b) nepředá ministerstvu úplné a pravdivé informace k vydání osvědčení o původu podle § 47 odst. 2.
+>
+> (4) Výrobce energie se dopustí přestupku tím, že
+>
+> - a) nepředá elektronickou formou operátorovi trhu úplné a pravdivé informace podle § 45f odst. 1 písm. c),
+>
+> - b) nepředá operátorovi trhu údaje podle § 45f odst. 1, pokud provozuje výrobnu energie, ke které nemá právo na vydání záruky původu energie na svůj účet podle [[#§ 45a|§ 45a]],
+>
+> - c) nezaregistruje výrobnu energie umístěnou na území České republiky v systému operátora trhu podle § 45f odst. 3 písm. a),
+>
+> - d) převede na jiného účastníka trhu s elektřinou, tepelnou energií nebo plynem prohlášení o splnění kritérií udržitelnosti nebo úspoře emisí skleníkových plynů bez záruky původu energie podle § 45f odst. 3 písm. b), nebo
+>
+> - e) nezadá do systému operátora trhu doklad o provedeném auditu a údaje o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů podle § 47b odst. 2.
+>
+> (5) Výrobce tepla se dopustí přestupku tím, že
+>
+> - a) nezaregistruje v systému operátora trhu provozní podporu tepla podle § 23 odst. 6,
+>
+> - b) nedoloží splnění kritérií udržitelnosti biokapalin poskytovateli dotace ve stanovené lhůtě podle § 25 odst. 4,
+>
+> - c) nezajistí měření dodaného nebo užitečného tepla podle § 27 odst. 3,
+>
+> - d) nezaregistruje místo předání vyrobeného tepla nebo užitečného tepla v systému operátora trhu nebo nezaregistruje změny v těchto údajích podle § 27 odst. 4,
+>
+> - e) nepředá elektronickou formou operátorovi trhu úplné a pravdivé naměřené hodnoty dodaného tepla nebo užitečného tepla nebo další údaje nebo na vyžádání operátora trhu neposkytne doplňující informace týkající se předávaných údajů podle § 27 odst. 5 písm. a),
+>
+> - f) v případě, že používá pro výrobu tepla společného spalování obnovitelného zdroje a neobnovitelného zdroje, nevykazuje údaje podle § 27 odst. 5 písm. b),
+>
+> - g) neudržuje nebo neprovozuje měřidlo s platným ověřením podle § 27 odst. 6 písm. a),
+>
+> - h) neoprávněně zasahuje do měřicího zařízení, jeho součástí nebo příslušenství nebo do zajištění proti neoprávněné manipulaci podle § 27 odst. 6 písm. b),
+>
+> - i) nesdělí operátorovi trhu výši investičních nákladů nebo výši nevratné investiční podpory z veřejných prostředků podle § 39 odst. 1,
+>
+> - j) neuchová doklady týkající se investičních a provozních nákladů výrobny tepla po stanovenou dobu nebo je na vyžádání nepředloží podle § 39 odst. 4,
+>
+> - k) v případě, že používá pro výrobu tepla palivo z biomasy, neuchová dokumenty a záznamy o použitém palivu po stanovenou dobu nebo je na vyžádání nezpřístupní podle § 39 odst. 5,
+>
+> - l) v případě, že využívá vnitrostátní režim pro dokládání plnění kritérií udržitelnosti a úspor emisí skleníkových plynů, nezajistí jednou ročně audit podle § 47ba odst. 2,
+>
+> - m) nezadá do systému operátora trhu doklad o provedeném auditu podle § 47ba odst. 2, nebo
+>
+> - n) nezadá do systému operátora trhu prohlášení podle § 47ba odst. 4.
+>
+> (6) Výrobce biometanu se dopustí přestupku tím, že
+>
+> - a) nezajistí na svůj náklad měření množství kvality a tlaku vyrobeného biometanu v předávacím místě výrobny biometanu k plynárenskému zařízení a nepředá tyto údaje provozovateli plynárenského zařízení, k němuž je výrobna biometanu připojena, a operátorovi trhu podle § 27d odst. 3,
+>
+> - b) nepředá elektronickou formou operátorovi trhu úplné a pravdivé údaje související s výrobnou a výrobou biometanu a o surovinách využitých pro výrobu biometanu a splnění kritérií udržitelnosti a úspor emisí skleníkových plynů podle § 27d odst. 4,
+>
+> - c) v případě, že uplatňuje právo na podporu formou zeleného bonusu na biometan vyrobený ve výrobně biometanu uvedené do provozu od 1. ledna 2023 do 31. prosince 2025 a dodaný do čerpací stanice nebo výdejní jednotky přímo připojené k výrobně biometanu bez využití plynárenské soustavy,
+>
+> - 1. nezajistí na svůj náklad měření množství takto dodaného biometanu stanoveným měřidlem podle zákona [[o metrologii|o metrologii]] podle § 27d odst. 5 písm. a), nebo
+>
+> - 2. nepředá operátorovi trhu elektronickou formou údaje o množství vyrobeného biometanu dodaného do čerpací stanice nebo výdejní jednotky s rozdělením na pokročilý a ostatní biometan a údaje o surovinách využitých pro výrobu biometanu podle § 27d odst. 5 písm. b),
+>
+> - d) neudržuje nebo neprovozuje měřicí zařízení s platným ověřením podle zákona [[o metrologii|o metrologii]] nebo nezdrží se jakýchkoli neoprávněných zásahů do zajištění proti neoprávněné manipulaci, do měřicího zařízení nebo do jeho součásti a příslušenství podle § 27d odst. 6,
+>
+> - e) nepředá elektronickou formou operátorovi trhu úplné a pravdivé naměřené hodnoty množství biometanu a údaje týkající se identifikace výrobce biometanu a výrobny biometanu nebo na vyžádání operátora trhu neposkytne další doplňující informace týkající se předávaných údajů podle § 27d odst. 7,
+>
+> - f) v případě, že uplatňuje právo na podporu formou zeleného bonusu na biometan
+>
+> - 1. u výrobny biometanu, která vznikla úpravou výrobny elektřiny využívající bioplyn, nedodržuje podíl pokročilého biometanu na celkovém vyrobeném biometanu za vykazované období alespoň ve výši 35 % podle § 27e odst. 1 písm. a),
+>
+> - 2. u výrobny biometanu, která nevznikla úpravou výrobny elektřiny využívající bioplyn, nedodržuje podíl pokročilého biometanu na celkovém vyrobeném biometanu za vykazované období alespoň ve výši 45 % podle § 27e odst. 1 písm. b), nebo
+>
+> - 3. nezaregistruje výrobnu biometanu uvedenou do provozu od 1. ledna 2023 do 31. prosince 2025, která není připojena k distribuční nebo přepravní soustavě České republiky, v systému operátora trhu nebo nezaregistruje všechny změny těchto údajů podle § 27e odst. 2,
+>
+> - g) v případě, že uplatňuje právo na podporu formou aukčního bonusu na biometan,
+>
+> - 1. nedodrží minimální podíl pokročilého biometanu na celkovém vyrobeném biometanu nebo nedodrží maximální výslednou produkci emisí skleníkových plynů za vykazované období ve výši podle rozhodnutí o udělení práva na podporu biometanu z aukce podle § 27e odst. 3 písm. a), nebo
+>
+> - 2. nedodává plyn povinně vykupujícímu plyn podle § 27e odst. 3 písm. b),
+>
+> - h) nesdělí operátorovi trhu výši investičních nákladů nebo výši nevratné investiční podpory z veřejných prostředků podle § 39 odst. 1,
+>
+> - i) neuchová doklady týkající se investičních a provozních nákladů výrobny biometanu po stanovenou dobu nebo je na vyžádání nepředloží podle § 39 odst. 4,
+>
+> - j) v případě, že používá pro výrobu biometanu palivo z biomasy, neuchová dokumenty a záznamy o použitém palivu po stanovenou dobu nebo je na vyžádání nezpřístupní podle § 39 odst. 5, nebo
+>
+> - k) neuhradí operátorovi trhu rozdíl mezi měsíční jednotkovou cenou plynu a referenční aukční cenou podle § 27ba odst. 5.
+>
+> (7) Vykupující se dopustí přestupku tím, že
+>
+> - a) nepřevezme odpovědnost za odchylku podle § 9 odst. 2 nebo § 27b odst. 3, nebo
+>
+> - b) neinformuje ve stanovených případech výrobce podle § 11 odst. 5.
+>
+> (8) Povinně vykupující se dopustí přestupku tím, že
+>
+> - a) nevykupuje elektřinu z obnovitelných zdrojů, na kterou se vztahuje podpora elektřiny, vyrobenou ve výrobně elektřiny nacházející se na jeho vymezeném území za stanovených podmínek podle § 10 odst. 2 nebo nenese odpovědnost za odchylku v předávacím místě výrobny elektřiny,
+>
+> - b) neinformuje ve stanovených případech výrobce podle § 11 odst. 4 nebo [[#§ 5|5]],
+>
+> - c) neuhradí operátorovi trhu rozdíl mezi čtvrthodinovou a výkupní cenou stanovenou Úřadem podle § 11 odst. 6,
+>
+> - d) neukončí vyplácení podpory nebo nevyplácí sníženou výši podpory podle § 33 odst. 7, § 34 odst. 9 nebo § 35 odst. 7, nebo
+>
+> - e) nehradí výrobci sníženou výši podpory elektřiny podle § 37 odst. 4.
+>
+> (9) Výrobce paliva, dodavatel paliva nebo dovozce paliva z biomasy se dopustí přestupku tím, že neuchová dokumenty a záznamy o použitých druzích biomasy, biokapalin, bioplynu a biometanu a o způsobu jejich využití pro výrobu paliv po stanovenou dobu nebo na vyžádání tyto dokumenty a záznamy nezpřístupní podle § 39 odst. 6.
+>
+> (10) Provozovatel přenosové soustavy nebo provozovatel distribuční soustavy se dopustí přestupku tím, že
+>
+> - a) přednostně nepřipojí k přenosové nebo k distribuční soustavě výrobnu elektřiny z podporovaného zdroje za účelem přenosu elektřiny nebo distribuce elektřiny podle § 7 odst. 1,
+>
+> - b) neposkytne informace podle § 7 odst. 2,
+>
+> - c) nezaregistruje předávací místo výrobny elektřiny v systému operátora trhu nebo nezaregistruje změny v těchto údajích podle § 7 odst. 4,
+>
+> - d) nepředá elektronickou formou operátorovi trhu úplné a pravdivé hodnoty podle § 11a odst. 7,
+>
+> - e) neuhradí operátorovi trhu složku ceny služby distribuční soustavy nebo složku ceny služby přenosové soustavy podle § 13 odst. 1, nebo
+>
+> - f) nepředá operátorovi trhu naměřené hodnoty množství vyrobeného biometanu v předávacím místě podle § 27d odst. 1.
+>
+> (11) Provozovatel přepravní soustavy, provozovatel distribuční soustavy nebo jiný výrobce plynu se dopustí přestupku tím, že
+>
+> - a) přednostně nepřipojí výrobnu biometanu jimi provozovanému plynárenskému zařízení podle § 27d odst. 1,
+>
+> - b) nezaregistruje předávací místo výrobny biometanu připojené k jím provozovanému plynárenskému zařízení jako výrobní předávací místo v systému operátora trhu nebo dále registruje všechny změny v těchto údajích podle § 27d odst. 1, nebo
+>
+> - c) neposkytne informace podle § 27d odst. 2.
+>
+> (12) Držitel licence na rozvod tepelné energie se dopustí přestupku tím, že nevykupuje teplo vyrobené z obnovitelných zdrojů nebo neumožní připojení výrobny tepla k rozvodnému tepelnému zařízení podle § 27 odst. 1.
+>
+> (13) Držitel účtu se dopustí přestupku tím, že
+>
+> - a) neuhradí operátorovi trhu cenu za úkony podle § 45c odst. 5, nebo
+>
+> - b) neuhradí operátorovi trhu částku odpovídající hodnotě záruk původu energie nakoupených v aukci záruk původu energie podle § 45c odst. 6.
+>
+> (14) Operátor trhu se dopustí přestupku tím, že
+>
+> - a) nezveřejní ve stanovené lhůtě na svých internetových stránkách informace podle § 3a odst. 1,
+>
+> - b) neuhradí výrobci, výrobci tepla nebo výrobci biometanu zelený bonus podle § 9 odst. 3, § 26 odst. 3 nebo § 27b odst. 4,
+>
+> - c) neuhradí výrobci tepla z neobnovitelných zdrojů bonus k transformaci výroby tepla podle § 26d odst. 4,
+>
+> - d) neuhradí aukční bonus podle § 9a odst. 3,
+>
+> - e) neuhradí rozdíl mezi výkupní cenou a čtvrthodinovou cenou nebo cenu za činnost povinně vykupujícího podle § 13 odst. 2,
+>
+> - f) neposkytne povinně vykupujícímu údaje pro úhradu výkupních cen podle § 28 odst. 9,
+>
+> - g) nepředá ministerstvu kontaktní údaje výrobců podle § 31 odst. 8,
+>
+> - h) neinformuje neprodleně Inspekci o výrobci, který zvolil individuální opatření k zajištění přiměřenosti podpory podle § 33 odst. 6 písm. a),
+>
+> - i) neukončí vyplácení podpory nebo nezruší registraci zdroje elektřiny ve stanovené lhůtě nebo neprodleně neinformuje povinně vykupujícího podle § 33 odst. 6 písm. b),
+>
+> - j) neposkytuje sníženou výši podpory ve stanovené lhůtě nebo neprodleně neinformuje povinně vykupujícího podle § 33 odst. 6 písm. c),
+>
+> - k) neukončí vyplácení podpory nebo nevyplácí sníženou výši podpory podle § 34 odst. 9 nebo § 35 odst. 7,
+>
+> - l) neposkytne Inspekci informace potřebné k prověření přiměřenosti podpory podle § 36 odst. 5,
+>
+> - m) nezaeviduje sníženou výši podpory podle § 37 odst. 3 písm. a),
+>
+> - n) nehradí výrobci, výrobci tepla nebo výrobci biometanu sníženou výši podpory podle § 37 odst. 3 písm. b),
+>
+> - o) neinformuje povinně vykupujícího o snížené výši podpory podle § 37 odst. 3 písm. c),
+>
+> - p) nepředá informace do informačního systému Evropské komise ve stanovené lhůtě podle § 39 odst. 2,
+>
+> - q) neuchová informace po stanovenou dobu podle § 39 odst. 3,
+>
+> - r) nezveřejní na svých internetových stránkách pravidla používání evidence záruk původu energie a vnitrostátní databáze kritérií udržitelnosti a úspor emisí skleníkových plynů pro energii vyrobenou z paliva z biomasy, nízkouhlíkových plynů a plynů z obnovitelných zdrojů podle § 45b odst. 2,
+>
+> - s) nezajistí napojení evidence záruk původu energie na databázi Evropské unie nebo přenos údajů z a do uvedené databáze podle § 45b odst. 3,
+>
+> - t) neinformuje ministerstvo o skutečnostech podle § 45d odst. 3,
+>
+> - u) neumožní přístup osobě, která je podle tohoto zákona nebo jiného právního předpisu povinna dokládat plnění využití obnovitelných zdrojů energie v dopravě přístup k evidenci podle § 47c odst. 3,
+>
+> - v) neumožní přístup ministerstvu, Ministerstvu zemědělství a Inspekci k evidenci podle § 47c odst. 4,
+>
+> - w) nepožádá osobu, která žádá o přístup k evidenci plnění využití obnovitelných zdrojů energie v dopravě nebo požaduje údaje z evidence plnění využití obnovitelných zdrojů energie v dopravě, o úhradu nákladů spojených se zajištěním přístupu a poskytnutím požadovaných údajů podle § 47c odst. 5, nebo
+>
+> - x) neuhradí výrobci biometanu aukční bonus na biometan podle § 27ba odst. 3.
+>
+> (15) Provozovatel přepravní soustavy nebo provozovatel distribuční soustavy se dopustí přestupku tím, že nezaregistruje předávací místo výrobny biometanu připojené k distribuční nebo přepravní soustavě České republiky jako výrobní předávací místo v systému operátora trhu a dále registruje všechny změny v těchto údajích podle § 27d odst. 1.
+>
+> (16) Výrobce elektřiny z druhotných zdrojů se dopustí přestupku tím, že nepředá ministerstvu úplné a pravdivé informace k vydání osvědčení o původu podle § 47 odst. 2.
+>
+> (17) Držitel osvědčení o původu se dopustí přestupku tím, že bezodkladně neoznámí ministerstvu veškeré změny údajů uvedených v žádosti o vydání osvědčení o původu či jiné závažné skutečnosti vztahující se k udělenému osvědčení o původu podle § 47a odst. 1.
+>
+> (18) Provozovatel soustavy se dopustí přestupku tím, že nepředá elektronickou formou operátorovi trhu úplné a pravdivé informace nezbytné pro registraci výroben energie, evidenci plnění kritérií udržitelnosti a úspor emisí skleníkových plynů a vydávání a uplatnění záruky původu energie podle § 45f odst. 4.
+>
+> (19) Provozovatel dobíjecí stanice se dopustí přestupku tím, že
+>
+> - a) nezajistí měření množství elektřiny podle § 47e odst. 3,
+>
+> - b) nepředá operátorovi trhu údaje o množství elektřiny vyrobené v odběrném místě a dodané do dobíjecí stanice podle § 47e odst. 3,
+>
+> - c) neudržuje nebo provozuje měřicí zařízení podle § 47e odst. 4,
+>
+> - d) nezdrží se jakýchkoli neoprávněných zásahů do zajištění proti neoprávněné manipulaci nebo do měřicího zařízení podle § 47e odst. 4, nebo
+>
+> - e) nepodá hlášení o splnění povinnosti zajištění minimálního podílu elektřiny vyrobené z obnovitelného zdroje energie v množství elektřiny spotřebované pro dobíjení vozidel v jím provozované dobíjecí stanici podle § 47e odst. 5.
+>
+> (20) Osoba odebírající plynné pohonné hmoty se dopustí přestupku tím, že poruší některou z povinností podle § 47d odst. 6.
+>
+> (21) Výrobce tepla z neobnovitelného zdroje se dopustí přestupku tím, že
+>
+> - a) nezaregistruje v systému operátora trhu přechodnou transformační podporu tepla podle § 26c odst. 2,
+>
+> - b) nepředá operátorovi trhu údaje podle § 26c odst. 3,
+>
+> - c) nedoloží operátorovi trhu závazek ukončit výrobu tepla z uhlí podle § 26c odst. 4,
+>
+> - d) nezajistí do 31. prosince 2030 výrobu tepla z jiných zdrojů energie než z uhlí podle § 26c odst. 4, nebo
+>
+> - e) nepředá operátorovi trhu údaje o pokroku plnění závazku ukončit výrobu tepla z uhlí podle § 26c odst. 5.
+>
+> (22) Výrobce paliv z lesní biomasy a vstupní suroviny pro výrobu paliv z lesní biomasy, prodejce nebo dodavatel těchto paliv a vstupní suroviny pro výrobu těchto paliv se dopustí přestupku tím, že v případě, že využívá vnitrostátní režim prokazování plnění kritérií udržitelnosti a úspor emisí skleníkových plynů, nedoloží a nepředá k dodávce paliva z lesní biomasy nebo vstupní suroviny pro výrobu paliv z lesní biomasy prohlášení podle § 47ba odst. 4.
+>
+> (23) Osoba spotřebovávající vodík v průmyslu se dopustí přestupku tím, že
+>
+> - a) nesplní povinnosti podle § 47g odst. 1 písm. a),
+>
+> - b) nezaregistruje se v systému operátora trhu podle § 47g odst. 1 písm. b), nebo
+>
+> - c) neprokáže v systému operátora trhu plnění povinností podle § 47g odst. 1 písm. c).
+>
+> (24) Provozovatel soustavy zásobování tepelnou energií se dopustí přestupku tím, že
+>
+> - a) neposkytne Úřadu v daném termínu údaje podle § 26f odst. 1,
+>
+> - b) v případě, že je do soustavy, která není účinnou soustavou zásobování tepelnou energií, dodávána tepelná energie ze zdrojů tepelné energie podle § 26f odst. 2, nevypracuje do stanoveného termínu a nepředloží Úřadu ke schválení plán transformace, nebo
+>
+> - c) se neřídí schváleným transformačním plánem, neinformuje Úřad ve stanovené lhůtě o tom, že není schopen se plánem transformace řídit včetně uvedení důvodů a do 6 měsíců nepředloží Úřadu nový plán transformace ke schválení podle § 26f odst. 5.
+>
+> (25) Povinně vykupující plyn se dopustí přestupku tím, že
+>
+> - a) neuzavře smlouvu o dodávce plynu s výrobcem biometanu nebo nevykupuje plyn za měsíční jednotkovou cenu plynu, na který se vztahuje podpora biometanu formou aukčního bonusu, podle § 27bg odst. 1 písm. a), nebo
+>
+> - b) nepřevezme odpovědnost za odchylku podle § 27bg odst. 1 písm. b).
+>
+> (26) Dodavatel plynných pohonných hmot se dopustí přestupku tím, že
+>
+> - a) nezajistí minimální množství pokročilého biometanu nebo obnovitelného paliva nebiologického původu stanovené v § 47d odst. 1,
+>
+> - b) nesdělí písemně celnímu úřadu, že hodlá uplatnit nadměrné
+>
+> - 1. množství pokročilého biometanu a obnovitelných paliv nebiologického původu podle § 47d odst. 5,
+>
+> - 2. snížení emisí skleníkových plynů podle § 47db odst. 6,
+>
+> - c) nezajistí požadované snížení emisí skleníkových plynů podle § 47db odst. 1,
+>
+> - d) nepodá v daném termínu ministerstvu, Ministerstvu životního prostředí a celnímu úřadu zprávu o emisích podle § 47dd odst. 2, nebo
+>
+> - e) nezajistí ověření informací uvedených ve zprávě o emisích autorizovanou osobou a kopii protokolu o ověření nepřiloží ke zprávě o emisích podle § 47dd odst. 3.
+>
+> (27) Za přestupek podle odstavců 1 až 22, 23 písm. b) a c), [[#§ 24|24]], [[#§ 25|25]] a 26 písm. b), d) a e) se uloží pokuta do 50 000 000 Kč. Dopustí-li se přestupku výrobce, výrobce biometanu nebo výrobce tepla, nebo výrobce tepla z neobnovitelného zdroje, uloží se pokuta maximálně do výše ročního nároku výrobce nebo výrobce tepla nebo výrobce tepla z neobnovitelného zdroje na podporu. Omezení podle věty druhé se nevztahuje na přestupek podle odstavce 1 písm. h), odstavce 2, odstavce 4 písm. a), odstavce 5 písm. e) a odstavce 6 písm. e).
+>
+> (28) Za přestupek podle odstavce 23 písm. a) se uloží pokuta, jejíž výše se stanoví jako součin množství obnovitelného vodíku nebiologického původu chybějícího ke splnění povinnosti za kalendářní rok v megajoulech a částky 0,6 Kč.
+>
+> (29) Za přestupek podle odstavce 26 písm. a) se uloží pokuta, jejíž výše se stanoví jako součin množství nedodaného pokročilého biometanu nebo obnovitelného paliva nebiologického původu podle § 47d odst. 1 v megajoulech a částky 2 Kč.
+>
+> (30) Za přestupek podle odstavce 26 písm. c) se uloží pokuta, jejíž výše se stanoví jako součin množství emisí skleníkových plynů v kilogramech, o které nebylo dosaženo požadovaného snížení emisí podle § 47db odst. 1 a částky 10 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 11, § 11a, § 31, § 39, § 47ba, § 47, § 45f, § 45a, § 47b, § 23, § 25, § 27, § 27d, § 27e, § 27ba, § 9, § 27b, § 10, § 5, § 33, § 34, § 35, § 37, § 7, § 13, § 45c, § 3a, § 26, § 26d, § 9a, § 28, § 36, § 45b, § 45d, § 47c, § 47a, § 47e, § 47d, § 26c, § 47g, § 26f, § 27bg, § 47db, § 47dd, § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49599b54a65ee58e18ab -->
+
 ### § 49a — Přestupky dodavatele leteckého paliva
 
 > **§ 49a**
@@ -545,6 +941,72 @@ Odst. 3 zavádí výjimečný režim **absolutní přestupkové odpovědnosti** 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=edac552e7d10f4eadf64 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 49a — Přestupky dodavatele leteckého paliva
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Dodavatel leteckého paliva se dopustí přestupku tím, že v rozporu s přímo použitelným předpisem Evropské unie upravujícím podmínky pro udržitelnou leteckou dopravu v oblasti leteckých paliv51)
+>
+> - a) dodá ve vykazovaném období na stanovené letiště letecké palivo neobsahující minimální podíl udržitelných leteckých paliv nebo syntetických leteckých paliv,
+>
+> - b) nedodá včas na stanovené letiště stanovené dorovnávací množství leteckého paliva obsahujícího minimální podíl udržitelných leteckých paliv nebo syntetických leteckých paliv, ačkoliv se v předchozím vykazovaném období dopustil jednání podle písmene a),
+>
+> - c) nedodá včas do databáze Evropské unie zřízené ke sledování kapalných a plynných obnovitelných paliv a recyklovaných paliv s obsahem uhlíku stanovené údaje,
+>
+> - d) dodá do databáze Evropské unie zřízené ke sledování kapalných a plynných obnovitelných paliv a recyklovaných paliv s obsahem uhlíku zavádějící nebo nepřesné údaje,
+>
+> - e) neposkytne provozovateli letiště potřebnou součinnost,
+>
+> - f) neposkytne Inspekci potřebnou součinnost,
+>
+> - g) neposkytne leteckému dopravci nebo provozovateli letecké činnosti jiné, než je obchodní letecká doprava, včas nebo bezplatně stanovené údaje, nebo
+>
+> - h) poskytne leteckému dopravci nebo provozovateli letecké činnosti jiné, než je obchodní letecká doprava, zavádějící nebo nepřesné údaje.
+>
+> (2) Za přestupek podle odstavce 1 písm. b), c), e), f) nebo g) se uloží pokuta do 50 000 000 Kč.
+>
+> (3) Dodavatel leteckého paliva se odpovědnosti za přestupek podle odstavce 1 písm. a), d) nebo h) nemůže zprostit. Za tento přestupek se uloží pokuta ve výši od dolní hranice sazby pokuty stanovené podle přímo použitelného předpisu Evropské unie upravujícího podmínky pro udržitelnou leteckou dopravu v oblasti leteckých paliv51) do dvojnásobku takto stanovené dolní hranice sazby pokuty. Za tento přestupek nelze uložit správní trest propadnutí věci nebo náhradní hodnoty, od uložení správního trestu za tento přestupek nelze upustit ani podmíněně upustit a dolní hranici sazby pokuty za tento přestupek nelze mimořádně snížit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=edac552e7d10f4eadf64 -->
+
 ### § 50 — Společná ustanovení k přestupkům
 
 > **§ 50**
@@ -609,6 +1071,54 @@ Všechny přestupky podle §§ 49 a 49a projednává **Státní energetická ins
 **Typicky rozhodné důkazy / podklady:** protokoly o kontrole a auditu s datací, evidence úkonů SEI (výzvy, zahájení řízení) prokazujících přerušení, dokumentace o trvání protiprávního stavu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1c64e602e2dcfa90af82 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 50 — Společná ustanovení k přestupkům
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Promlčecí doba činí 5 let. Byla-li promlčecí doba přerušena, odpovědnost za přestupek zaniká nejpozději 8 let od jeho spáchání.
+>
+> (2) Přestupky podle tohoto zákona projednává Inspekce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c64e602e2dcfa90af82 -->
 
 ### § 51 — Neoprávněně čerpaná podpora
 
@@ -696,6 +1206,62 @@ Správu placení (inkaso, vymáhání, úrokování) neoprávněně čerpané po
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3f1764d050c6b4d44a4a generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 51 — Neoprávněně čerpaná podpora
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Došlo-li k čerpání podpory elektřiny, provozní podpory tepla, přechodné transformační podpory tepla nebo podpory biometanu v případech, kdy na podporu podle tohoto zákona nebo podle předchozích právních předpisů nevzniklo právo nebo došlo-li k čerpání podpory elektřiny, provozní podpory tepla, přechodné transformační podpory tepla nebo podpory biometanu v nesprávné výši ze strany výrobce, výrobce elektřiny z decentrální výrobny elektřiny, výrobce tepla, výrobce tepla z neobnovitelného zdroje nebo výrobce biometanu (dále jen „neoprávněné čerpání podpory“), Inspekce z moci úřední rozhodne o neoprávněném čerpání podpory a stanoví jeho rozsah podle doby trvání neoprávněného čerpání podpory.
+>
+> (2) Výrobce, výrobce elektřiny z decentrální výrobny elektřiny, výrobce tepla, výrobce tepla z neobnovitelného zdroje nebo výrobce biometanu je povinen
+>
+> - a) neoprávněně čerpanou podporu uhradit nejpozději do 30 dnů ode dne právní moci rozhodnutí Inspekce o neoprávněném čerpání podpory do státního rozpočtu a
+>
+> - b) uhradit úrok z prodlení podle daňového řádu z částky rovnající se neoprávněně čerpané podpoře za dobu, kdy výrobce, výrobce elektřiny z decentrální výrobny elektřiny, výrobce tepla, výrobce tepla z neobnovitelného zdroje nebo výrobce biometanu podporu elektřiny, podporu decentrální výroby elektřiny, provozní podporu tepla, přechodnou transformační podporu tepla nebo podporu biometanu neoprávněně čerpal do doby, kdy ji uhradil do státního rozpočtu, maximálně však do výše neoprávněného čerpání podpory.
+>
+> (3) Za neoprávněně čerpanou podporu se nepovažuje podpora podle tohoto zákona, kterou výrobce, výrobce elektřiny z decentrální výrobny elektřiny, výrobce tepla, výrobce tepla z neobnovitelného zdroje nebo výrobce biometanu vrátil dobrovolně Inspekci na základě její výzvy před vydáním rozhodnutí o neoprávněně čerpané podpoře. Na řízení o neoprávněně čerpané podpoře se vztahují obecné předpisy o správním řízení.
+>
+> (4) Správu placení neoprávněně čerpané podpory a úroku z prodlení vykonává celní úřad. Výrobce, výrobce elektřiny z decentrální výrobny elektřiny, výrobce tepla, výrobce tepla z neobnovitelného zdroje nebo výrobce biometanu má při správě placení neoprávněně čerpané podpory a penále postavení daňového subjektu. Neoprávněně čerpanou podporu a penále lze stanovit do 10 let od 1. ledna roku následujícího po roce, v němž došlo k neoprávněnému čerpání podpory.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3f1764d050c6b4d44a4a -->
+
 ### § 52 — Rozhodování sporů
 
 > **§ 52**
@@ -764,6 +1330,52 @@ Typickými účastníky sporu budou výrobce (příjemce podpory) na jedné stra
 **Typicky rozhodné důkazy / podklady:** doklady o předání naměřených hodnot OTE, vyúčtování a registrace formy podpory, korespondence o odmítnutí úhrady, smluvní dokumentace, výpočet sporné částky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=85f4e9eff8ab375084a9 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 52 — Rozhodování sporů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Úřad rozhoduje spory, jejichž předmětem je splnění povinnosti úhrady podpory elektřiny z obnovitelných zdrojů, elektřiny z druhotných zdrojů nebo elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla, podpory tepla, přechodné transformační podpory tepla a podpory biometanu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85f4e9eff8ab375084a9 -->
 
 ### § 53 — Zmocnění k vydání prováděcích právních předpisů
 
@@ -964,6 +1576,186 @@ ERÚ vydává zejm. vyhlášky o: (i) technicko-ekonomických parametrech pro v�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5627fd1b24277332cafb generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 53 — Zmocnění k vydání prováděcích právních předpisů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo stanoví vyhláškou
+>
+> - a) druhy a parametry podporovaných obnovitelných zdrojů a způsoby jejich využití pro výrobu elektřiny z obnovitelných zdrojů, tepla z obnovitelných zdrojů a biometanu, včetně způsobu a vykazování množství cíleně pěstované biomasy na orné půdě a na travním porostu při výrobě bioplynu a suroviny vymezující pokročilý biometan,
+>
+> - b) minimální účinnosti užití energie ve výrobnách elektřiny, na které se vztahuje podpora elektřiny z obnovitelných zdrojů nebo druhotných zdrojů, a minimální účinnosti užití energie ve výrobnách tepla, na které se vztahuje podpora tepla z obnovitelných zdrojů,
+>
+> - c) způsob měření a výpočtu vyrobeného množství tepla z obnovitelných zdrojů nebo druhotných zdrojů při výrobě tepla z obnovitelného zdroje společně s neobnovitelným zdrojem,
+>
+> - d) způsob vykazování množství tepla z obnovitelného zdroje a neobnovitelného zdroje, množství tepla z obnovitelného zdroje, skutečného nabytí množství obnovitelného zdroje a jeho kvality, skutečného využití veškerého nabytého množství obnovitelného zdroje,
+>
+> - e) rozsah uchovávaných dokumentů a záznamů o použitém palivu při výrobě elektřiny, tepla z obnovitelných zdrojů a biometanu a o způsobu výroby tohoto paliva,
+>
+> - f) pro oblast záruk původu energie
+>
+> - 1. obsahové náležitosti záruky původu energie,
+>
+> - 2. postupy, termíny a podmínky pro vydání záruky původu energie,
+>
+> - 3. podmínky pro vydání záruky původu, která se vydává na jiný objem než 1 MWh nebo jiné období výroby energie než jeden kalendářní měsíc,
+>
+> - 4. vymezení zprovoznění výrobny energie,
+>
+> - 5. postupy, termíny a podmínky pro vytváření a vedení účtů držitelů účtů v evidenci záruk původu energie, vydávání a evidenci vydaných záruk původu energie, převody a evidenci převodů záruk původu energie, uznávání záruk původu energie vydaných v jiném členském státě a evidence uznaných záruk původu energie, rušení a evidenci zrušení záruk původu energie, vyřazení a evidenci vyřazení záruk původu energie a evidenci plnění kritérií udržitelnosti a úspor emisí skleníkových plynů u paliv z biomasy,
+>
+> - 6. postup uplatnění záruky původu energie,
+>
+> - 7. postup registrace výrobny energie a výrobce energie v systému operátora trhu, rozsah a termíny předání informace o vyrobeném a dodaném množství energie, přijaté investiční podpoře a další informace nezbytné k vydání záruky původu energie a rozsah a termíny předávaných údajů a informací od provozovatele soustavy nezbytných pro vydávání a uplatnění záruky původu energie,
+>
+> - 8. způsob a postup pro vydávání záruk původu energie na účet České republiky,
+>
+> - 9. způsob a formu zveřejnění pravidel organizace aukcí záruk původu energie,
+>
+> - 10. rozsah potvrzení o zárukách původu elektřiny uplatněných k dodávce elektřiny a zárukách původu plynu z obnovitelných zdrojů a nízkouhlíkového plynu uplatněných k dodávce plynu,
+>
+> - 11. stanovení, zda v případě záruk původu biometanu nabídne operátor trhu záruky původu biometanu prostřednictvím aukce záruk původu nebo na žádost povinně vykupujícího budou přímo převedeny na povinně vykupujícího za cenu převodu záruky původu podle [[#§ 45|§ 45]].
+>
+> - g) vzor žádosti o vydání osvědčení o původu elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla nebo z druhotných zdrojů a podmínky pro jeho vydávání,
+>
+> - h) způsob výpočtu úspory primární energie, způsob určení množství elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla a elektřiny z druhotných zdrojů, a termíny a rozsah předávaných údajů pro určení elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla a elektřiny z druhotných zdrojů,
+>
+> - i) podíl biologicky rozložitelné a nerozložitelné části nevytříděného komunálního odpadu na energetickém obsahu komunálního odpadu,
+>
+> - j) rozsah uchovávaných dokumentů a záznamů o použitých druzích biomasy, bioplynu, biokapalin a biometanu a o způsobu jejich využití pro výrobu paliv,
+>
+> - k) pro oblast kritérií udržitelnosti a úspor emisí skleníkových plynů
+>
+> - 1. kritéria udržitelnosti a úspor emisí skleníkových plynů pro biokapaliny a paliva z biomasy a kritéria úspor emisí skleníkových plynů obnovitelných paliv nebiologického původu, obnovitelného vodíku nebiologického původu a recyklovaných paliv s obsahem uhlíku,
+>
+> - 2. rozsah a termíny dokládání splnění kritérií udržitelnosti a úspor emisí skleníkových plynů nebo splnění pouze úspor emisí skleníkových plynů,
+>
+> - 3. rozsah dokladu o provedeném auditu a o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů a termíny zadání dokladu o provedeném auditu a o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů do systému operátora trhu,
+>
+> - 4. rozsah auditu a dokladu o provedeném auditu, rozsah a vzor prohlášení o původu lesní biomasy a plnění úspor emisí skleníkových plynů u vnitrostátního režimu prokazování kritérií udržitelnosti a úspor emisí skleníkových plynů z lesní biomasy,
+>
+> - l) rozsah údajů a termíny a způsob předávání a evidence naměřených nebo vypočtených hodnot elektřiny z podporovaných zdrojů a ověření vypočtených hodnot u podpory formou zeleného bonusu na elektřinu a aukčního bonusu,
+>
+> - m) rozsah údajů a termíny a způsob předání a evidence naměřených hodnot elektřiny z podporovaných zdrojů u podpory formou výkupních cen,
+>
+> - n) způsob, rozsah a termíny předávání a evidence naměřených hodnot vyrobeného a dodaného tepla z obnovitelných zdrojů do rozvodného tepelného zařízení soustavy zásobování tepelnou energií z výrobny tepla a užitečného tepla a dalších údajů a způsob měření dodaného tepla do rozvodného tepelného zařízení soustavy zásobování tepelnou energií a užitečného tepla,
+>
+> - o) způsob registrace místa předání vyrobeného tepla z výrobny tepla do rozvodného tepelného zařízení a její změny u podpory formou zeleného bonusu na teplo,
+>
+> - p) způsob a postup uvedení výrobny elektřiny, výrobny tepla a výrobny biometanu do provozu,
+>
+> - q) způsob a rozsah měření množství vyrobené elektřiny na svorkách generátoru, užitečného tepla a spotřebovaného paliva v případě elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla,
+>
+> - r) způsob a rozsah měření vyrobené elektřiny, technologické vlastní spotřeby, užitečného tepla a spotřebovaného paliva, způsob stanovení množství elektřiny pro technologickou vlastní spotřebu na krytí ztrát na zvyšovacích transformátorech a způsob výpočtu množství elektřiny s nárokem na podporu na elektřinu z obnovitelného zdroje v případě výrobce, který používá z technologických důvodů pro výrobu elektřiny z bioplynu nebo biomasy i jiné palivo,
+>
+> - s) způsob a rozsah měření biometanu, požadavky na kvalitu biometanu, odorizaci a tlak vyrobeného biometanu,
+>
+> - t) rozdělení zdrojů elektřiny do sektorů podle období jejich uvedení do provozu a použitého primárního zdroje pro sektorové šetření, vzory výkazů pro zjištění rozsahu technických a ekonomických údajů o výrobně elektřiny a jejím provozu,
+>
+> - u) způsob výpočtu snížení výše podpory elektřiny z obnovitelných zdrojů, podpory elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla, podpory elektřiny z druhotných zdrojů, podpory tepla z obnovitelných zdrojů a podpory biometanu o částku odpovídající výši čerpané investiční podpory,
+>
+> - v) způsob zohlednění investiční podpory ve výši provozní podpory nebo délce poskytování provozní podpory,
+>
+> - w) způsob zohlednění investiční podpory ve výši provozní podpory nebo délce poskytování provozní podpory a způsob výpočtu množství elektřiny, za které se hradí odvod,
+>
+> - x) způsob výpočtu snížení výše podpory elektřiny z obnovitelných zdrojů u zdrojů elektřiny uvedených do provozu v období od 1. ledna 2013 do 31. prosince 2015 se souběhem podpory elektřiny z obnovitelných zdrojů s investiční podporou nad 20 % z celkových investičních nákladů,
+>
+> - y) podmínky a požadavky na modernizaci výrobny elektřiny u jednotlivých druhů podporovaných zdrojů energie a rozsah uchovávaných dokladů prokazujících provedení modernizace výrobny elektřiny,
+>
+> - z) způsob stanovení množství elektřiny odpovídající výrobě elektřiny před provedením úpravy zařízení u palivového zdroje elektřiny,
+>
+> - aa) způsob, rozsah a termín předání údajů souvisejících s výrobnou a výrobou biometanu a identifikace výrobce biometanu a výrobny biometanu a o surovinách využitých pro výrobu biometanu, splnění kritérií udržitelnosti a úspor emisí skleníkových plynů operátorovi trhu,
+>
+> - ab) rozsah údajů o množství vyrobeného biometanu dodaného do čerpací stanice nebo výdejní jednotky s rozdělením na pokročilý a ostatní biometan a údaje o surovinách využitých pro výrobu takového biometanu a termíny a způsob předání těchto údajů,
+>
+> - ac) způsob stanovení podílu dodavatelů plynu na celkové dodávce zemního plynu a biometanu,
+>
+> - ad) způsob předání údajů, rozsah údajů a termín předání a evidence údajů, týkajících se identifikace výrobce tepla z neobnovitelného zdroje a výrobny tepla z neobnovitelného zdroje, doložení závazku ukončit výrobu tepla z uhlí a pokroku při plnění tohoto závazku a informací o množství nakoupených a vyřazených povolenek na emise skleníkových plynů a dalších údajů pro vyúčtování bonusu k transformaci výroby tepla operátorem trhu,
+>
+> - ae) způsob stanovení množství emisí skleníkových plynů na jednotku tepelné energie dodané zákazníkům v soustavě zásobování tepelnou energií,
+>
+> - af) podmínky a termíny registrace v systému operátora trhu podle § 47g odst. 1 písm. b) a podmínky a termíny prokazování plnění povinnosti podle § 47g odst. 1 písm. c),
+>
+> - ag) hodnoty energetického obsahu paliv pro stanovení podílu obnovitelného vodíku nebiologického původu na vodíku v průmyslu,
+>
+> - ah) rozsah, způsob a termín předání naměřených hodnot a vykázaných údajů předaných výrobcem biometanu a provozovatelem přepravní nebo distribuční soustavy pro vyúčtování zeleného bonusu na biometan operátorovi trhu,
+>
+> - ai) rozsah, způsob a termín předání naměřených hodnot a vykázaných údajů předaných výrobcem biometanu a provozovatelem přepravní nebo distribuční soustavy pro vyúčtování aukčního bonusu na biometan operátorovi trhu,
+>
+> - aj) rozsah, způsob a termín předání naměřených hodnot množství vyrobeného plynu provozovatelem přepravní soustavy nebo provozovatelem distribuční soustavy v předávacím místě v systému operátora trhu,
+>
+> - ak) seznam surovin, ze kterých je vyroben vyspělý biometan,
+>
+> - al) určení jiného dokladu o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů pro povinnost zajistit minimální množství pokročilého biometanu a obnovitelných paliv nebiologického původu a povinnost snižování emisí skleníkových plynů z plynných pohonných hmot.
+>
+> (2) Úřad stanoví vyhláškou
+>
+> - a) technicko-ekonomické parametry pro stanovení výkupních cen, referenčních výkupních cen a zelených bonusů jednotlivých druhů podporovaných zdrojů pro výrobu elektřiny, tepla a biometanu a výši diskontní míry,
+>
+> - b) dobu životnosti výroben elektřiny, výroben tepla a výroben biometanu z podporovaných zdrojů a dobu životnosti modernizované výrobny elektřiny,
+>
+> - c) termíny a postupy výběru podpory elektřiny u operátora trhu,
+>
+> - d) postup registrace podpory elektřiny u operátora trhu,
+>
+> - e) termíny a postup pro výběr formy podpory elektřiny a její změny,
+>
+> - f) postup registrace provozní podpory tepla, přechodné transformační podpory tepla a provozní podpory biometanu u operátora trhu,
+>
+> - g) způsob a postup stanovení rozdílu mezi čtvrthodinovou cenou a výkupní cenou, referenční výkupní cenou nebo referenční aukční cenou a jeho úhrady, operátorovi trhu,
+>
+> - h) způsob stanovení čtvrthodinového zeleného bonusu na elektřinu, aukčního bonusu pro obnovitelné zdroje a ceny za činnost povinně vykupujícího,
+>
+> - i) termín nabídnutí elektřiny výrobcem elektřiny z obnovitelných zdrojů povinně vykupujícímu,
+>
+> - j) termíny a způsob informování výrobce povinně vykupujícím nebo vykupujícím o dosažení záporné ceny na denním trhu s elektřinou a o situaci, kdy nedojde k sesouhlasení nabídky a poptávky elektřiny na denním trhu,
+>
+> - k) způsob a termíny účtování a hrazení složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny mezi operátorem trhu a provozovatelem přenosové soustavy a provozovatelem regionální distribuční soustavy a mezi provozovateli distribučních soustav,
+>
+> - l) rozsah a celkovou výši měrných provozních nákladů ke stanovení udržovací podpory elektřiny a rozsah a celkovou výši měrných provozních nákladů a způsob tvorby ceny tepla ke stanovení udržovací podpory tepla,
+>
+> - m) postup určení množství elektřiny odebrané z přenosové soustavy nebo distribuční soustavy pro ukládání elektřiny a zpětně dodané do přenosové soustavy nebo distribuční soustavy ze zařízení pro ukládání elektřiny a rozsah údajů předávaných provozovatelem zařízení pro ukládání elektřiny, výrobcem elektřiny nebo zákazníkem z podružného měřicího zařízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 45, § 47g
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5627fd1b24277332cafb -->
+
 ### § 54 — Přechodná ustanovení
 
 > **§ 54**
@@ -1084,6 +1876,91 @@ Odst. 1 a 2 výslovně vylučují aplikaci § 4 odst. 4, 5 a 8 a § 12 odst. 6 P
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f09b04f2833eea7edba0 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 54 — Přechodná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Pro elektřinu z výroben elektřiny uvedených do provozu přede dnem nabytí účinnosti tohoto zákona, pro kterou vznikl nárok na podporu elektřiny výkupními cenami podle dosavadních právních předpisů, vzniká nárok na podporu elektřiny formou výkupních cen podle tohoto zákona. Na výkup elektřiny z těchto výroben se uplatní povinnost povinně vykupujícího podle § 10 odst. 2. Pro elektřinu z těchto výroben elektřiny stanoví Úřad výši podpory elektřiny tak, aby její celková výše odpovídala postupům pro stanovení výše výkupní ceny podle dosavadních právních předpisů. Na výrobny elektřiny podle věty první, druhé a třetí se nevztahuje ustanovení § 4 odst. 4, [[#§ 5|5]] a [[#§ 8|8]] a § 12 odst. 6 tohoto zákona. Výrobce elektřiny podle věty první má i v případě, že si po účinnosti tohoto zákona zvolí podporu elektřiny formou zelených bonusů na elektřinu, právo si zvolit znovu podporu elektřiny formou výkupních cen v termínech a postupem podle tohoto zákona.
+>
+> (2) Pro elektřinu z výroben elektřiny uvedených do provozu přede dnem nabytí účinnosti tohoto zákona, pro kterou vznikl nárok na podporu elektřiny zelenými bonusy podle dosavadních právních předpisů, vzniká nárok na podporu elektřiny formou ročních zelených bonusů na elektřinu podle tohoto zákona. Na výkup elektřiny z těchto výroben se uplatní povinnost povinně vykupujícího podle § 10 odst. 2. Pro elektřinu z těchto výroben elektřiny postupuje Úřad při stanovení zelených bonusů na elektřinu nebo způsobu jejich stanovení tak, aby jejich výše odpovídala postupům pro stanovení výše zelených bonusů podle dosavadních právních předpisů. Na výrobny elektřiny podle věty první, druhé a třetí se nevztahuje ustanovení § 4 odst. 4, [[#§ 5|5]] a [[#§ 8|8]] a § 12 odst. 6 tohoto zákona. Výrobce elektřiny podle věty první má nárok po účinnosti tohoto zákona zvolit si podporu formou výkupních cen, s výjimkou případů výroby elektřiny vyráběné společně z obnovitelného zdroje a neobnovitelného zdroje energie, v termínech a postupem podle tohoto zákona.
+>
+> (3) Připojí-li výrobce výrobnu elektřiny dosud nepřipojenou k přenosové nebo distribuční soustavě a uvedenou do provozu přede dnem nabytí účinnosti tohoto zákona k přenosové nebo distribuční soustavě, má nárok na podporu elektřiny podle tohoto zákona. Pro účely stanovení podpory elektřiny se taková výrobna elektřiny považuje za výrobnu elektřiny uvedenou do provozu v roce 2011. Právo na podporu vzniká pouze výrobnám elektřiny, které uplatňovaly nárok na podporu podle [[zákona č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů|zákona č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů]] (zákon o podpoře využívání obnovitelných zdrojů), ve znění účinném přede dnem nabytí účinnosti [[zákona č. 330/2010 Sb|zákona č. 330/2010 Sb.]]
+>
+> (4) Pro elektřinu z výroben elektřiny uvedených do provozu přede dnem nabytí účinnosti tohoto zákona, pro které vznikl podle dosavadních právních předpisů nárok na příspěvek k ceně elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla nebo elektřiny z druhotných zdrojů, vzniká nárok na podporu elektřiny formou ročních zelených bonusů na elektřinu podle tohoto zákona. Na výrobny elektřiny podle věty první se nevztahuje ustanovení § 5 odst. 3 tohoto zákona.
+>
+> (5) Pro výrobny elektřiny uvedené do provozu přede dnem nabytí účinnosti tohoto zákona, pro které vznikl nárok na podporu elektřiny podle dosavadních právních předpisů, trvá nárok na podporu elektřiny podle tohoto zákona po dobu životnosti výrobny elektřiny podle dosavadních právních předpisů. Ustanovení odstavce 3 tím není dotčeno.
+>
+> (6) V případě elektřiny vyrobené společně z obnovitelného zdroje a neobnovitelného zdroje, pokud se nejedná o vysokoúčinnou kombinovanou výrobu elektřiny a tepla, podpora elektřiny podle dosavadních právních předpisů trvá do 31. prosince 2015.
+>
+> (7) Záruky původu a osvědčení o původu vydané přede dnem vyhlášení tohoto zákona ve Sbírce zákonů se považují za záruky původu a osvědčení o původu podle tohoto zákona.
+>
+> (8) Za odvodové období prosinec 2012 je plátce odvodu určený podle dosavadního právního předpisu povinen odvést odvody a podat vyúčtování odvodu do 25 dnů po dni nabytí účinnosti tohoto zákona.
+>
+> (9) Smlouvy o dodávce elektřiny uzavřené podle dosavadních právních předpisů mezi provozovatelem přenosové soustavy nebo provozovatelem regionální distribuční soustavy a výrobcem, jejichž předmětem je dodávka elektřiny vykupovaná provozovatelem přenosové soustavy nebo provozovatelem distribuční soustavy při podpoře výkupními cenami, zanikají uplynutím dne 31. prosince 2012. Výkupní cenu za elektřinu vyrobenou v časovém úseku pro vyhodnocování a zúčtování výkupu elektřiny dohodnutém v této smlouvě, který uplynul do dne účinnosti tohoto zákona, zaplatí výrobci provozovatel přenosové soustavy nebo provozovatel regionální distribuční soustavy. Časový úsek, který měl skončit až po nabytí účinnosti tohoto zákona, skončí uplynutím dne 31. prosince 2012. Podklady, na jejichž základě zaplatí výrobci provozovatel přenosové soustavy nebo provozovatel regionální distribuční soustavy výkupní cenu za elektřinu vyrobenou v časovém úseku pro vyhodnocování a zúčtování výkupu elektřiny dohodnutém v této smlouvě, který uplynul do dne účinnosti tohoto zákona, předá výrobce provozovateli přenosové soustavy nebo provozovateli regionální distribuční soustavy do 5. ledna 2013.
+>
+> (10) Ujednání mezi provozovatelem přenosové soustavy nebo provozovatelem regionální distribuční soustavy a výrobcem týkající se úhrady zeleného bonusu zanikají uplynutím dne 31. prosince 2012. Zelený bonus za elektřinu vyrobenou v časovém úseku pro vyhodnocování a zúčtování zeleného bonusu dohodnutém mezi provozovatelem přenosové soustavy nebo provozovatelem regionální distribuční soustavy a výrobcem, který uplynul do dne účinnosti tohoto zákona, uhradí výrobci provozovatel přenosové soustavy nebo provozovatel regionální distribuční soustavy. Časový úsek, který měl skončit až po nabytí účinnosti tohoto zákona, skončí uplynutím dne 31. prosince 2012. Naměřené nebo vypočtené údaje o množství jím vyrobené elektřiny a další podklady, na jejichž základě zaplatí výrobci provozovatel přenosové soustavy nebo provozovatel regionální distribuční soustavy zelený bonus za elektřinu vyrobenou v časovém úseku pro vyhodnocování a zúčtování zeleného bonusu sjednaném mezi provozovatelem přenosové soustavy nebo provozovatelem regionální distribuční soustavy a výrobcem, který uplynul do dne účinnosti tohoto zákona, předá výrobce provozovateli přenosové soustavy nebo provozovateli regionální distribuční soustavy do 5. ledna 2013.
+>
+> (11) Ujednání mezi provozovatelem přenosové soustavy nebo provozovatelem regionální distribuční soustavy a výrobcem, týkající se úhrady příspěvku k ceně elektřiny z kombinované výroby elektřiny a tepla a nebo vyrobené z druhotných zdrojů, zanikají uplynutím dne 31. prosince 2012. Příspěvek k ceně elektřiny z kombinované výroby elektřiny a tepla a nebo vyrobené z druhotných zdrojů v časovém úseku pro vyhodnocování a zúčtování příspěvku k ceně elektřiny z kombinované výroby elektřiny a tepla a nebo vyrobené z druhotných zdrojů dohodnutém mezi provozovatelem přenosové soustavy nebo provozovatelem regionální distribuční soustavy a výrobcem, který uplynul do dne účinnosti tohoto zákona, uhradí výrobci provozovatel přenosové soustavy nebo provozovatel regionální distribuční soustavy. Časový úsek, který měl skončit až po nabytí účinnosti tohoto zákona, skončí uplynutím dne 31. prosince 2012. Naměřené nebo vypočtené údaje o množství jím vyrobené elektřiny a další podklady, na jejichž základě zaplatí výrobci provozovatel přenosové soustavy nebo provozovatel regionální distribuční soustavy příspěvek k ceně elektřiny z kombinované výroby elektřiny a tepla a nebo vyrobené z druhotných zdrojů v časovém úseku pro vyhodnocování a zúčtování příspěvku k ceně elektřiny z kombinované výroby elektřiny a tepla a nebo vyrobené z druhotných zdrojů sjednaném mezi provozovatelem přenosové soustavy nebo provozovatelem regionální distribuční soustavy a výrobcem, který uplynul do dne účinnosti tohoto zákona, předá výrobce provozovateli přenosové soustavy nebo provozovateli regionální distribuční soustavy do 5. ledna 2013.
+>
+> (12) Práva a závazky provozovatele přenosové soustavy nebo provozovatele regionální distribuční soustavy vzniklé ze zaplacení výkupní ceny podle odstavce 9, úhrady zeleného bonusu podle odstavce 10 a úhrady příspěvku k ceně elektřiny z kombinované výroby elektřiny a tepla a nebo vyrobené z druhotných zdrojů podle odstavce 11 v případech, kdy výrobce nepředá podklady, na jejichž základě zaplatí provozovatel přenosové soustavy nebo provozovatel regionální distribuční soustavy výrobci výkupní cenu, kdy výrobce nepředá naměřené nebo vypočtené údaje o množství jím vyrobené elektřiny a další podklady, na jejichž základě uhradí provozovatel přenosové soustavy nebo provozovatel regionální distribuční soustavy výrobci zelený bonus, a kdy výrobce nepředá naměřené nebo vypočtené údaje o množství jím vyrobené elektřiny a další podklady, na jejichž základě uhradí provozovatel přenosové soustavy nebo provozovatel regionální distribuční soustavy výrobci příspěvek k ceně elektřiny z kombinované výroby elektřiny a tepla a nebo vyrobené z druhotných zdrojů do 28. února 2013, přecházejí dnem 1. března 2013 na operátora trhu.
+>
+> (13) Práva a závazky provozovatele přenosové soustavy nebo provozovatele regionální distribuční soustavy vzniklé do účinnosti tohoto zákona z důvodu, že provozovatel přenosové soustavy nebo provozovatel regionální distribuční soustavy odmítl přiznat výrobci zcela nebo zčásti nárok na výkupní cenu nebo na zelený bonus nebo na příspěvek k ceně elektřiny z kombinované výroby elektřiny a tepla a nebo vyrobené z druhotných zdrojů, přecházejí dnem účinnosti tohoto zákona na operátora trhu.
+>
+> (14) Výrobce z výrobny elektřiny uvedené do provozu přede dnem nabytí účinnosti tohoto zákona, který ke dni účinnosti tohoto zákona uplatňoval podporu elektřiny formou zelených bonusů podle dosavadních právních předpisů, do doby změny formy podpory provedené na základě podání žádosti o změnu formy podpory výrobcem podle § 8 odst. 5 tohoto zákona, je registrován do 30 dnů od účinnosti tohoto zákona provozovatelem přenosové nebo distribuční soustavy u operátora trhu jako výrobce s podporou formou ročních zelených bonusů na elektřinu. Výrobce z výrobny elektřiny uvedené do provozu přede dnem nabytí účinnosti tohoto zákona, který ke dni účinnosti tohoto zákona uplatňoval podporu elektřiny formou výkupních cen podle dosavadních právních předpisů, do doby změny formy podpory provedené na základě podání žádosti o změnu formy podpory výrobcem podle § 8 odst. 5 tohoto zákona, je registrován do 30 dnů od účinnosti tohoto zákona provozovatelem přenosové nebo distribuční soustavy u operátora trhu jako výrobce s podporou formou výkupních cen.
+>
+> (15) Ustanovení § 4 odst. 4 a odst. 5 písm. b) a c) a § 5 odst. 3 tohoto zákona se nevztahují na výrobny elektřiny z obnovitelných a druhotných zdrojů uvedených do provozu do 24 měsíců od vyhlášení tohoto zákona ve Sbírce zákonů.
+>
+> (16) Na elektřinu vyrobenou ve výrobnách elektřiny využívajících slunečního záření na území České republiky, které jsou připojené k elektrizační soustavě České republiky prostřednictvím elektrizační soustavy v sousedním státu a byly uvedeny do provozu přede dnem nabytí účinnosti [[zákona č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů|zákona č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů]] (zákon o podpoře využívání obnovitelných zdrojů), ve znění [[zákona č. 330/2010 Sb|zákona č. 330/2010 Sb.]], se ustanovení § 4 odst. 2 tohoto zákona nevztahuje. Pro účely stanovení podpory elektřiny se taková výrobna elektřiny považuje za výrobnu elektřiny uvedenou do provozu dnem, kdy byla v souladu se smlouvou o připojení připojena k elektrizační soustavě sousedního státu.
+>
+> (17) Na elektřinu vyrobenou z obnovitelných zdrojů ve výrobnách elektřiny na území České republiky, které nejsou připojeny k elektrizační soustavě České republiky přímo nebo prostřednictvím odběrného místa nebo prostřednictvím jiné výrobny elektřiny připojené k elektrizační soustavě České republiky a byly uvedeny do provozu přede dnem nabytí účinnosti tohoto zákona, se ustanovení § 4 odst. 2 tohoto zákona nevztahuje. Pro účely stanovení podpory elektřiny se taková výrobna elektřiny považuje za výrobnu elektřiny uvedenou do provozu dnem, kdy začala vyrábět elektřinu, na kterou čerpala podporu podle [[zákona č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů|zákona č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů]] (zákon o podpoře využívání obnovitelných zdrojů), ve znění účinném přede dnem nabytí účinnosti [[zákona č. 330/2010 Sb|zákona č. 330/2010 Sb.]] Právo na podporu vzniká pouze výrobcům elektřiny, kteří uplatňovali nárok na podporu podle [[zákona č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů|zákona č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů]] (zákon o podpoře využívání obnovitelných zdrojů), ve znění účinném přede dnem nabytí účinnosti [[zákona č. 330/2010 Sb|zákona č. 330/2010 Sb.]]
+>
+> (18) Korekční faktory související s podporou elektřiny z obnovitelných zdrojů, kombinované výroby elektřiny a tepla a druhotných energetických zdrojů17), které náleží provozovateli přenosové soustavy a provozovateli regionální distribuční soustavy za poslední dva kalendářní roky bezprostředně předcházející roku, ve kterém nabyl účinnosti tento zákon, stanoví Úřad v souladu s jiným právním předpisem, který upravuje způsob regulace cen v energetických odvětvích a postupy pro regulace cen17) ve znění účinném k 31. prosinci 2012. O takto stanovené korekční faktory upraví Úřad složku ceny za přenos elektřiny a ceny za distribuci elektřiny na krytí nákladů spojených s podporou elektřiny účtované operátorem trhu provozovateli regionální distribuční soustavy a provozovateli přenosové soustavy podle § 13 odst. 1 nejpozději do konce druhého kalendářního roku následujícího po kalendářním roce, ve kterém tento zákon nabyl účinnosti.
+>
+> (19) Pokud žadatel o připojení získal v době před 1. dubnem 2010 rezervaci výkonu pro účely připojení výrobny elektřiny, která využívá sluneční energii k výrobě elektřiny, k přenosové soustavě nebo distribuční soustavě a tato výrobna elektřiny nesplňuje podmínky podle [[§ 3 odst. 5|§ 3 odst. 5]] [[zákona č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů|zákona č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů]] (zákon o podpoře využívání obnovitelných zdrojů), ve znění [[zákona č. 330/2010 Sb|zákona č. 330/2010 Sb.]], a ke dni vyhlášení tohoto zákona žadatel o připojení nemá licenci na výrobu elektřiny v takové výrobně, rezervace výkonu v den vyhlášení tohoto zákona zaniká. Dnem zániku rezervace výkonu zaniká právo na připojení této výrobny elektřiny k elektrizační soustavě České republiky. Povinnost provozovatele přenosové soustavy nebo distribuční soustavy vrátit žadateli o připojení zaplacený podíl na oprávněných nákladech na připojení, jakož i povinnost žadatele o připojení nahradit provozovateli přenosové soustavy nebo distribuční soustavy náklady vynaložené na připojení, zůstávají tímto nedotčeny.
+>
+> (20) Úřad stanoví poprvé výši zeleného bonusu na teplo podle [[#§ 26|§ 26]] a bonusu na decentrální výrobu elektřiny podle [[#§ 42|§ 42]] tohoto zákona pro rok 2013.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10, § 4, § 5, § 8, § 12, § 13, § 3, § 26, § 42
+
+##### Souvisící předpisy
+
+- zákon č. 180/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 330/2010 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f09b04f2833eea7edba0 -->
+
 ### § 55 — Zrušovací ustanovení
 
 > **§ 55**
@@ -1149,3 +2026,56 @@ Zrušení se týká výhradně těchto tří předpisů. Ostatní právní před
 **Typicky rozhodné důkazy / podklady:** doklady o datu vzniku práva/povinnosti, znění zrušených předpisů rozhodné v dané době, cenová rozhodnutí ERÚ z příslušného období, dokumentace k solárnímu odvodu.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=ac53b727e1b05bf79d05 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 55 — Zrušovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Zrušuje se:
+>
+> - 1. [[Zákon č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů|Zákon č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů]] (zákon o podpoře využívání obnovitelných zdrojů).
+>
+> - 2. [[Zákon č. 137/2010 Sb., kterým se mění zákon č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů (zákon o podpoře využívání obnovitelných zdrojů)|Zákon č. 137/2010 Sb., kterým se mění zákon č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů (zákon o podpoře využívání obnovitelných zdrojů)]].
+>
+> - 3. [[Zákon č. 330/2010 Sb., kterým se mění zákon č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů (zákon o podpoře využívání obnovitelných zdrojů), ve znění pozdějších předpisů|Zákon č. 330/2010 Sb., kterým se mění zákon č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů (zákon o podpoře využívání obnovitelných zdrojů), ve znění pozdějších předpisů]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- zákon č. 180/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 137/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 330/2010 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ac53b727e1b05bf79d05 -->

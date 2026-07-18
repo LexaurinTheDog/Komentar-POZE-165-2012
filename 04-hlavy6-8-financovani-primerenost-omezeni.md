@@ -189,6 +189,112 @@ V praxi § 28 vytváří třípilířové financování (regulovaná složka cen
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=545d89d6b922323f15ec generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 28 — Financování podpory
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Náklady na podporu elektřiny, provozní podporu tepla, přechodnou transformační podporu tepla a podporu biometanu jsou hrazeny prostřednictvím operátora trhu z finančních prostředků, které jsou tvořeny
+>
+> - a) tržbami z plateb složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny,
+>
+> - b) tržbami z plateb v případě, že je dosaženo vyšší čtvrthodinové ceny, než je výkupní cena, referenční výkupní cena nebo referenční aukční cena nebo kdy je dosaženo vyšší očekávané průměrné roční čtvrthodinové ceny, než je referenční aukční cena v případě vysokoúčinné kombinované výroby elektřiny a tepla,
+>
+> - c) prostředky z finanční jistoty,
+>
+> - d) dotací z prostředků státního rozpočtu podle odstavce 3,
+>
+> - e) výnosy z dražeb povolenek podle zákona o podmínkách obchodování s povolenkami na emise skleníkových plynů realizovanými prostřednictvím kapitoly ministerstva,
+>
+> - f) kladným rozdílem mezi očekávanou tržní cenou elektřiny z nízkouhlíkové výrobny na organizovaných trzích a realizační cenou podle [[§ 9 odst. 3|§ 9 odst. 3]] [[zákona o opatřeních k přechodu České republiky k nízkouhlíkové energetice|zákona o opatřeních k přechodu České republiky k nízkouhlíkové energetice]],
+>
+> - g) výnosy z aukcí záruk původu energie podle [[#§ 45g|§ 45g]] v případě záruk původu energie vydaných na účet České republiky podle § 45a odst. 2.
+>
+> (2) Operátor trhu má právo na úhradu nákladů na podporu elektřiny, provozní podporu tepla přechodnou transformační podporu tepla a podporu biometanu.
+>
+> (3) Vláda stanoví svým usnesením prostředky státního rozpočtu pro poskytnutí dotace na úhradu složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny, na úhradu provozní podpory tepla, přechodné transformační podpory tepla a podpory biometanu, a to do 30. září kalendářního roku, který předchází kalendářnímu roku, pro který Úřad stanoví složku ceny služby distribuční soustavy a složku ceny služby přenosové soustavy na podporu elektřiny. Prostředky státního rozpočtu pro poskytnutí dotace vláda stanoví na základě finančních prostředků uvedených v odstavci 1 písm. a), b), c), e), f) a g), a to tak, aby spolu s nimi pokryly celkové předpokládané finanční prostředky na podporu elektřiny, provozní podporu tepla, přechodnou transformační podporu tepla a podporu biometanu. Vláda může stanovit prostředky pro poskytnutí dotace na úhradu složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny v dělení podle napěťových hladin a v případě napěťové hladiny nízkého napětí i v dělení podle kategorií zákazníků. V takovém případě zohlední Úřad při stanovení složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny různou výši dotace podle napěťových hladin nebo kategorií zákazníků. Vláda může usnesení podle věty první změnit; věta druhá se v takovém případě použije obdobně. Změní-li vláda usnesení podle věty první, změní Úřad cenový výměr na daný rok nebo jeho zbývající část, pokud je to nezbytné, a to nejpozději do 3 měsíců ode dne, kdy vláda své usnesení změnila.
+>
+> (4) Úřad stanoví složku ceny služby distribuční soustavy a složku ceny služby přenosové soustavy na podporu elektřiny pro
+>
+> - a) předávací místa s přenosovou nebo distribuční soustavou na napěťové hladině velmi vysokého napětí a vysokého napětí v Kč/MW/měsíc podle sjednaného rezervovaného příkonu v předávacím místě ve smlouvě o připojení31); rezervovaný příkon je možné sjednat v rozsahu od nejvyššího rezervovaného příkonu ze všech míst připojení tvořících dané předávací místo do součtu rezervovaných příkonů všech míst připojení tvořících dané předávací místo, a
+>
+> - b) předávací místa s distribuční soustavou na napěťové hladině nízkého napětí v Kč/A/měsíc podle jmenovité proudové hodnoty hlavního jističe před elektroměrem v předávacím místě a podle prostředků pro poskytnutí dotace na jednotlivé kategorie zákazníků; v případě, že předávací místo není vybaveno hlavním jističem před elektroměrem, použije se jmenovitá proudová hodnota nejbližšího předřazeného jistícího prvku.
+>
+> (5) Při stanovení složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny pro následující kalendářní rok Úřad bere v úvahu rozdíly mezi skutečně vynaloženými náklady a výnosy na podporu elektřiny, provozní podporu tepla, přechodnou transformační podporu tepla a podporu biometanu za uplynulý kalendářní rok.
+>
+> (6) Peněžní prostředky určené na podporu elektřiny, provozní podporu tepla, přechodnou transformační podporu tepla a podporu biometanu vede operátor trhu odděleně na zvláštních účtech u banky nebo pobočky zahraniční banky na území České republiky.
+>
+> (7) Úřad poskytuje operátorovi trhu a ministerstvu údaje o držitelích licencí a údaje z vydaných rozhodnutí o udělení nebo změně licence a další informace předané výrobci, výrobci tepla a výrobci biometanu Úřadu v souvislosti se změnami výroben elektřiny, výroben tepla a výroben biometanu.
+>
+> (8) Ministerstvo poskytuje operátorovi trhu údaje o držitelích osvědčení o původu elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla a osvědčení o původu elektřiny z druhotných zdrojů a výrobnách, na které bylo toto osvědčení vydáno, včetně změn, a údaje z rozhodnutí o udělení práva na podporu z aukce v rozsahu nezbytném pro jeho činnost.
+>
+> (9) Operátor trhu poskytuje povinně vykupujícímu
+>
+> - a) údaje podle odstavce 7, a to bez zbytečného odkladu po jejich obdržení od Úřadu,
+>
+> - b) informaci o tom, že výrobce uplatňuje podporu elektřiny formou výkupní ceny pro výrobnu elektřiny, u které nastala některá ze skutečností podle § 8 odst. 1, a to bez zbytečného odkladu poté, co se o ní dozví.
+>
+> (10) Skutečně vynaloženými náklady operátora trhu na podporu elektřiny, provozní podporu tepla, přechodnou transformační podporu tepla a podporu biometanu je součet těchto částek,
+>
+> - a) vyplacené peněžní prostředky výrobcům, výrobcům tepla, výrobcům tepla z neobnovitelného zdroje, výrobcům biometanu a povinně vykupujícím na podporu elektřiny, provozní podporu tepla, přechodnou transformační podporu tepla a podporu biometanu,
+>
+> - b) finanční náklady související s podporou elektřiny, provozní podporou tepla, přechodnou transformační podporou tepla a podporou biometanu a daňová povinnost z neuznané části úroků z půjček od spojených osob,
+>
+> - c) peněžní prostředky související se správními a soudními řízeními, které se týkají podpory elektřiny, provozní podpory tepla, přechodné transformační podpory tepla a podpory biometanu a financování podpory,
+>
+> - d) další náklady související s podporou elektřiny, provozní podporou tepla, přechodnou transformační podporou tepla a podporou biometanu podle právních předpisů upravujících účetnictví.
+>
+> (11) Skutečnými výnosy operátora trhu na podporu elektřiny, provozní podporu tepla, přechodnou transformační podporu tepla a podporou biometanu je součet těchto částek:
+>
+> - a) uhrazené peněžní prostředky podle odstavce 1,
+>
+> - b) finanční výnosy uhrazené v souvislosti s podporou elektřiny, provozní podporou tepla, přechodnou transformační podporou tepla a podporou biometanu,
+>
+> - c) peněžní prostředky související se správními a soudními řízeními, které se týkají podpory elektřiny, provozní podpory tepla, přechodné transformační podpory tepla a podpory biometanu a financování podpory,
+>
+> - d) další výnosy související s podporou elektřiny, provozní podporou tepla, přechodnou transformační podporou tepla a podporou biometanu podle právních předpisů upravujících účetnictví.
+>
+> (12) Náklady uvedené v odstavci 10 písm. a) až c) a výnosy uvedené v odstavci 11 písm. a) až c), které přísluší k podpoře elektřiny, jsou zahrnuty do stanovení složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 45g, § 45a, § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=545d89d6b922323f15ec -->
+
 ### § 28a — Způsob a postup úhrady plateb složky ceny na podporu elektřiny
 
 > **§ 28a**
@@ -276,6 +382,62 @@ Osvobozené množství elektřiny reflektuje technologická specifika a zamezuje
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6c4a697da709c3b6fa4f generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 28a — Způsob a postup úhrady plateb složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Platba složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny (dále jen „platba na podporu elektřiny“) se účtuje v poměru počtu dní, kdy existuje dané předávací místo v kalendářním měsíci, k počtu dní v kalendářním měsíci.
+>
+> (2) Zákazník hradí za zúčtovací období platbu na podporu elektřiny ve výši součinu jednotkové složky ceny služby distribuční soustavy nebo jednotkové složky ceny služby přenosové soustavy na podporu elektřiny stanovené Úřadem a velikosti sjednaného rezervovaného příkonu v jednotlivých předávacích místech tvořených hlavními vedeními nebo v případě odběru elektřiny na hladině nízkého napětí jmenovité proudové hodnoty hlavního jističe před elektroměrem v předávacím místě. Maximální platba na podporu elektřiny zákazníka za odběrné místo za zúčtovací období je určena součinem částky 495 Kč/MWh a celkového odebraného množství elektřiny z přenosové nebo distribuční soustavy ve všech předávacích místech odběrného místa nebo výrobny elektřiny za zúčtovací období. V případě, že došlo v rámci zúčtovacího období ke změně složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny podle § 28 odst. 4, hradí zákazník za zúčtovací období platbu na podporu elektřiny podle vět první a druhé stanovenou samostatně za jednotlivé části zúčtovacího období s odlišnou složkou ceny služby distribuční soustavy a složkou ceny služby přenosové soustavy na podporu elektřiny.
+>
+> (3) Provozovatel lokální distribuční soustavy hradí provozovateli distribuční soustavy, ke které je lokální distribuční soustava připojena (dále jen „nadřazená distribuční soustava“), platby na podporu elektřiny od účastníků trhu s elektřinou, jejichž zařízení9) jsou připojena k lokální distribuční soustavě tohoto provozovatele. Provozovatel lokální distribuční soustavy dále hradí provozovateli nadřazené distribuční soustavy platby ve výši rozdílu plateb odpovídající velikosti souhrnu sjednaného rezervovaného příkonu ve všech předávacích místech tvořených hlavními vedeními lokální distribuční soustavy s nadřazenou distribuční soustavou a souhrnu plateb hrazených účastníky trhu s elektřinou, jejichž zařízení jsou připojena k této lokální distribuční soustavě. Maximální platba na podporu elektřiny podle věty druhé za zúčtovací období je určena součinem částky 495 Kč/MWh a celkového množství elektřiny vstupujícího do lokální distribuční soustavy z nadřazené distribuční soustavy a od účastníků trhu s elektřinou sníženého o množství elektřiny odebrané zákazníkem z lokální distribuční soustavy, za které se hradí platba na podporu elektřiny podle odstavce 2, a o množství elektřiny vystupující z lokální distribuční soustavy do jiné distribuční soustavy. V případě, že došlo v rámci zúčtovacího období ke změně složky ceny služby distribuční soustavy a složky ceny služby přenosové soustavy na podporu elektřiny podle § 28 odst. 4, hradí provozovatel lokální distribuční soustavy za zúčtovací období platbu na podporu elektřiny podle vět první až třetí stanovenou samostatně za jednotlivé části zúčtovacího období s odlišnou složkou ceny služby distribuční soustavy a složkou ceny služby přenosové soustavy na podporu elektřiny.
+>
+> (4) Je-li zařízení účastníka trhu s elektřinou připojeno k přenosové nebo distribuční soustavě hlavním i záložním vedením, použije se pro vyhodnocení maximální platby na podporu elektřiny podle odstavců 2 a [[#§ 3|3]] součet množství elektřiny odebraného prostřednictvím hlavních a záložních vedení v daném zúčtovacím období.
+>
+> (5) Pro výpočet maximální platby na podporu elektřiny podle odstavců 2 a [[#§ 3|3]] se do celkového množství elektřiny nezahrnuje množství elektřiny odebrané přečerpávacími vodními elektrárnami, odebrané pro technologickou vlastní spotřebu elektřiny pro výrobu elektřiny nebo pro výrobu elektřiny a tepla, dodané prostřednictvím distribuční soustavy do distribuční soustavy umístěné v jiném členském státě Evropské unie, spotřebované provozovatelem přenosové soustavy nebo provozovatelem distribuční soustavy na krytí ztrát v jím provozované soustavě a množství trakční elektrické energie spotřebované při provozování drážní dopravy na dráze železniční, tramvajové, trolejbusové a lanové a množství elektřiny, které bylo provozovatelem zařízení pro ukládání elektřiny, výrobcem elektřiny nebo zákazníkem odebráno z přenosové soustavy nebo distribuční soustavy pro ukládání elektřiny a zpětně dodáno do přenosové soustavy nebo distribuční soustavy ze zařízení pro ukládání elektřiny.
+>
+> (6) Pokud ve smlouvě o připojení31) nebyl sjednán rezervovaný příkon v předávacím místě, ale pouze rezervovaný příkon pro jednotlivá místa připojení, použije se pro stanovení platby na podporu elektřiny součet sjednaných rezervovaných příkonů hlavních vedení na jedné napěťové hladině. Pokud ve smlouvě o připojení31) nebyl sjednán rezervovaný příkon v předávacím místě ani rezervovaný příkon pro jednotlivá místa připojení, použije se pro stanovení platby na podporu elektřiny místo sjednaného rezervovaného příkonu v předávacím místě výše sjednaného rezervovaného příkonu na jednotlivých napěťových hladinách.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 28, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6c4a697da709c3b6fa4f -->
+
 ### § 29 — Dotace ze státního rozpočtu — rozhodnutí a splátky
 
 > **§ 29**
@@ -345,6 +507,54 @@ Pokud vláda změní usnesení (§ 28 odst. 3 věta pátá), ministerstvo musí 
 **Typicky rozhodné důkazy / podklady:** usnesení vlády o dotaci, rozhodnutí ministerstva o poskytnutí dotace, doklady o poukázání čtvrtletních splátek, výkazy OTE o nákladech na podporu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f62c33bf09060f7604fa generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 29
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) O poskytnutí dotace operátorovi trhu na úhradu nákladů na podporu elektřiny, provozní podporu tepla, přechodnou transformační podporu tepla a podporu biometanu podle § 28 odst. 3 zákona rozhodne ministerstvo nejpozději do 30 dnů ode dne schválení usnesení podle § 28 odst. 3 zákona. O poskytnutí dotace vydá ministerstvo rozhodnutí. Ministerstvo poukáže operátorovi trhu vždy jednu čtvrtinu částky dotace, a to do konce měsíce následujícího po ukončení čtvrtletí.
+>
+> (2) Dojde-li v průběhu roku ke změně výše peněžních prostředků určených na poskytnutí dotace podle § 28 odst. 3, ministerstvo upraví rozhodnutí podle odstavce 1 a upravenou částku peněžních prostředků určených na poskytnutí dotace zohlední ve zbývajících čtvrtletních splátkách dotace.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 28
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f62c33bf09060f7604fa -->
 
 ## Hlava VII — Přiměřenost podpory elektřiny z obnovitelných zdrojů, KVET, druhotných zdrojů, tepla a biometanu
 
@@ -465,6 +675,70 @@ Výrobny, jimž bylo zachováno právo na podporu i při uvádění do provozu p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8a8f98e7c6ee001fe957 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 30 — Postup prověření přiměřenosti podpory elektřiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Prověření přiměřenosti podpory elektřiny z obnovitelných zdrojů se provádí u zdrojů elektřiny uvedených do provozu v období od 1. ledna 2006 do 31. prosince 2015. Podpora elektřiny je přiměřená, pokud vnitřní výnosové procento investic za dobu životnosti výrobny elektřiny nepřekročí hodnoty v intervalu 8,4 % až 10,6 %. Hodnoty vnitřního výnosového procenta investic pro jednotlivé druhy obnovitelných zdrojů stanoví vláda nařízením.
+>
+> (2) V případě překročení hodnot podle odstavce 1 se jedná o nadměrnou podporu. Nadměrná podpora může vzniknout
+>
+> - a) podporou elektřiny z obnovitelných zdrojů,
+>
+> - b) souběhem podpory elektřiny z obnovitelných zdrojů s podporou elektřiny z druhotných zdrojů, podporou elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla, podporou decentrální výroby elektřiny anebo s provozní podporou tepla z obnovitelných zdrojů energie (dále jen „jiná provozní podpora“), nebo
+>
+> - c) souběhem podpory elektřiny z obnovitelných zdrojů s investiční podporou nebo s investiční podporou a jinou provozní podporou; to neplatí pro souběh podpory elektřiny pro zdroj elektřiny uvedený do provozu v období od 1. ledna 2013 do 31. prosince 2015, u kterého je výše provozní podpory podle cenového předpisu snížena o poměrnou část investiční podpory uvedené v systému operátora trhu.
+>
+> (3) Přiměřenost podpory elektřiny se prověřuje sektorovým šetřením přiměřenosti podpory elektřiny (dále jen „sektorové šetření“) podle § 31, v řízení o žádosti o stanovení individuálních podmínek podle [[#§ 34|§ 34]] a v řízení o stanovení podmínek podpory z moci úřední podle [[#§ 35|§ 35]].
+>
+> (4) Přiměřenost podpory se v řízení podle [[#§ 35|§ 35]] neprověřuje, pokud výrobce uplatnil v jednotlivých 3 po sobě jdoucích účetních obdobích právo na podporu elektřiny z obnovitelných zdrojů nebo uplatnil právo na tuto podporu společně s jinou podporou malého rozsahu do výše podpory malého rozsahu stanovené přímo použitelným předpisem Evropské unie upravujícím oblast podpory de minimis32).
+>
+> (5) U zdrojů elektřiny uvedených do provozu v období od 1. ledna 2013 do 31. prosince 2015 se souběhem podpory elektřiny s investiční podporou, jejíž výše je nad 20 % z celkových investičních nákladů, trvá po zbývající dobu životnosti zdroje elektřiny právo na podporu ve výši stanovené podle pravidel platných pro rok, ve kterém byl zdroj elektřiny uveden do provozu, snížené o poměrnou část poskytnuté investiční podpory. Způsob výpočtu snížení podpory elektřiny o poskytnutou investiční podporu stanoví prováděcí právní předpis.
+>
+> (6) Pro účely prověření přiměřenosti podpory elektřiny se má za to, že zdroj elektřiny byl uveden do provozu dnem, který je jako datum uvedení do provozu uveden v systému operátora trhu. Pro účely prověření přiměřenosti podpory elektřiny se má dále za to, že mezi obnovitelné zdroje patří také důlní plyn z uzavřených dolů využívaný k výrobě energie ve výrobnách elektřiny uvedených do provozu v období od 1. ledna 2006 do 31. prosince 2012, a při posuzování přiměřenosti podpory se pro výrobny elektřiny využívající energii důlního plynu použije hodnota vnitřního výnosového procenta stanovená tímto zákonem pro výrobny elektřiny využívající energii bioplynu.
+>
+> (7) Podle tohoto dílu se obdobně postupuje při zajištění přiměřenosti podpory elektřiny v případě výroben elektřiny, u kterých je při uvedení do provozu po 31. prosinci 2015 zachováno právo na podporu za podmínky uvedení výrobny elektřiny do provozu v zákonem stanovené lhůtě ode dne udělení autorizace na výstavbu výrobny elektřiny, nebo od dne vydání územního rozhodnutí o umístění stavby výrobny elektřiny, o jejímž umístění bylo územní řízení zahájeno před 18. srpnem 2011.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 31, § 34, § 35
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8a8f98e7c6ee001fe957 -->
+
 ### § 31 — Sektorové šetření
 
 > **§ 31**
@@ -567,6 +841,72 @@ Na rozdíl od řízení z moci úřední (§ 30 odst. 4) může sektorové šet�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cdaad8249f66546182ef generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 31 — Sektorové šetření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Sektorovým šetřením se prověřuje výše vnitřního výnosového procenta investic do výrobny elektřiny dosahovaného výrobci za uplynulou dobu provozování výroben elektřiny v daném sektoru a za zbývající dobu práva na podporu elektřiny vyrobené ve výrobnách elektřiny v tomto sektoru. K provedení sektorového šetření je příslušné ministerstvo.
+>
+> (2) Pro účely prověření přiměřenosti podpory se sektorem rozumí zdroje elektřiny rozdělené podle období jejich uvedení do provozu, použitého primárního zdroje energie a jejich výkonu. Jednotlivé sektory stanoví prováděcí právní předpis.
+>
+> (3) Ministerstvo provede sektorové šetření po uplynutí 10 let od prvního dne kalendářního roku následujícího po roce uvedení výrobny elektřiny do provozu. Podkladem pro zjištění stavu věci v sektorovém šetření jsou technické a ekonomické údaje o výrobně elektřiny a jejím provozu poskytnuté výrobci. Je-li to ke zjištění stavu věci potřebné, může ministerstvo použít i jiné podklady.
+>
+> (4) Výrobce je povinen poskytnout ministerstvu na vyžádání úplné a pravdivé technické a ekonomické údaje o výrobně elektřiny a jejím provozu. Vzory výkazů pro zjištění rozsahu technických a ekonomických údajů o výrobně elektřiny a jejím provozu stanoví prováděcí právní předpis.
+>
+> (5) Pokud ministerstvo při sektorovém šetření zjistí výši vnitřního výnosového procenta investic do výroben elektřiny, která přesahuje hodnotu vnitřního výnosového procenta investic v daném sektoru podle § 30 odst. 1, platí, že v sektoru je riziko nadměrné podpory.
+>
+> (6) Ministerstvo zveřejní zprávu o provedeném sektorovém šetření a jeho zjištění na svých internetových stránkách a informuje o nich vládu každoročně do 30. června. Pokud ministerstvo při sektorovém šetření zjistí riziko nadměrné podpory, ve zprávě o provedeném sektorovém šetření rovněž uvede, o kolik zjištěná výše vnitřního výnosového procenta v sektoru převyšuje hodnoty uvedené v § 30 odst. 1.
+>
+> (7) Pokud je v sektoru zjištěno riziko nadměrné podpory, je ministerstvo povinno do 15 dnů ode dne zveřejnění zprávy o provedeném sektorovém šetření uvědomit o výsledku sektorového šetření všechny jemu známé výrobce,
+>
+> - a) kteří provozují výrobny elektřiny náležející do sektoru, ve kterém bylo zjištěno riziko nadměrné podpory, a
+>
+> - b) u kterých je souběh podpory elektřiny z obnovitelných zdrojů a investiční podpory.
+>
+> (8) V oznámení podle odstavce 7 ministerstvo současně poučí výrobce o možnosti oznámení individuálního opatření k zajištění přiměřenosti podpory podle [[#§ 33|§ 33]] a o lhůtě pro oznámení individuálního opatření k zajištění přiměřenosti podpory operátorovi trhu. Operátor trhu předá ministerstvu na vyžádání kontaktní údaje výrobců.
+>
+> (9) Sektorové šetření může zahrnovat také zdroj elektřiny provozovaný výrobcem, který čerpal v jednotlivých 3 po sobě jdoucích účetních obdobích podporu elektřiny z obnovitelných zdrojů nebo čerpal tuto podporu společně s jinou podporou malého rozsahu do výše podpory malého rozsahu stanovené přímo použitelným předpisem Evropské unie upravujícím oblast podpory de minimis32).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 30, § 33
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cdaad8249f66546182ef -->
+
 ### § 32 — Plošná úprava podpory k odstranění rizika nadměrné podpory
 
 > **§ 32**
@@ -638,6 +978,56 @@ ERÚ je při stanovení korigovaných cen a bonusů vázán zprávou o sektorov�
 **Typicky rozhodné důkazy / podklady:** zpráva o sektorovém šetření, cenový výměr ERÚ s dvojí výkupní cenou, podklady ERÚ k výpočtu snížené ceny, znalecký výpočet individuálního IRR výrobny.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ea8d924c9153b36b1738 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 32 — Plošná úprava podpory k odstranění rizika nadměrné podpory
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Pokud je výsledkem sektorového šetření zjištění rizika nadměrné podpory, Úřad pro elektřinu vyrobenou ve výrobnách elektřiny náležejících do sektoru, ve kterém je riziko nadměrné podpory, současně s výkupní cenou stanovenou podle podmínek platných pro rok, ve kterém byla výrobna elektřiny uvedena do provozu, stanoví s účinností od následujícího kalendářního roku další výkupní cenu, a to v takové výši, aby při podpoře takto stanovenou výkupní cenou bylo po zbývající dobu trvání práva na podporu elektřiny dosaženo vnitřního výnosového procenta podle § 30 odst. 1.
+>
+> (2) Při stanovení ročních zelených bonusů pro elektřinu vyrobenou ve výrobnách elektřiny náležejících do sektoru, ve kterém je riziko nadměrné podpory, a stanovení postupu pro stanovení čtvrthodinového zeleného bonusu na elektřinu se odstavec 1 použije obdobně.
+>
+> (3) Úřad je povinen při stanovení podpor k odstranění rizika nadměrné podpory podle odstavců 1 a [[#§ 2|2]] postupovat tak, aby snížení výkupních cen a zelených bonusů bylo v souladu se zprávou o sektorovém šetření podle § 31 odst. 6 a s podklady sektorového šetření, které ministerstvo předá Úřadu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 30, § 2, § 31
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ea8d924c9153b36b1738 -->
 
 ### § 33 — Individuální opatření k zajištění přiměřenosti podpory
 
@@ -741,6 +1131,80 @@ Zákon zakládá **vyvratitelnou domněnku přiměřenosti**: pokud výrobce ř�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9acd457483743e206b21 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 33 — Individuální opatření k zajištění přiměřenosti podpory
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Pokud je výsledkem sektorového šetření zjištění rizika nadměrné podpory u podpory elektřiny podle § 30 odst. 2 písm. a), může výrobce oznámit operátorovi trhu, že se od začátku dvanáctého kalendářního roku následujícího po roce, kdy byl zdroj elektřiny uveden do provozu, vzdává práva na podporu elektřiny. Pro elektřinu vyrobenou ve výrobně elektřiny po zbývající dobu životnosti výrobny elektřiny nevzniká právo na podporu.
+>
+> (2) V případě souběhu podpory elektřiny podle § 30 odst. 2 písm. c) může výrobce oznámit operátorovi trhu, že hodlá uplatňovat právo na podporu sníženou o částku odpovídající poskytnuté investiční podpoře. V takovém případě trvá pro elektřinu vyrobenou ve výrobně elektřiny od začátku dvanáctého kalendářního roku následujícího po roce, kdy byl zdroj elektřiny uveden do provozu, po zbývající dobu životnosti výrobny elektřiny právo na podporu ve výši
+>
+> - a) stanovené podle pravidel platných pro rok, ve kterém byla výrobna elektřiny uvedena do provozu, sníženou o poskytnutou investiční podporu, pokud výsledkem sektorového šetření nebylo zjištění rizika nadměrné podpory, nebo
+>
+> - b) stanovené Úřadem k odstranění rizika nadměrné podpory podle [[#§ 32|§ 32]] sníženou o poskytnutou investiční podporu, pokud výsledkem sektorového šetření bylo zjištění rizika nadměrné podpory.
+>
+> (3) Způsob určení snížení podpory o poskytnutou investiční podporu podle odstavce 2 stanoví prováděcí právní předpis.
+>
+> (4) Postup podle odstavce 2 se nepoužije, pokud výše investiční podpory převyšuje očekávanou celkovou výši podpory elektřiny od začátku dvanáctého kalendářního roku následujícího po roce, kdy byl zdroj elektřiny uveden do provozu, po zbytek doby trvání práva na podporu elektřiny. Způsob určení očekávané výše celkové podpory stanoví prováděcí právní předpis.
+>
+> (5) Výrobce může oznámit individuální opatření k zajištění přiměřenosti podpory podle odstavce 1 nebo [[#§ 2|2]] prostřednictvím systému operátora trhu nejpozději do 30 dnů od zveřejnění cenového výměru Úřadu podle [[#§ 32|§ 32]].
+>
+> (6) Operátor trhu je povinen
+>
+> - a) neprodleně informovat Inspekci o výrobci, který oznámil individuální opatření k zajištění přiměřenosti podpory podle odstavce 1 nebo [[#§ 2|2]],
+>
+> - b) ukončit vyplácení podpory a zrušit registraci zdroje elektřiny jako podporovaného zdroje elektřiny k začátku dvanáctého kalendářního roku následujícího po roce, kdy byl zdroj elektřiny uveden do provozu, pokud výrobce oznámil operátorovi trhu individuální opatření podle odstavce 1, a neprodleně informovat povinně vykupujícího, pokud výrobce uplatňuje podporu formou výkupní ceny,
+>
+> - c) poskytovat podporu elektřiny sníženou o investiční podporu od začátku dvanáctého kalendářního roku následujícího po roce, kdy byl zdroj elektřiny uveden do provozu, pokud výrobce oznámil individuální opatření podle odstavce 2, a neprodleně informovat povinně vykupujícího, pokud výrobce uplatňuje podporu formou výkupní ceny.
+>
+> (7) Povinně vykupující je povinen v případě, kdy výrobce uplatňuje podporu formou výkupní ceny, od začátku dvanáctého kalendářního roku následujícího po roce, kdy byl zdroj elektřiny uveden do provozu,
+>
+> - a) ukončit výkup elektřiny za výkupní cenu stanovenou podle tohoto zákona, pokud výrobce oznámil individuální opatření podle odstavce 1,
+>
+> - b) vykupovat elektřinu za výkupní cenu sníženou o poskytnutou investiční podporu, pokud výrobce oznámil individuální opatření podle odstavce 2.
+>
+> (8) Pokud výrobce oznámí individuální opatření k zajištění přiměřenosti podpory podle odstavce 1 nebo [[#§ 2|2]] a nestanoví-li tento zákon jinak, platí, že podpora elektřiny je přiměřená.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 30, § 32, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9acd457483743e206b21 -->
+
 ### § 34 — Řízení o žádosti o stanovení individuálních podmínek podpory
 
 > **§ 34**
@@ -837,6 +1301,72 @@ Pokud Inspekce rozhodne, že výrobce má nárok na původní výši podpory (al
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=47b74e04803279fb2ca5 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 34
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Výrobce, který vyrábí elektřinu ve výrobně elektřiny náležející do sektoru, pro který Úřad upravil podporu k odstranění nadměrné podpory, může podat žádost o stanovení individuálních podmínek podpory do 2 měsíců ode dne nabytí účinnosti cenového výměru, kterým Úřad upravil podporu k odstranění nadměrné podpory podle [[#§ 32|§ 32]]. Žádost o stanovení individuálních podmínek podpory může podat rovněž výrobce, u kterého je souběh podpory elektřiny z obnovitelných zdrojů s investiční podporou podle § 30 odst. 2 písm. c), a to do 2 měsíců ode dne zveřejnění výsledků sektorového šetření, pokud výsledkem sektorového šetření nebylo zjištění rizika nadměrné podpory. O žádosti výrobce rozhoduje Inspekce.
+>
+> (2) Výrobce v žádosti o stanovení individuálních podmínek podpory může požádat o rozhodnutí o
+>
+> - a) tom, že pro elektřinu vyrobenou ve výrobně elektřiny trvá do uplynutí životnosti výrobny elektřiny právo na podporu ve výši stanovené Úřadem podle podmínek platných pro rok, ve kterém byla výrobna elektřiny uvedena do provozu, nebo
+>
+> - b) stanovení nejvyššího množství elektřiny v MWh pro období po desátém kalendářním roce následujícím po roce, ve kterém byla výrobna elektřiny uvedena do provozu.
+>
+> (3) Žádost výrobce o stanovení individuálních podmínek podpory obsahuje kromě obecných náležitostí podle [[správního řádu|správního řádu]] údaje identifikující výrobnu elektřiny a technické a ekonomické údaje o výrobně elektřiny a jejím provozu. Vzory výkazů pro zjištění rozsahu technických a ekonomických údajů stanoví prováděcí právní předpis.
+>
+> (4) Žádost o stanovení individuálních podmínek podpory nemůže podat výrobce, který při sektorovém šetření nepředložil ministerstvu technické a ekonomické údaje o jím provozované výrobně elektřiny, přestože byl k jejich předložení ministerstvem požádán.
+>
+> (5) Pokud výrobce v řízení prokáže, že při podpoře upravené Úřadem k odstranění rizika nadměrné podpory nedosáhne za dobu trvání práva na podporu vnitřního výnosového procenta investice do výrobny ve výši podle § 30 odst. 1, nebo že výše podpory splňuje podmínky výše podpory malého rozsahu stanovené přímo použitelným předpisem Evropské unie upravujícím oblast podpory de minimis32). Inspekce rozhodne na základě žádosti podle odstavce 2 písm. a), že pro elektřinu vyrobenou ve výrobně elektřiny trvá do uplynutí životnosti výrobny elektřiny právo na podporu ve výši stanovené Úřadem podle podmínek platných pro rok, ve kterém byla výrobna elektřiny uvedena do provozu.
+>
+> (6) V případě rozhodnutí Inspekce podle odstavce 5 má výrobce nárok na doplatek ve výši odpovídající rozdílu mezi výší podpory stanovenou Úřadem podle podmínek platných pro rok, ve kterém byla výrobna elektřiny uvedena do provozu, a výší podpory stanovenou cenovým výměrem, kterým Úřad upravil podporu k odstranění nadměrné podpory, a to ode dne nabytí jeho účinnosti.
+>
+> (7) Rozhodne-li Inspekce o stanovení nejvyššího množství podporované elektřiny na základě žádosti podle odstavce 2 písm. b), může výrobce v období po desátém kalendářním roce následujícím po roce, ve kterém byla výrobna elektřiny uvedena do provozu, do uplynutí životnosti výrobny elektřiny uplatnit právo na podporu nejvýše za množství elektřiny stanovené v tomto rozhodnutí.
+>
+> (8) Inspekce doručí stejnopis pravomocného rozhodnutí také operátorovi trhu a povinně vykupujícímu, pokud v době vydání rozhodnutí uplatňuje výrobce právo na podporu ve formě výkupní ceny.
+>
+> (9) Operátor trhu nebo v případě podpory formou výkupní ceny povinně vykupující jsou po doručení pravomocného rozhodnutí podle odstavce 8 povinni ukončit vyplácení podpory, nebo snížit vyplácení podpory na maximální množství podporované elektřiny podle rozhodnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32, § 30
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=47b74e04803279fb2ca5 -->
+
 ### § 34a — Stanovení množství elektřiny osvobozené od odvodu
 
 > **§ 34a**
@@ -913,6 +1443,60 @@ Výrobce má nárok na vrácení odvodů zaplacených od 1. 1. 2022 do nabytí p
 **Typicky rozhodné důkazy / podklady:** doklady o uhrazeném odvodu od 1. 1. 2022, znalecký výpočet IRR, technické a ekonomické údaje o výrobně, zpráva o sektorovém šetření, rozhodnutí Inspekce o množství elektřiny zatížené odvodem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e2c8518f4887cb4d9f79 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 34a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) V žádosti o stanovení individuálních podmínek podpory podle § 34 odst. 2 může výrobce pro případ, že hodnota vnitřního výnosového procenta investice do výrobny elektřiny za dobu trvání práva na podporu pro výrobnu elektřiny nedosáhne 6,3 %, požádat Inspekci rovněž o stanovení celkového množství elektřiny, za které se hradí odvod.
+>
+> (2) Žádost o stanovení celkového množství elektřiny, za které se hradí odvod, může podat i výrobce, který vyrábí elektřinu ve výrobně elektřiny náležející do sektoru, ve kterém nebylo zjištěno riziko nadměrné podpory, pokud hodnota vnitřního výnosového procenta investice do výrobny elektřiny za dobu trvání práva na podporu pro výrobnu elektřiny nedosáhne 6,3 %. Žádost podle věty předchozí lze podat do 6 měsíců od zveřejnění zprávy podle § 31 odst. 6. Ustanovení § 34 odst. 1 věty poslední, odst. 3, [[#§ 4|4]] a [[#§ 8|8]] se pro řízení o žádosti podle věty první použijí obdobně.
+>
+> (3) Inspekce na základě žádosti výrobce podle odstavce 1 nebo [[#§ 2|2]] stanoví v MWh celkové množství elektřiny, za které se hradí odvod, vyrobené po 1. lednu 2022, tak, aby hodnota vnitřního výnosového procenta investice do výrobny elektřiny za dobu trvání práva na podporu pro výrobnu elektřiny dosáhla 6,3 %. Způsob výpočtu množství elektřiny, za které se hradí odvod, stanoví prováděcí právní předpis.
+>
+> (4) Výrobce má nárok na vrácení odvodu nebo jeho poměrné části, která je předmětem osvobození, uhrazené výrobcem do nabytí právní moci rozhodnutí podle odstavce 1.
+>
+> (5) Pokud bylo dosaženo celkového množství vyrobené elektřiny, za které se hradí odvod, plátce odvodu přestane výrobci srážet nebo vybírat odvod ze základu daně, na základě doručení pravomocného rozhodnutí podle odstavce 1 nebo [[#§ 2|2]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34, § 31, § 4, § 8, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e2c8518f4887cb4d9f79 -->
 
 ### § 35 — Řízení o stanovení podmínek podpory z moci úřední
 
@@ -1021,6 +1605,74 @@ Pokud Inspekce zjistí, že k nadměrné podpoře nedošlo nebo riziko neexistuj
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4ad64028df29bf450015 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 35 — Řízení o stanovení podmínek podpory z moci úřední
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Inspekce zahájí řízení o stanovení podmínek podpory z moci úřední, pokud výrobce, u kterého je souběh podpory elektřiny z obnovitelných zdrojů s investiční podporou podle § 30 odst. 2 písm. c), neoznámil operátorovi trhu žádné z individuálních opatření k zajištění přiměřenosti podpory podle § 33 odst. 2 nebo nepodal žádost o stanovení individuálních podmínek podpory ve lhůtě podle [[#§ 34|§ 34]].
+>
+> (2) Řízení podle odstavce 1 může Inspekce zahájit nejpozději do 3 let ode dne zveřejnění výsledků sektorového šetření i v případě, že sektorovým šetřením nebylo zjištěno riziko nadměrné podpory.
+>
+> (3) V řízení o stanovení podmínek podpory Inspekce vychází z technických a ekonomických údajů poskytnutých výrobcem o jím provozované výrobně elektřiny a rovněž z technických a ekonomických údajů o výrobnách elektřiny a jejich provozech, jakých obvykle dosahují jiní výrobci při provozování obdobných výroben elektřiny.
+>
+> (4) Pokud Inspekce zjistí, že existuje u výrobce riziko nadměrné podpory, vydá rozhodnutí, kterým stanoví nejvyšší množství podporované elektřiny v MWh pro období po desátém kalendářním roce následujícím po roce, ve kterém byla výrobna elektřiny uvedena do provozu, do uplynutí životnosti výrobny elektřiny a dále stanoví, zda právo na podporu je ve výši stanovené Úřadem
+>
+> - a) podle podmínek platných pro rok, ve kterém byla výrobna elektřiny uvedena do provozu, pokud v sektoru nebylo zjištěno riziko nadměrné podpory, nebo
+>
+> - b) k odstranění rizika nadměrné podpory, pokud bylo v sektoru zjištěno riziko nadměrné podpory.
+>
+> (5) Pokud Inspekce zjistí, že došlo u výrobce k nadměrné podpoře, vydá rozhodnutí, kterým
+>
+> - a) odejme právo na podporu elektřiny vyrobené ve výrobně elektřiny,
+>
+> - b) uloží povinnost vrácení prostředků do státního rozpočtu ve výši, která odpovídá nadměrné podpoře poskytnuté výrobci.
+>
+> (6) Inspekce doručí stejnopis pravomocného rozhodnutí podle odstavců 4 a [[#§ 5|5]] také operátorovi trhu a povinně vykupujícímu, pokud v době vydání rozhodnutí uplatňuje výrobce právo na podporu ve formě výkupní ceny.
+>
+> (7) Operátor trhu nebo v případě podpory formou výkupní ceny povinně vykupující jsou po doručení pravomocného rozhodnutí podle odstavce 6 povinni ukončit vyplácení podpory, nebo snížit vyplácení podpory na maximální množství podporované elektřiny podle rozhodnutí.
+>
+> (8) Pokud se v řízení zjistí, že u výrobce nedošlo k nadměrné podpoře nebo že neexistuje riziko nadměrné podpory nebo pokud bylo zahájeno řízení v případě, kdy se podle tohoto zákona přiměřenost podpory neprověřuje, Inspekce řízení usnesením zastaví.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 30, § 33, § 34, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4ad64028df29bf450015 -->
+
 ### Díl 2 — Přiměřenost podpory KVET a druhotných zdrojů (výrobny z let 2013–2015)
 
 ### § 36 — Přiměřenost podpory KVET a druhotných zdrojů
@@ -1094,6 +1746,60 @@ OTE je povinen Inspekci poskytnout seznam zdrojů s výkonem nad 5 MW — čím�
 **Typicky rozhodné důkazy / podklady:** záznamy systému OTE o výkonu a datu uvedení do provozu, seznam zdrojů nad 5 MW, technické a ekonomické údaje výroben, výpočet VVP vůči stropu 6,3 %.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8438fa037e1a5d56ca6d generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 36
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Prověření přiměřenosti podpory elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla a podpory elektřiny z druhotných zdrojů se provádí u zdrojů elektřiny uvedených do provozu v období od 1. ledna 2013 do 31. prosince 2015. K zajištění přiměřenosti podpory elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla a podpory elektřiny z druhotných zdrojů se § 30 až 35 použijí obdobně, není-li dále stanoveno jinak.
+>
+> (2) Podpora elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla v případě zdroje elektřiny využívajícího jiné než obnovitelné zdroje a podpora elektřiny z druhotných zdrojů je přiměřená, pokud vnitřní výnosové procento investic za dobu trvání práva na podporu nepřekročí hodnotu 6,3 %.
+>
+> (3) Sektorové šetření se provádí pouze pro zdroje vysokoúčinné kombinované výroby elektřiny a tepla a pro zdroje elektřiny z druhotných zdrojů s instalovaným elektrickým výkonem do 5 MW.
+>
+> (4) U zdroje elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla a u zdroje elektřiny z druhotných zdrojů s instalovaným elektrickým výkonem nad 5 MW Inspekce zahájí řízení o stanovení podmínek podpory z moci úřední.
+>
+> (5) Seznam zdrojů elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla a zdrojů elektřiny z druhotných zdrojů s instalovaným elektrickým výkonem nad 5 MW poskytne Inspekci operátor trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 30
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8438fa037e1a5d56ca6d -->
 
 ### Díl 3 — Přiměřenost podpory pro výrobny od roku 2016, udržovací podporu a modernizované výrobny
 
@@ -1171,6 +1877,64 @@ Operátor trhu eviduje výši snížení v informačním systému a sníženou p
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o investiční dotaci, registrace a evidence v systému OTE, výpočet snížení provozní podpory dle prováděcího předpisu, technické údaje o výrobně.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=76a9554ca9cc20fe1281 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 37
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Podporu elektřiny z obnovitelných zdrojů, z vysokoúčinné kombinované výroby elektřiny a tepla a z druhotných zdrojů a podporu tepla z obnovitelných zdrojů u výroben elektřiny a výroben tepla uvedených do provozu od 1. ledna 2016, udržovací podporu elektřiny, podporu modernizovaným výrobnám elektřiny, udržovací podporu tepla a podporu biometanu nelze souběžně poskytovat s jinou provozní podporou poskytovanou podle tohoto zákona s výjimkou souběžného poskytování udržovací podpory tepla a přechodné transformační podpory tepla.
+>
+> (2) Podporu elektřiny, podporu tepla nebo podporu biometanu (dále jen „provozní podpora“) podle tohoto zákona lze souběžně poskytovat s investiční podporou. Poskytnutá investiční podpora se zohlední ve výši provozní podpory nebo délce poskytování provozní podpory způsobem podle prováděcího právního předpisu; to neplatí v případě provozní podpory, která nezahrnuje investiční náklady podporované výrobny elektřiny, výrobny tepla nebo výrobny biometanu.
+>
+> (3) Operátor trhu je povinen v případě souběžně poskytovaných podpor podle odstavce 2
+>
+> - a) zaevidovat v informačním systému operátora trhu sníženou výši podpory elektřiny, podpory tepla nebo podpory biometanu o částku odpovídající výši poskytnuté investiční podpory v případě podpory formou zeleného bonusu, podpory formou výkupní ceny nebo podpory formou aukčního bonusu,
+>
+> - b) hradit výrobci, výrobci tepla nebo výrobci biometanu sníženou výši podpory elektřiny, podpory tepla nebo podpory biometanu o částku odpovídající výši poskytnuté investiční podpory v případě podpory formou zeleného bonusu nebo aukčního bonusu,
+>
+> - c) informovat povinně vykupujícího o snížené výši podpory elektřiny o částku odpovídající výši poskytnuté investiční podpory v případě podpory formou výkupní ceny.
+>
+> (4) Povinně vykupující je povinen v případě souběžně poskytovaných podpor podle odstavce 2, pokud se jedná o podporu formou výkupní ceny, hradit výrobci sníženou výši podpory elektřiny o částku odpovídající výši čerpané investiční podpory, která je evidována operátorem trhu podle odstavce 3 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=76a9554ca9cc20fe1281 -->
 
 ## Hlava VIII — Omezení podpory ve zvláštních případech, informační povinnost a doba podpory elektřiny, tepla a biometanu
 
@@ -1254,6 +2018,62 @@ Zákon zakotvuje pravidlo zásadní povahy: elektřina (teplo, biometan), pro je
 **Typicky rozhodné důkazy / podklady:** licenční rozhodnutí s doložkou právní moci, účetní závěrka (stav podnikatele v obtížích), čestná prohlášení, data denního trhu OTE o záporných cenách, evidence vydaných záruk původu, datum registrace v systému OTE.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=af9728d4926e84f981fc generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 38 — Omezení podpory ve zvláštních případech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Podpora elektřiny, podpora tepla, přechodná transformační podpora tepla a podpora biometanu se nevztahují na elektřinu, teplo nebo biometan vyrobené výrobcem, výrobcem tepla, výrobcem tepla z neobnovitelného zdroje nebo výrobcem biometanu, kteří
+>
+> - a) jsou ke dni registrace formy podpory v systému operátora trhu podnikatelem v obtížích, a to po dobu, po kterou je na ně pohlíženo jako na podnikatele v obtížích podle přímo použitelného předpisu Evropské unie upravujícího veřejné podpory33); tuto skutečnost prokazuje výrobce, výrobce tepla, výrobce tepla z neobnovitelného zdroje nebo výrobce biometanu písemným čestným prohlášením,
+>
+> - b) mají ke dni registrace formy podpory nebo její změny v systému operátora trhu neuhrazený dluh vzniklý na základě příkazu k vrácení veřejné podpory vystaveného v návaznosti na sdělení Evropské komise, jímž byla podpora prohlášena za protiprávní a neslučitelnou s vnitřním trhem34), a to po dobu, po kterou mají neuhrazený dluh; neuhrazený dluh prokazuje výrobce, výrobce tepla, výrobce tepla z neobnovitelného zdroje nebo výrobce biometanu písemným čestným prohlášením.
+>
+> (2) Podpora elektřiny se nevztahuje na elektřinu vyrobenou výrobcem v období, kdy je na denním trhu s elektřinou organizovaném operátorem trhu dosaženo záporné čtvrthodinové ceny.
+>
+> (3) Výrobce, výrobce tepla nebo výrobce biometanu je povinen pro výrobny elektřiny, výrobny tepla nebo výrobny biometanu zaregistrovat v systému operátora trhu podporu do 6 měsíců po nabytí právní moci rozhodnutí o udělení licence nebo rozhodnutí o změně rozhodnutí o udělení licence na výrobu elektřiny, výrobu tepelné energie nebo výrobu plynu. Pokud výrobce, výrobce tepla nebo výrobce biometanu nezaregistruje podporu ve lhůtě podle věty první, právo na podporu nevzniká. Postup při registraci podpory stanoví prováděcí právní předpis.
+>
+> (4) Podpora elektřiny, provozní podpora tepla nebo podpora biometanu podle tohoto zákona, s výjimkou podpory formou aukčního bonusu na elektřinu, se nevztahuje na vyrobenou elektřinu, teplo nebo biometan, na které operátor trhu vydal pro dané období výroby energie výrobci, výrobci tepla nebo výrobci biometanu část nebo všechny záruky původu energie.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=af9728d4926e84f981fc -->
 
 ### § 39 — Informační povinnost
 
@@ -1342,6 +2162,66 @@ Při změně vlastníka výrobny přechází archivační povinnost na nabyvatel
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=366f4764bfe8d8d35a0e generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 39 — Informační povinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Výrobce s výjimkou výrobce, který uplatňuje udržovací podporu elektřiny nebo podporu aukčním bonusem, výrobce tepla s výjimkou výrobce tepla, který uplatňuje udržovací podporu tepla, a výrobce biometanu jsou povinní sdělit operátorovi trhu při registraci zvolené formy podpory
+>
+> - a) výši investičních nákladů spojených s uvedením výrobny do provozu nebo s modernizací výrobny elektřiny,
+>
+> - b) výši nevratné investiční podpory z veřejných prostředků, která jim byla poskytnuta, identifikační údaje poskytovatele podpory a číslo rozhodnutí nebo dotační smlouvy o poskytnutí této podpory.
+>
+> (2) Informace o výši podpory poskytnuté výrobci, výrobci tepla, výrobci tepla z neobnovitelného zdroje nebo výrobci biometanu na výrobu elektřiny, tepla nebo biometanu z výrobny, která převýší po dobu trvání nároku na podporu 100 000 EUR, předá operátor trhu bez zbytečného odkladu do informačního systému Evropské komise.
+>
+> (3) Operátor trhu je povinen uchovávat informace získané v souvislosti s poskytováním podpory po dobu 10 let od ukončení poskytování podpory.
+>
+> (4) Pokud je výrobce, výrobce tepla, výrobce tepla z neobnovitelného zdroje nebo výrobce biometanu příjemcem podpory podle tohoto zákona, je povinen uchovávat doklady týkající se investičních a provozních nákladů a výnosů po dobu trvání práva na podporu a po dobu následujících 5 let. Výrobce, výrobce tepla, výrobce tepla z neobnovitelného zdroje a výrobce biometanu jsou povinni na vyžádání předložit tyto doklady ministerstvu, Úřadu a Inspekci. Při změně vlastníka výrobny je právní předchůdce povinen předat právnímu nástupci tyto doklady nebo jejich kopie. Rozsah uchovávaných dokladů prokazujících provedení modernizace výrobny elektřiny stanoví prováděcí právní předpis.
+>
+> (5) Výrobce, výrobce tepla a výrobce biometanu, kteří používají pro výrobu elektřiny, tepla nebo biometanu palivo z biomasy, jsou povinni uchovávat dokumenty a záznamy o použitém palivu po dobu 5 let a na vyžádání je zpřístupnit Úřadu, Inspekci, ministerstvu, Ministerstvu zemědělství a operátorovi trhu.
+>
+> (6) Výrobce paliva, dodavatel paliva a dovozce paliva z biomasy jsou povinni uchovávat dokumenty a záznamy o použitých druzích biomasy, biokapalin, bioplynu a biometanu a o způsobu jejich využití pro výrobu paliv v rozsahu stanoveném prováděcím právním předpisem po dobu 5 let ode dne, kdy tyto dokumenty a záznamy vznikly, a na vyžádání je zpřístupnit Úřadu, Inspekci, ministerstvu, Ministerstvu zemědělství a operátorovi trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=366f4764bfe8d8d35a0e -->
+
 ### § 40 — Doba podpory elektřiny, tepla a biometanu
 
 > **§ 40**
@@ -1425,3 +2305,60 @@ Speciální přechodné ustanovení (do zákona vložené novelou č. 382/2021 S
 > **Poznámka k rozsahu Hlavy VIII:** Hlava VIII (§§ 38–43) zahrnuje v konsolidovaném znění k 1. 1. 2026 celkem šest paragrafů. §§ 38–40 jsou obsaženy v rozsahu tohoto komentáře. §§ 41–43 (zákaz poskytování podpory z jiných zdrojů v rozporu se zákonem a správní delikty v oblasti podpory) jsou součástí navazující části komentáře — viz [05-hlavy9-11-zaruky-puvodu-udrzitelnost.md](05-hlavy9-11-zaruky-puvodu-udrzitelnost.md).
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=332183ee795247a5f8a3 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 40 — Doba podpory elektřiny, tepla a biometanu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Právo na podporu elektřiny, s výjimkou udržovací podpory elektřiny a podpory elektřiny vyrobené v modernizované výrobně elektřiny, trvá, pokud z § 30 až 36 nevyplývá jinak, ode dne uvedení výrobny elektřiny využívající obnovitelné zdroje, kombinovanou výrobu elektřiny a tepla nebo druhotné zdroje do provozu po dobu její životnosti.
+>
+> (2) Právo na podporu tepla, s výjimkou udržovací podpory tepla, a právo na podporu biometanu trvají ode dne uvedení výrobny tepla nebo výrobny biometanu do provozu po dobu jejich životnosti.
+>
+> (3) Právo na podporu elektřiny vyrobené v modernizované výrobně elektřiny vzniká registrací podpory výrobny elektřiny v systému operátora trhu a trvá ode dne provedení registrace podpory po dobu její životnosti.
+>
+> (4) Způsob a postup uvedení výrobny elektřiny, výrobny tepla a výrobny biometanu do provozu a dobu jejich životnosti podle odstavců 1 až 3 stanoví prováděcí právní předpis.
+>
+> (5) Právo na udržovací podporu elektřiny, udržovací podporu tepla a přechodnou transformační podporu tepla trvá po dobu stanovenou nařízením vlády podle [[#§ 3|§ 3]].
+>
+> (6) Během doby životnosti zaniká právo na podporu elektřiny, tepla nebo biometanu dnem zrušení registrace podpory u operátora trhu na žádost výrobce elektřiny, tepla nebo biometanu. To se netýká zrušení registrace podpory z důvodu změny držitele licence.
+>
+> (7) Výrobna elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla s instalovaným elektrickým výkonem nižším než 1 MW uvedená do provozu od 1. ledna 2022 do 31. prosince 2022 se pro účely vzniku práva na podporu podle tohoto zákona považuje za uvedenou do provozu ke dni 1. ledna 2023.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 30, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=332183ee795247a5f8a3 -->

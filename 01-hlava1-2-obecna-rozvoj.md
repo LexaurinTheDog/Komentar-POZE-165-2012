@@ -129,6 +129,86 @@ Praktický dosah odst. 3 je omezující: správní orgány a soudy nemohou přiz
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9eb332f45e802c7da48f generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 1 — Předmět, účel úpravy a společná pravidla podpory
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon zapracovává příslušné předpisy Evropské unie1) a upravuje
+>
+> - a) podporu elektřiny, tepla a biometanu z obnovitelných zdrojů energie (dále jen „obnovitelný zdroj“), druhotných energetických zdrojů (dále jen „druhotný zdroj“) a vysokoúčinné kombinované výroby elektřiny a tepla, přechodnou transformační podporu tepla v soustavách zásobování tepelnou energií a zajištění přiměřenosti této podpory, výkon státní správy a práva a povinnosti fyzických a právnických osob s tím spojené,
+>
+> - b) pravidla pro rozvoj a regulaci podporovaných zdrojů energie,
+>
+> - c) podmínky pro vydávání, evidenci a uznávání záruk původu energie z obnovitelných zdrojů a z vysokoúčinné kombinované výroby elektřiny a tepla,
+>
+> - d) podmínky pro vydávání osvědčení o původu elektřiny vyrobené z vysokoúčinné kombinované výroby elektřiny a tepla nebo druhotných zdrojů,
+>
+> - e) financování podpory elektřiny z podporovaných zdrojů, tepla a biometanu z obnovitelných zdrojů a poskytnutí dotace operátorovi trhu na úhradu těchto nákladů,
+>
+> - f) odvod z elektřiny ze slunečního záření,
+>
+> - g) práva a povinnosti osob dodávajících pohonné hmoty a elektřinu pro dopravní účely,
+>
+> - h) práva a povinnosti osob, které spotřebovávají vodík v průmyslu,
+>
+> - i) působnost orgánů veřejné správy v jednotlivých oblastech tohoto zákona.
+>
+> (2) Účelem tohoto zákona je v zájmu ochrany klimatu a ochrany životního prostředí
+>
+> - a) podpořit využití obnovitelných zdrojů, druhotných zdrojů a vysokoúčinné kombinované výroby elektřiny a tepla,
+>
+> - b) zajistit zvyšování podílu obnovitelných zdrojů na konečné spotřebě energie k dosažení stanovených cílů1),
+>
+> - c) přispět k šetrnému využívání přírodních zdrojů a k trvale udržitelnému rozvoji společnosti,
+>
+> - d) vytvořit podmínky pro naplnění závazného cíle a příspěvku České republiky k podílu energie z obnovitelných zdrojů na hrubé konečné spotřebě energie v Evropské unii při současném zohlednění zájmů zákazníků na minimalizaci dopadů podpory na ceny energií pro zákazníky v České republice,
+>
+> - e) vytvořit podmínky pro naplnění cílů ve využívání energie z obnovitelných zdrojů v odvětví vytápění a chlazení a v odvětví dopravy,
+>
+> - f) vytvořit podmínky pro to, aby podíl obnovitelného vodíku nebiologického původu na vodíku v průmyslu činil nejméně 42 % do roku 2030 a 60 % do roku 2035.
+>
+> (3) Ustanovení tohoto zákona upravující poskytování podpory a postup pro stanovení výše a rozsahu podpory se nepoužijí, pokud by podpora stanovená na jejich základě byla v rozporu s podmínkami pro poskytování veřejné podpory stanovenými právem Evropské unie nebo rozhodnutími Komise vydanými na jeho základě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9eb332f45e802c7da48f -->
+
 ### § 2 — Základní pojmy
 
 > **§ 2**
@@ -404,6 +484,156 @@ Zákon definuje **plynnou pohonnou hmotu** jako stlačené plyny pro dopravu (vo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7b7b47df2db57bdc8fc6 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 2 — Základní pojmy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Pro účely tohoto zákona se rozumí
+>
+> - a) obnovitelnými zdroji obnovitelné nefosilní zdroje energie, jimiž jsou energie větru, energie slunečního záření (termální a fotovoltaická), geotermální energie, energie okolního prostředí, energie z přílivu nebo vln a jiná energie z oceánů, energie vody, energie biomasy a paliv z ní vyráběných, energie skládkového plynu, energie kalového plynu z čistíren odpadních vod a energie bioplynu,
+>
+> - b) biomasou biologicky rozložitelná část produktů, odpadů a zbytků biologického původu ze zemědělství, z lesnictví a souvisejících odvětví a z rybolovu a akvakultury, včetně rostlinných a živočišných látek, jakož i biologicky rozložitelná část odpadů, včetně průmyslových a komunálních odpadů biologického původu, přičemž zemědělská biomasa je biomasa vyrobená v zemědělství a lesní biomasa je biomasa vyrobená v lesnictví.
+>
+> - c) bioplynem plynné palivo vyráběné z biomasy používané pro výrobu elektřiny, tepla nebo pro výrobu biometanu; za bioplyn se považuje také kalový a skládkový plyn,
+>
+> - d) biokapalinou kapalné palivo vyráběné z biomasy používané pro výrobu elektřiny a tepla,
+>
+> - e) biometanem upravený bioplyn, jehož kvalita a čistota splňuje kvalitativní parametry zemního plynu.
+>
+> - f) druhotnými zdroji využitelné energetické zdroje, jejichž energetický potenciál vzniká jako vedlejší produkt při přeměně a konečné spotřebě energie, při uvolňování z bituminozních hornin včetně degazačního a důlního plynu nebo při energetickém využívání nebo odstraňování odpadů a náhradních paliv vyrobených na bázi odpadů nebo při jiné hospodářské činnosti,
+>
+> - g) kombinovanou výrobou elektřiny a tepla přeměna primární energie na energii elektrickou a užitečné teplo ve společném současně probíhajícím procesu v jednom výrobním zařízení,
+>
+> - h) užitečným teplem teplo vyrobené v procesu kombinované výroby elektřiny a tepla k uspokojování poptávky po teple a chlazení, která nepřekračuje potřeby tepla nebo chlazení a která by byla za tržních podmínek uspokojována jinými procesy výroby energie než kombinovanou výrobou elektřiny a tepla,
+>
+> - i) hrubou konečnou spotřebou energie energetické komodity dodané k energetickým účelům pro průmysl, dopravu, domácnosti, služby včetně veřejných služeb, zemědělství, lesnictví a rybolov, spotřeba elektřiny a tepla v odvětví energetiky při výrobě elektřiny, tepla a paliv používaných v odvětví dopravy a ztráty elektřiny a tepla při distribuci a přenosu,
+>
+> - j) zeleným bonusem na elektřinu peněžní prostředky na podporu výroby elektřiny podle tohoto zákona určené výrobcům elektřiny z obnovitelných zdrojů, druhotných zdrojů nebo vysokoúčinné kombinované výroby elektřiny a tepla,
+>
+> - k) zeleným bonusem na teplo peněžní prostředky na podporu výroby tepla podle tohoto zákona určené výrobcům tepla,
+>
+> - l) zeleným bonusem na biometan peněžní prostředky na podporu výroby biometanu podle tohoto zákona určené výrobcům biometanu,
+>
+> - m) výrobnou elektřiny z podporovaných zdrojů výrobna elektřiny z obnovitelných zdrojů, druhotných zdrojů nebo z vysokoúčinné kombinované výroby elektřiny a tepla,
+>
+> - n) výrobnou tepla zdroj tepelné energie2) z obnovitelných zdrojů,
+>
+> - o) výrobnou biometanu zařízení k výrobě bioplynu a jeho úpravě na biometan nebo zařízení k úpravě bioplynu na biometan
+>
+> - p) výrobcem výrobce elektřiny z obnovitelného zdroje, výrobce elektřiny z druhotného zdroje a výrobce elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla,
+>
+> - q) výrobcem tepla výrobce tepelné energie z obnovitelného zdroje,
+>
+> - r) výrobcem biometanu provozovatel výrobny biometanu
+>
+> - s) vykupujícím obchodník s elektřinou, který vykupuje vyrobenou elektřinu od výrobce,
+>
+> - t) povinně vykupujícím obchodník s elektřinou určený tímto zákonem nebo vybraný Ministerstvem průmyslu a obchodu (dále jen „ministerstvo“), který vykupuje elektřinu od výrobce z obnovitelného zdroje vyrobenou ve výrobně elektřiny na vymezeném území,
+>
+> - u) čtvrthodinovou cenou cena elektřiny na denním trhu s elektřinou organizovaném operátorem trhu3); v případech, kdy není denní trh s elektřinou organizován, rozumí se čtvrthodinovou cenou pevná jednotková cena elektřiny pro zvláštní režim zúčtování ve stavech nouze stanovená cenovým výměrem Energetického regulačního úřadu (dále jen „Úřad“),
+>
+> - v) provozovatelem regionální distribuční soustavy držitel licence na distribuci elektřiny, jehož distribuční soustava je přímo připojena na přenosovou soustavu,
+>
+> - w) provozovatelem lokální distribuční soustavy držitel licence na distribuci elektřiny, jehož distribuční soustava není přímo připojena k přenosové soustavě,
+>
+> - x) technologickou vlastní spotřebou elektřiny spotřeba elektrické energie na výrobu elektřiny v hlavním výrobním zařízení i pomocných provozech, které s výrobou elektřiny přímo souvisejí, včetně výroby, přeměny nebo úpravy paliva, ztrát v rozvodu vlastní spotřeby i ztrát na zvyšovacích transformátorech výrobny elektřiny pro dodávku do distribuční soustavy nebo přenosové soustavy,
+>
+> - y) odpadním teplem nebo odpadním chladem teplo nebo chlad vzniklé jako vedlejší produkt v průmyslových zařízeních, ve výrobnách elektřiny nebo v sektoru služeb, kde byl nebo bude použit proces kombinované výroby elektřiny a tepla nebo kde není kombinovaná výroba elektřiny a tepla proveditelná, které by se bez přístupu do soustavy zásobování tepelnou energií bez využití rozptýlily do vzduchu nebo do vody.
+>
+> (2) Pro účely tohoto zákona se dále rozumí
+>
+> - a) zdrojem elektřiny výrobna elektřiny nebo její část, která je schopna samostatného provozu a je do provozu uvedena samostatně,
+>
+> - b) nepalivovým zdrojem elektřiny zdroj elektřiny využívající k výrobě elektřiny energii větru, energii slunečního záření, geotermální energii nebo energii vody,
+>
+> - c) palivovým zdrojem elektřiny zdroj elektřiny využívající k výrobě elektřiny spalování biomasy, bioplynu nebo důlního plynu nebo zdroj elektřiny využívající kombinovanou výrobu elektřiny a tepla,
+>
+> - d) modernizací výrobny elektřiny obnovení výrobny elektřiny zahrnující úplné nebo částečné nahrazení zařízení nebo provozních systémů a vybavení za účelem náhrady instalovaného výkonu nebo zvýšení účinnosti nebo instalovaného výkonu výrobny elektřiny; za modernizaci se považuje i změna paliva,
+>
+> - e) referenční výkupní cenou cena elektřiny stanovená Úřadem pro účely výpočtu čtvrthodinového zeleného bonusu na elektřinu,
+>
+> - f) referenční aukční cenou cena elektřiny nebo cena biometanu nabízená předkladatelem nabídky v aukci,
+>
+> - g) aukčním bonusem peněžní prostředky na podporu výroby elektřiny z obnovitelných zdrojů, s výjimkou energie větru, ve výši rozdílu referenční aukční ceny a čtvrthodinové ceny, nebo peněžní prostředky na podporu výroby elektřiny využívající energii větru ve výši rozdílu referenční aukční ceny a čtvrthodinové ceny se zohledněním ceny odchylky, nebo peněžní prostředky na podporu výroby elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla ve výši rozdílu referenční aukční ceny a očekávané průměrné roční čtvrthodinové ceny nebo peněžní prostředky na podporu výroby biometanu ve výši rozdílu referenční aukční ceny a měsíční jednotkové ceny plynu,
+>
+> - h) energetickým výkonem výrobny biometanu instalovaná kapacita výrobny biometanu v Nm3/rok,
+>
+> - i) palivem z biomasy plynné nebo pevné palivo vyrobené z biomasy,
+>
+> - j) energií okolního prostředí přirozeně se vyskytující tepelná energie a energie nahromaděná v prostředí vymezeném určitými hranicemi, která může být uložena v ovzduší, s výjimkou odpadního vzduchu, nebo v povrchových či odpadních vodách,
+>
+> - k) geotermální energií energie uložená ve formě tepla pod zemským povrchem,
+>
+> - l) zárukou původu elektronický dokument, který dokládá zákazníkovi původ dodané energie,
+>
+> - m) pokročilým biometanem biometan vyrobený ze surovin uvedených v prováděcím právním předpisu,
+>
+> - n) vodíkem v průmyslu chemicky nevázaný vodík spotřebovaný pro energetický nebo neenergetický účel v činnostech v rámci sekcí B, C a F a sekce J oddílu 63 podle Klasifikace ekonomických činností podle přímo použitelného předpisu Evropské unie41), pro vlastní konečné užití na území České republiky s výjimkou vodíku spotřebovaného ve směsi s dalšími plyny, které jsou dodány plynárenskou soustavou,
+>
+> - o) obnovitelným vodíkem nebiologického původu vodík, který je obnovitelným palivem nebiologického původu,
+>
+> - p) povinně vykupujícím plyn obchodník s plynem vybraný ministerstvem, který vykupuje plyn od výrobce biometanu,
+>
+> - q) recyklovaným palivem s obsahem uhlíku kapalné a plynné palivo vyrobené z kapalného nebo pevného odpadu neobnovitelného původu, které není vhodné pro materiálové využití podle zákona o odpadech, nebo z plynů ze zpracování odpadu a výfukových plynů neobnovitelného původu, které vzniká jako nevyhnutelný a nezáměrný důsledek výrobního procesu v průmyslových zařízeních,
+>
+> - r) nízkouhlíkovým plynem část plynných paliv v recyklovaných palivech s obsahem uhlíku, nízkouhlíkový vodík a syntetická plynná paliva, jejichž energetický obsah je získán z nízkouhlíkového vodíku, jež splňují prahovou hodnotu snížení emisí skleníkových plynů ve výši 70 % ve srovnání s hodnotou referenčního fosilního paliva pro obnovitelná paliva nebiologického původu,
+>
+> - s) nízkouhlíkovým vodíkem vodík, jehož energetický obsah je získán z neobnovitelných zdrojů, který splňuje prahovou hodnotu snížení emisí skleníkových plynů ve výši 70 % ve srovnání s hodnotou referenčního fosilního paliva pro obnovitelná paliva nebiologického původu,
+>
+> - t) plynem z obnovitelných zdrojů bioplyn vyrobený z biomasy, včetně bioplynu, který byl upraven na biometan, a obnovitelné palivo nebiologického původu,
+>
+> - u) obnovitelným palivem nebiologického původu kapalné a plynné palivo, jehož energetický obsah je získáván z jiných obnovitelných zdrojů než z biomasy,
+>
+> - v) tepelnou energií teplo nebo chlad,
+>
+> - w) vyspělým biometanem biometan, který není pokročilým biometanem a je vyroben ze stanovených surovin, jejichž seznam je uveden v prováděcím právním předpise,
+>
+> - x) plynnou pohonnou hmotou stlačený vodík, stlačené obnovitelné palivo nebiologického původu, stlačený zemní plyn, stlačený biometan a stlačené recyklované palivo s obsahem uhlíku,
+>
+> - y) dodáním plynných pohonných hmot dodání plynných pohonných hmot, které jsou předmětem daně ze zemního plynu a některých dalších plynů, do prostor čerpací stanice nebo výdejní jednotky na daňovém území České republiky, pokud tím jejich dodavateli vznikla povinnost přiznat a zaplatit tuto daň nebo vznikl nárok na osvobození od této daně podle právního předpisu upravujícího daň z některých plynů, přičemž za dodání stlačeného vodíku se považuje dodání do prostor čerpací stanice nebo výdejní jednotky na daňovém území České republiky,
+>
+> - z) dodavatelem plynných pohonných hmot osoba, která dodává plynné pohonné hmoty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7b7b47df2db57bdc8fc6 -->
+
 ## Hlava II — Rozvoj a regulace podporovaných zdrojů energie
 
 ### § 3 — Integrovaný vnitrostátní plán a nařízení vlády o podpoře
@@ -509,6 +739,86 @@ Mechanismus je **kaskádovitý**:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7f52ba74928bd91f88b9 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 3
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Návrh integrovaného vnitrostátního plánu v oblasti energetiky a klimatu podle přímo použitelného předpisu Evropské unie upravujícího správu energetické unie4) (dále jen „vnitrostátní plán“) vypracovává ministerstvo. Návrh vnitrostátního plánu, způsob podávání vyjádření a úprav k němu a dostatečnou lhůtu k jejich podání zveřejní ministerstvo na svých internetových stránkách.
+>
+> (2) Vnitrostátní plán schvaluje vláda.
+>
+> (3) Vnitrostátní plán zahrnuje vedle náležitostí stanovených přímo použitelným předpisem Evropské unie upravujícím správu energetické unie4) také cíle České republiky v oblasti výroby elektřiny a tepla z vysokoúčinné kombinované výroby elektřiny a tepla a z druhotných zdrojů.
+>
+> (4) Vláda nařízením stanoví pro výrobny elektřiny, výrobny tepla a výrobny biometanu, které byly uvedeny do provozu od 1. ledna 2022, pro výrobny elektřiny, u kterých byla provedena modernizace výrobny elektřiny od 1. ledna 2022, a pro podporu elektřiny pro zachování výrobny elektřiny v provozu (dále jen „udržovací podpora elektřiny“) a pro podporu tepla pro zachování výrobny tepla v provozu (dále jen „udržovací podpora tepla) a pro přechodnou transformační podporu tepla v soustavách zásobování tepelnou energií na období alespoň 3 kalendářních let
+>
+> - a) druhy podpor, které budou využity pro podporu,
+>
+> - b) formy podpory podle [[#§ 8|§ 8]], které budou využity pro podporu výroben elektřiny, které byly uvedeny do provozu od 1. ledna 2022, a pro výrobny elektřiny, u kterých byla provedena modernizace výrobny elektřiny od 1. ledna 2022,
+>
+> - c) druhy podporovaných zdrojů a velikost elektrického instalovaného výkonu výroben elektřiny, tepelného výkonu výroben tepla a energetického výkonu výroben biometanu podle § 4 odst. 2, § 5 odst. 2, § 6 odst. 2, [[#§ 6a|§ 6a]], [[#§ 6c|6c]], § 24 odst. 2, § 25a odst. 1, [[#§ 26b|§ 26b]] a § 27a odst. 1, které budou předmětem podpory,
+>
+> - d) množství tepla z obnovitelného zdroje dodaného do rozvodného tepelného zařízení soustavy zásobování tepelnou energií v případě společného spalování obnovitelného zdroje a neobnovitelného zdroje podle § 25a odst. 3, které budou předmětem podpory,
+>
+> - e) vymezení tepla, na které se nevztahuje přechodná transformační podpora tepla v soustavách zásobování tepelnou energií, a ceny povolenky na emise skleníkových plynů zajištující přechod k transformaci výroby tepla,
+>
+> - f) maximální výši finanční jistoty v případě aukce,
+>
+> - g) vymezení druhů podporovaných zdrojů energie podle tohoto zákona, pro které bude platit
+>
+> - 1. povolení stavby22) výrobny elektřiny a výrobny biometanu jako podmínka pro účast v aukci,
+>
+> - 2. společná aukce pro výrobny elektřiny uvedené do provozu od 1. ledna 2022 a pro modernizované výrobny elektřiny,
+>
+> - h) vymezení, pro který druh podporovaného zdroje energie podle tohoto zákona bude podpora zvlášť pro zdroj elektřiny a zvlášť pro výrobnu elektřiny,
+>
+> - i) dobu trvání udržovací podpory elektřiny, dobu trvání udržovací podpory tepla a období, za které se poskytuje přechodná transformační podpora tepla v soustavách zásobování tepelnou energií,
+>
+> - j) vymezení výrobny tepla využívající biomasu, pro kterou platí podmínka dodávky vyrobeného tepla do účinné soustavy zásobování tepelnou energií,
+>
+> - k) vymezení velikosti výrobny biometanu, na kterou se vztahuje podpora biometanu.
+>
+> (5) Nařízení vlády podle odstavce 4 upravuje podporu elektřiny, tepla a biometanu vždy na celý kalendářní rok. Vláda vydá každý kalendářní rok nařízení podle odstavce 4, kterým doplňuje vymezení podpory, pro další kalendářní rok nebo roky tak, aby bylo vymezení určeno vždy na období minimálně alespoň 3 kalendářních let. Vláda může nařízení vlády podle věty druhé změnit nebo doplnit i v průběhu daného kalendářního roku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 4, § 5, § 6, § 6a, § 6c, § 24, § 25a, § 26b, § 27a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7f52ba74928bd91f88b9 -->
+
 ### § 3a — Monitoring kapacit a uzavření podpory při dosažení limitu
 
 > **§ 3a**
@@ -602,3 +912,54 @@ Krácení nastupuje od prvního dne **druhého kalendářního měsíce** po zve
 ---
 
 > **Pokračování:** [02-hlava3-podpora-elektriny-oze.md](02-hlava3-podpora-elektriny-oze.md) — Hlava III a navazující ustanovení: podmínky a formy podpory elektřiny z OZE a druhotných zdrojů, zelené bonusy, aukční systém, povinný výkup a práva a povinnosti výrobců.
+
+<!-- LEGAL-REVISION:BEGIN id=67e2280e44950a9395b8 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 3a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Operátor trhu do patnáctého dne každého následujícího kalendářního měsíce zveřejňuje na svých internetových stránkách informace o počtu výroben elektřiny, u nichž výrobce registroval v systému operátora trhu podporu modernizované výrobny elektřiny, a počtu výroben elektřiny, výroben tepla a výroben biometanu, které byly uvedeny do provozu od 1. ledna 2022, a o jejich souhrnném instalovaném elektrickém, tepelném a energetickém výkonu, a to v členění podle jednotlivých druhů podporovaných zdrojů a provozních podpor, pro něž byla v systému operátora trhu registrována podpora. Operátor trhu dále ve lhůtě a způsobem podle věty první zveřejňuje informaci o množství podporovaného tepla z obnovitelného zdroje dodaného do rozvodného tepelného zařízení soustavy zásobování tepelnou energií v případě společného spalování obnovitelného zdroje a neobnovitelného zdroje, a to od začátku daného kalendářního roku.
+>
+> (2) Pokud souhrnný instalovaný elektrický výkon pro výrobny elektřiny, které nejsou předmětem aukce, nebo tepelný výkon pro výrobny tepla nebo energetický výkon výrobny biometanu v členění podle jednotlivých druhů podporovaných zdrojů a provozních podpor zveřejněný operátorem trhu dosáhne pro výrobny elektřiny, u nichž byla provedena modernizace výrobny elektřiny, nebo pro výrobny elektřiny, výrobny tepla nebo výrobny biometanu, které byly uvedeny do provozu, souhrnné hodnoty výkonu stanovené nařízením vlády v členění podle jednotlivých druhů podporovaných zdrojů za celé vymezené období, pak elektřina, teplo nebo biometan vyrobené ve výrobnách elektřiny, výrobnách tepla nebo výrobnách biometanu využívajících příslušný druh podporovaného zdroje a uvedených do provozu nebo elektřina vyrobená v modernizované výrobně elektřiny, u které je provedena registrace v systému operátora trhu od prvního dne pátého kalendářního měsíce následujícího po měsíci, kdy byla zveřejněna informace o dosažení souhrnné hodnoty výkonu pro odpovídající podporovaný zdroj, nejsou předmětem podpory podle tohoto zákona. Vymezeným obdobím se rozumí období, pro které vláda stanovila vymezení podle § 3 odst. 4.
+>
+> (3) Odstavec 2 se nepoužije v případě výrobny elektřiny, výrobny tepla nebo výrobny biometanu, na kterou vydané povolení stavby nabylo právní moci22) přede dnem zveřejnění informace operátora trhu o dosažení souhrnné hodnoty výkonu podle odstavce 2 a u které bude provedena registrace modernizované výrobny elektřiny v systému operátora trhu do 2 let ode dne zveřejnění informace operátorem trhu podle odstavce 1 nebo která bude uvedena do provozu do 2 let ode dne zveřejnění informace operátorem trhu podle odstavce 1. V případech, kdy cenový výměr v době uvedení výrobny elektřiny, výrobny tepla nebo výrobny biometanu do provozu nebo v době registrace modernizované výrobny elektřiny v systému operátora trhu výši podpory nestanoví, použije se výše podpory stanovená pro tyto výrobny uvedené do provozu nebo modernizované v kalendářním roce, kdy byla zveřejněna informace o dosažení souhrnné hodnoty výkonu podle odstavce 2.
+>
+> (4) Pokud dojde k překročení množství tepla z obnovitelného zdroje dodaného do rozvodného tepelného zařízení soustavy zásobování tepelnou energií v případě společného spalování obnovitelného zdroje a neobnovitelného zdroje stanoveného nařízením vlády podle § 3 odst. 4 písm. d), sníží operátor trhu od prvního dne druhého kalendářního měsíce následujícího po měsíci, kdy byla zveřejněna informace o tomto překročení, výši zeleného bonusu na teplo z obnovitelných zdrojů dodané ze společného spalovaní obnovitelného zdroje a neobnovitelného zdroje ve stejném poměru, ve kterém skutečné množství tepla z obnovitelného zdroje dodaného do rozvodného tepelného zařízení soustavy zásobování tepelnou energií v případě společného spalování obnovitelného zdroje a neobnovitelného zdroje od prvního dne kalendářního roku překročilo množství tepla z obnovitelného zdroje dodaného do rozvodného tepelného zařízení soustavy zásobování tepelnou energií v případě společného spalování obnovitelného zdroje a neobnovitelného zdroje stanoveného v nařízení vlády podle § 3 odst. 4 písm. d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=67e2280e44950a9395b8 -->

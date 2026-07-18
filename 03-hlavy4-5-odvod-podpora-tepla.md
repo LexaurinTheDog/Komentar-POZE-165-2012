@@ -79,6 +79,52 @@ Odvod dopadá výhradně na fotovoltaické výrobny 2009–2010 s výkonem nad 3
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=21f20a73d8ad5dea9209 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 14 — Předmět odvodu z elektřiny ze slunečního záření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Předmětem odvodu za elektřinu ze slunečního záření (dále jen „odvod“) je elektřina vyrobená ze slunečního záření v období od 1. ledna 2022 po dobu trvání práva na podporu elektřiny v zařízení uvedeném do provozu v období od 1. ledna 2009 do 31. prosince 2010.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=21f20a73d8ad5dea9209 -->
+
 ### § 15 — Subjekty odvodu
 
 > **§ 15**
@@ -143,6 +189,54 @@ Odvod je konstruován jako srážková povinnost: výrobce je poplatník, ale sr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=de68ed6864886e15b7ad generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 15 — Subjekty odvodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Poplatníkem odvodu je výrobce, pokud vyrábí elektřinu ze slunečního záření.
+>
+> (2) Plátcem odvodu je v případě hrazení formou zeleného bonusu na elektřinu operátor trhu a v případě hrazení formou výkupní ceny povinně vykupující.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=de68ed6864886e15b7ad -->
+
 ### § 16 — Základ odvodu
 
 > **§ 16**
@@ -200,6 +294,52 @@ Základ odvodu je peněžní (Kč, nikoli MWh) a tvoří jej částka podpory be
 **Typicky rozhodné důkazy / podklady:** výplatní doklady s rozčleněním na základ a DPH, smlouva o podpoře, měsíční vyúčtování odvodu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5885afe27186778fc762 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 16 — Základ odvodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Základem odvodu je částka bez daně z přidané hodnoty hrazená plátcem odvodu formou výkupní ceny nebo zeleného bonusu na elektřinu poplatníkovi odvodu za elektřinu ze slunečního záření vyrobenou v odvodovém období.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5885afe27186778fc762 -->
 
 ### § 17 — Osvobození od odvodu
 
@@ -267,6 +407,52 @@ Dvě nezávislá osvobození: výrobny do 30 kW (ex lege) a elektřina nad limit
 **Typicky rozhodné důkazy / podklady:** licence ERÚ s uvedením instalovaného výkonu, rozhodnutí dle § 34a, evidence vyrobeného množství elektřiny.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=61f7153a8b1a6c83a1e7 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 17 — Osvobození od odvodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Od odvodu je osvobozena elektřina vyrobená ze slunečního záření ve výrobně elektřiny s instalovaným výkonem výrobny do 30 kW a elektřina vyrobená ze slunečního záření přesahující celkové množství elektřiny, za které se hradí odvod a které stanoví rozhodnutí podle § 34a odst. 1 nebo [[#§ 2|2.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34a, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=61f7153a8b1a6c83a1e7 -->
 
 ### § 18 — Sazba odvodu
 
@@ -343,6 +529,62 @@ Sazba je čtyřstupňová podle roku uvedení do provozu (2009/2010) a formy pod
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=19909fe61abca99e15c6 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 18 — Sazba odvodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Sazba odvodu ze základu odvodu činí v případě výroby elektřiny v zařízení uvedeném do provozu v období od 1. ledna 2009 do 31. prosince 2009 v případě hrazení formou
+>
+> - a) výkupní ceny 10 %,
+>
+> - b) zeleného bonusu na elektřinu 11 %.
+>
+> (2) Sazba odvodu ze základu odvodu činí v případě výroby elektřiny v zařízení uvedeném do provozu v období od 1. ledna 2010 do 31. prosince 2010 v případě hrazení formou
+>
+> - a) výkupní ceny 20 %,
+>
+> - b) zeleného bonusu na elektřinu 21 %.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=19909fe61abca99e15c6 -->
+
 ### § 19 — Odvodové období
 
 > **§ 19**
@@ -392,6 +634,52 @@ Odvod se počítá a odvádí v měsíčních cyklech; každý kalendářní mě
 **Typicky rozhodné důkazy / podklady:** měsíční přehledy výroby, výplatní doklady podpory, vyúčtování odvodu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0802f53e8de6a4aae447 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 19 — Odvodové období
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Odvodovým obdobím je kalendářní měsíc.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0802f53e8de6a4aae447 -->
 
 ### § 20 — Způsob výběru odvodu
 
@@ -450,6 +738,54 @@ Plátce musí odvod srazit/vybrat a do 25 dnů po skončení měsíce jej odvés
 **Typicky rozhodné důkazy / podklady:** doklady o sražení, doklad o úhradě odvodu, podané vyúčtování, evidence lhůt.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=55554d896c1e9b25dcf6 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 20 — Způsob výběru odvodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Plátce odvodu je povinen srazit nebo vybrat odvod ze základu odvodu.
+>
+> (2) Plátce odvodu je povinen odvést odvod ze základu odvodu do 25 dnů po skončení odvodového období; ve stejné lhůtě je povinen podat vyúčtování odvodu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=55554d896c1e9b25dcf6 -->
 
 ### § 21 — Správa odvodu
 
@@ -514,6 +850,54 @@ Solární odvod spravují finanční úřady plně dle daňového řádu, se vš
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e4faf9a1cd8d2a1c1bc8 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 21 — Správa odvodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Správu odvodu vykonávají finanční úřady.
+>
+> (2) Při správě odvodu se postupuje podle [[daňového řádu|daňového řádu]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4faf9a1cd8d2a1c1bc8 -->
+
 ### § 22 — Rozpočtové určení odvodu
 
 > **§ 22**
@@ -562,6 +946,52 @@ Solární odvod je 100% příjmem státního rozpočtu; obce, na jejichž územ�
 **Typicky rozhodné důkazy / podklady:** identifikace typu výrobny, právní úprava rozpočtového určení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=297902f11b5d8050aad4 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22 — Rozpočtové určení odvodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Odvod je příjmem státního rozpočtu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=297902f11b5d8050aad4 -->
 
 ## Díl 2 — Poplatek za výrobu elektřiny ve výrobně elektřiny využívající energii větru
 
@@ -631,6 +1061,56 @@ Poplatníkem je výrobce provozující větrnou výrobnu; při více výrobcích
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=44152d39c7da460a916b generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22a — Poplatník poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Poplatníkem poplatku je výrobce elektřiny provozující výrobnu elektřiny využívající energii větru.
+>
+> (2) Povinnost placení poplatku vzniká ke dni, ke kterému výrobci elektřiny vznikne podle stavebního zákona právo užívat nebo předčasně užívat výrobnu elektřiny nebo ke kterému byl povolen zkušební provoz výrobny elektřiny.
+>
+> (3) V případě více výrobců elektřiny, kteří provozují za jedním místem připojení do přenosové nebo distribuční soustavy výrobny elektřiny, je poplatníkem poplatku výrobce elektřiny, který sjednal smlouvu o připojení k přenosové nebo distribuční soustavě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=44152d39c7da460a916b -->
+
 ### § 22b — Předmět poplatku
 
 > **§ 22b**
@@ -689,6 +1169,54 @@ Poplatku podléhají jen nové větrné výrobny, jejichž povolení záměru na
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d837dd74b34fadfacf3d generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22b — Předmět poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Předmětem poplatku je elektřina vyrobená ve výrobně elektřiny využívající energii větru, jedná-li se o výrobnu elektřiny, která byla záměrem, pro jehož uskutečnění stavební zákon vyžadoval povolení záměru, a toto povolení záměru nabylo právní moci po nabytí účinnosti tohoto zákona.
+>
+> (2) Pro účely tohoto dílu se výrobnou elektřiny rozumí rovněž více zdrojů elektřiny, které jsou součástí společně povolovaného záměru, nebo více zdrojů elektřiny, které jsou umístěny za jedním místem připojení do přenosové nebo distribuční soustavy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d837dd74b34fadfacf3d -->
+
 ### § 22c — Základ poplatku
 
 > **§ 22c**
@@ -740,6 +1268,52 @@ Základem je roční výroba v MWh snížená o technologickou vlastní spotřeb
 **Typicky rozhodné důkazy / podklady:** údaje měřicích zařízení, výkazy provozovatele soustavy, evidence vlastní spotřeby výrobny.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=39fa71bedc3ebe888580 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22c — Základ poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Základem poplatku je množství elektřiny vyrobené ve výrobně elektřiny využívající energii větru v MWh v kalendářním roce snížené o technologickou vlastní spotřebu elektřiny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=39fa71bedc3ebe888580 -->
 
 ### § 22d — Sazba a výpočet poplatku
 
@@ -811,6 +1385,60 @@ Poplatek = základ × 50 Kč/MWh × koeficient, přičemž sazba i koeficient js
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=79e360b3feeb492ed083 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22d — Sazba a výpočet poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Sazba poplatku činí 50 Kč za MWh množství elektřiny tvořící základ poplatku podle [[#§ 22c|§ 22c]].
+>
+> (2) Výše poplatku se vypočte jako součin množství elektřiny tvořící základ poplatku podle [[#§ 22c|§ 22c]], sazby poplatku a koeficientu poplatku.
+>
+> (3) Koeficient poplatku je stanoven ve výši 1. Obec, na jejímž katastrálním území se nachází nebo má uskutečnit záměr výstavby výrobny elektřiny využívající energii větru, může obecně závaznou vyhláškou snížit koeficient poplatku až na výši 0.
+>
+> (4) Sazba poplatku a výše koeficientu poplatku ve výši stanovené ke dni vzniku povinnosti placení poplatku zůstávají zachovány ve stejné výši po dobu provozování výrobny elektřiny.
+>
+> (5) Je-li výrobna elektřiny umístěna na katastrálních územích více obcí, které podle odstavce 4 stanovily jiné výše koeficientů poplatků, vypočte se výše poplatku podle množství elektřiny tvořící základ poplatku vyrobené ve výrobních zdrojích podle jejich umístění na jednotlivých katastrálních územích obcí a výše koeficientu poplatku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=79e360b3feeb492ed083 -->
+
 ### § 22e — Poplatkové období
 
 > **§ 22e**
@@ -858,6 +1486,52 @@ Poplatkovým obdobím je kalendářní rok; v roce vzniku povinnosti tvoří zá
 **Typicky rozhodné důkazy / podklady:** datum vzniku poplatkové povinnosti, roční výkaz výroby, údaje měřicích zařízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6f4bfb08116c62eeea17 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22e — Poplatkové období
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Poplatkové období je kalendářní rok.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6f4bfb08116c62eeea17 -->
 
 ### § 22f — Správa poplatku
 
@@ -925,6 +1599,60 @@ Větrný poplatek spravuje v přenesené působnosti ORP s největší částí 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4ca5fc0b246e48e68383 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22f — Správa poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Správu poplatku vykonává obecní úřad obce s rozšířenou působností, v jejímž správním obvodu se nachází největší část instalovaného výkonu výrobny elektřiny. Pokud je takových obecních úřadů více, správcem poplatku je obecní úřad obce s rozšířenou působností, jejíž správní obvod je největší.
+>
+> (2) Správa poplatku je výkonem přenesené působnosti.
+>
+> (3) Působnost správce poplatku vykonává v případě obce s rozšířenou působností její obecní úřad a v případě hlavního města Prahy Magistrát hlavního města Prahy. Rozhodnutí obecního úřadu obce s rozšířenou působností ve věcech správy poplatku za elektřinu vyrobenou ve výrobně elektřiny využívající energii větru přezkoumává v přenesené působnosti krajský úřad. V případě rozhodnutí Magistrátu hlavního města Prahy jej přezkoumává ministerstvo. Ve věcech správy poplatku za elektřinu vyrobenou ve výrobně elektřiny využívající energii větru je krajský úřad podřízen ministerstvu.
+>
+> (4) Správce poplatku může za podmínek podle [[daňového řádu|daňového řádu]] dožádat o provedení úkonů nebo dílčích řízení nebo jiných postupů orgán Finanční správy České republiky.
+>
+> (5) Při správě poplatku se postupuje podle [[daňového řádu|daňového řádu]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4ca5fc0b246e48e68383 -->
+
 ### § 22g — Určení poplatku
 
 > **§ 22g**
@@ -989,6 +1717,60 @@ Větrný poplatek je z 98 % příjmem dotčené obce a z 2 % správce; u více o
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=73b21d029050f4aad335 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22g — Určení poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Výnos z poplatku je z
+>
+> - a) 98 % příjmem obce, na jejímž katastrálním území je výrobna elektřiny využívající energii větru umístěna,
+>
+> - b) 2 % příjmem správce poplatku.
+>
+> (2) Pokud je výrobna elektřiny umístěna na katastrálních územích více obcí, výnos z poplatku v části připadající obcím se rozdělí podle poměru instalovaného výkonu výrobních zdrojů umístěných na katastrálních územích obcí.
+>
+> (3) Správce poplatku převede výnos z poplatku podle odstavce 1 písm. a) obci, která není správcem poplatku, do třiceti dnů od úhrady poplatku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=73b21d029050f4aad335 -->
+
 ### § 22h — Poplatkové přiznání
 
 > **§ 22h**
@@ -1052,6 +1834,58 @@ Přiznání se podává výlučně elektronicky na formulářovém podání do 2
 **Typicky rozhodné důkazy / podklady:** elektronické formulářové podání, roční výkaz výroby, obecně závazná vyhláška o koeficientu, nařízení vlády o vzoru formuláře.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d4725924769b7a98c0c9 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22h — Poplatkové přiznání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Poplatník poplatku je povinen podávat poplatkové přiznání do 2 měsíců po uplynutí poplatkového období a ve stejné lhůtě poplatek uhradit. Pokud povinnost úhrady poplatku za poplatkové období nevznikne, poplatkové přiznání se nepodává.
+>
+> (2) Před uplynutím lhůty pro podání poplatkového přiznání může poplatník poplatku nahradit již podané přiznání opravným poplatkovým přiznáním; k předchozímu poplatkovému přiznání se dále nepřihlíží.
+>
+> (3) Poplatkové přiznání lze podat pouze elektronicky na formulářovém podání.
+>
+> (4) Formát, náležitosti a vzor formulářového podání stanoví vláda nařízením.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d4725924769b7a98c0c9 -->
 
 ### § 22i — Stanovení poplatku
 
@@ -1119,6 +1953,60 @@ Větrný poplatek funguje na principu self-assessment: řádný poplatek je vym�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=67e2564d698aab1fdb58 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22i — Stanovení poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Poplatek tvrzený v poplatkovém přiznání se považuje za vyměřený dnem uplynutí lhůty pro jeho podání, a to ve výši v něm tvrzené.
+>
+> (2) Poplatek tvrzený poplatníkem v dodatečném poplatkovém přiznání se považuje za doměřený dnem podání dodatečného poplatkového přiznání, a to ve výši tvrzeného rozdílu oproti poslednímu známému poplatku; to neplatí, je-li dodatečné poplatkové přiznání podáno v průběhu doměřovacího řízení zahájeného z moci úřední.
+>
+> (3) V dodatečném poplatkovém přiznání se neuvádí den zjištění rozdílu oproti poslednímu známému poplatku.
+>
+> (4) Poplatek vyměřený podle odstavce 1 nebo doměřený rozdíl podle odstavce 2 správce poplatku předepíše do evidence poplatků.
+>
+> (5) U nedoplatku z částky poplatku, která má být uhrazena na základě dodatečného poplatkového přiznání, začne lhůta pro uhrazení poplatku běžet dnem doměření poplatku na základě tohoto dodatečného poplatkového přiznání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=67e2564d698aab1fdb58 -->
+
 ### § 22j — Zvláštní ustanovení o doměření poplatku z moci úřední
 
 > **§ 22j**
@@ -1166,6 +2054,52 @@ Správce může větrný poplatek doměřit z moci úřední přímo na základ�
 **Typicky rozhodné důkazy / podklady:** data o výrobě od provozovatele přenosové/distribuční soustavy, podané přiznání, výsledek postupu k odstranění pochybností.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=367950ea7d2fd72858d2 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22j — Zvláštní ustanovení o doměření poplatku z moci úřední
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> K doměření poplatku z moci úřední může dojít také, pokud správce poplatku zjistí na základě postupu k odstranění pochybností, že poslední známý poplatek není ve správné výši.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=367950ea7d2fd72858d2 -->
 
 ### § 22k — Daňová uznatelnost poplatku
 
@@ -1216,6 +2150,52 @@ Uhrazený větrný poplatek je daňově uznatelným nákladem dle ZDP; snižuje 
 **Typicky rozhodné důkazy / podklady:** doklad o úhradě poplatku, poplatkové přiznání, účetní evidence nákladů, daňové přiznání k dani z příjmů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3cb93172c328feca391a generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 22k — Daňová uznatelnost poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Výdajem vynaloženým na dosažení, zajištění a udržení příjmů podle zákona upravujícího daně z příjmů je v případě poplatníka poplatku také částka odpovídající výši poplatku uhrazená výrobcem elektřiny podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3cb93172c328feca391a -->
 
 ## Hlava V — Podpora tepla z obnovitelných zdrojů, podpora tepla a podpora biometanu
 
@@ -1303,6 +2283,66 @@ Provozní podpora tepla je dostupná jen úzkému okruhu technologií (biomasa, 
 **Typicky rozhodné důkazy / podklady:** licence ERÚ, doklad o datu uvedení do provozu, technická dokumentace o stáří celku, smlouva o dodávce tepla do SZTE, registrace u OTE.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9f1d36f69f89d1188df1 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 23 — Podpora tepla a formy podpory tepla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Pro účely stanovení podpory tepla z obnovitelných zdrojů podle tohoto zákona se za teplo z obnovitelných zdrojů považuje teplo vyrobené využitím obnovitelného zdroje.
+>
+> (2) Podpora tepla z obnovitelných zdrojů (dále jen „podpora tepla“) se uskutečňuje formou
+>
+> - a) investiční podpory tepla, nebo
+>
+> - b) provozní podpory tepla.
+>
+> (3) Provozní podpora tepla se uskutečňuje formou zeleného bonusu na teplo.
+>
+> (4) Investiční podpora tepla se uskutečňuje formou programů podpory ze státních nebo evropských finančních prostředků nebo finančních prostředků pocházejících z prodeje povolenek na emise skleníkových plynů.
+>
+> (5) Právo zvolit podporu tepla formou provozní podpory tepla má výrobce tepla, který vyrábí teplo z obnovitelných zdrojů podle [[#§ 24|§ 24]] využívající geotermální energii, energii biomasy nebo bioplynu s výjimkou skládkového a kalového plynu nebo teplo z obnovitelných zdrojů podle [[#§ 25a|§ 25a]] využívající geotermální energii nebo energii biomasy. Právo na podporu pro výrobny tepla uvedené do provozu od 1. ledna 2022 se vztahuje pouze na výrobny tepla, jejichž výrobní technologické celky nejsou v den uvedení do provozu podle prováděcího právního předpisu starší 5 let. Věta předchozí se nevztahuje na zdroj tepelné energie, v němž byla od 1. ledna 2022 provedena úplná náhrada fosilního paliva pro výrobu tepla obnovitelným zdrojem energie.
+>
+> (6) Výrobce tepla, který uplatňuje provozní podporu tepla, je povinen zaregistrovat přímo v systému operátora trhu provozní podporu tepla zeleným bonusem na teplo. Postup při registraci stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 25a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9f1d36f69f89d1188df1 -->
 
 ### § 24 — Provozní podpora tepla
 
@@ -1400,6 +2440,80 @@ Provozní podpora tepla má vrstevnaté podmínky: licence, zařazení do roku s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=670a23b5324270f14fa9 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 24 — Provozní podpora tepla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Právo na provozní podporu tepla podle tohoto zákona se vztahuje pouze na držitele licence na výrobu tepelné energie, který vyrábí tepelnou energii z obnovitelných zdrojů.
+>
+> (2) V případě výrobny tepla uvedené do provozu od
+>
+> - a) 1. ledna 2022 se provozní podpora tepla může vztahovat pouze na teplo z výrobny tepla umístěné na území České republiky spalující biomasu nebo využívající geotermální energii se jmenovitým tepelným výkonem vyšším než 200 kW, kde podporovaným teplem je teplo dodané z této výrobny tepla do rozvodného tepelného zařízení soustavy zásobování tepelnou energií; za výrobny tepla uvedené do provozu od 1. ledna 2022 se považují také zdroje tepelné energie, v nichž byla od 1. ledna 2022 provedena úplná náhrada fosilního paliva pro výrobu tepla obnovitelným zdrojem energie,
+>
+> - b) 1. ledna 2016 do 31. prosince 2021 se provozní podpora může vztahovat pouze na užitečné teplo z výrobny tepla umístěné na území České republiky využívající bioplyn vznikající z více než 70 % ze statkových hnojiv a vedlejších produktů živočišné výroby nebo z biologicky rozložitelného odpadu s instalovaným elektrickým výkonem do 500 kW, je-li při výrobě tepelné energie splněna minimální účinnost užití energie stanovená prováděcím právním předpisem.
+>
+> (3) Provozní podpora tepla se vztahuje na teplo vyrobené ve výrobně tepla
+>
+> - a) splňující minimální účinnost energie stanovenou prováděcím právním předpisem, s výjimkou výroby tepla využívající geotermální energii,
+>
+> - b) využívající biomasu nebo bioplyn z podporovaného druhu a parametrů obnovitelných zdrojů podle prováděcího právního předpisu,
+>
+> - c) z pevných paliv z biomasy ve výrobně tepla s celkovým jmenovitým tepelným příkonem nad 7,5 MW nebo z plynných paliv z biomasy ve výrobně tepla s celkovým jmenovitým tepelným příkonem nad 2 MW se podpora tepla z obnovitelných zdrojů vztahuje pouze na teplo vyrobené z paliv z biomasy splňujících kritéria udržitelnosti pro paliva z biomasy a úspor emisí skleníkových plynů podle prováděcího právního předpisu, přičemž paliva z biomasy vyrobená z odpadů a zbytků jiných než zbytků ze zemědělství, akvakultury, rybolovu a lesnictví musí splňovat pouze kritéria úspor emisí skleníkových plynů, vyjma paliv z biomasy vyrobených z tuhého komunálního odpadu, která nepodléhají ani kritériím úspor emisí skleníkových plynů,
+>
+> - d) z biokapalin, které splňují kritéria udržitelnosti a úspor emisí skleníkových plynů stanovená prováděcím právním předpisem, přičemž biokapaliny vyrobené z odpadů a zbytků jiných než zbytků ze zemědělství, akvakultury, rybolovu a lesnictví musí splňovat pouze kritéria úspor emisí skleníkových plynů, vyjma biokapalin vyrobených z tuhého komunálního odpadu, které nepodléhají ani kritériím úspor emisí skleníkových plynů,
+>
+> - e) energetickým využitím komunálního odpadu, a to pouze na teplo vyrobené z biologicky rozložitelné části komunálního odpadu; v případě nevytříděného komunálního odpadu stanoví podíl biologicky rozložitelné a nerozložitelné části na energetickém obsahu komunálního odpadu prováděcí právní předpis.
+>
+> (4) Provozní podpora tepla se nevztahuje na
+>
+> - a) neoprávněnou dodávku tepelné energie podle [[energetického zákona|energetického zákona]],
+>
+> - b) teplo vyrobené výrobcem tepla, který neplní povinnosti podle § 27 odst. 3 nebo nesplní povinnost vůči operátorovi trhu podle § 27 odst. 5 písm. a),
+>
+> - c) teplo naměřené měřicím zařízením, které zaznamenalo naměřené hodnoty nesprávně tak, že došlo k prospěchu výrobce tepla v důsledku neoprávněného zásahu do tohoto měřicího zařízení nebo porušení zajištění proti neoprávněné manipulaci nebo chyby a poruchy měřicího zařízení,
+>
+> - d) teplo vyrobené z bioplynu, na který byla uplatněna provozní podpora biometanu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=670a23b5324270f14fa9 -->
+
 ### § 25 — Investiční podpora tepla
 
 > **§ 25**
@@ -1468,6 +2582,60 @@ Investiční podpora tepla je realizována dotačními programy, nikoli plnění
 **Typicky rozhodné důkazy / podklady:** text výzvy a pravidla programu, popis zdrojů financování, projektová dokumentace záměru, doklad o účinnosti, u biokapalin doklad o kritériích udržitelnosti (do 30 dnů od uvedení do provozu).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ea9440cad326b5fb7604 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 25 — Investiční podpora tepla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Investiční podpora tepla se vztahuje na výstavbu výrobny tepla z obnovitelných zdrojů nebo z odpadního tepla a na rozvodné tepelné zařízení2) z těchto výroben tepla na území České republiky s minimální účinností užití energie stanovenou prováděcím právním předpisem.
+>
+> (2) Vyhlašují-li organizační složky státu, kraje nebo obce programy podpory ze státních, evropských finančních prostředků nebo finančních prostředků pocházejících z prodeje povolenek na emise skleníkových plynů, týkající se zcela nebo z části obnovitelných zdrojů, jsou povinny do výzvy k podání nabídek podle příslušných programů zařadit investiční podporu výstavby výrobny tepla z obnovitelných zdrojů a rozvodných tepelných zařízení2) z těchto výroben tepla.
+>
+> (3) V případě výstavby výrobny tepla z tepelných čerpadel se investiční podpora tepla vztahuje na výrobnu tepla splňující požadavky stanovené rozhodnutím Komise15).
+>
+> (4) V případě výstavby výrobny tepla z biokapalin se investiční podpora tepla vztahuje pouze na výrobnu tepla využívající jako paliva biokapaliny splňující kritéria udržitelnosti stanovená v prováděcím právním předpise. Splnění kritérií udržitelnosti biokapalin je povinen výrobce tepla doložit poskytovateli dotace do 30 dní po uvedení výrobny tepla do provozu.
+>
+> (5) Investiční podpora tepla se nevztahuje na solární systémy nebo systémy s tepelnými čerpadly, které by svým provozem zhoršily celkovou průměrnou roční účinnost stávajících účinných soustav zásobování tepelnou energií.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ea9440cad326b5fb7604 -->
 
 ### § 25a — Udržovací podpora tepla
 
@@ -1548,6 +2716,72 @@ Udržovací podpora tepla je kompenzačním nástrojem pro stávající teplárn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=188c4646d9d26f6611d1 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 25a — Udržovací podpora tepla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Úřad stanoví udržovací podporu tepla tak, aby došlo k vyrovnání rozdílu mezi
+>
+>   - a) měrnými provozními náklady při použití biomasy u výroben tepla spalujících biomasu nebo u výroben tepla nebo elektřiny společně spalujících obnovitelný zdroj a neobnovitelný zdroj a měrnými provozními náklady při použití tuhých fosilních paliv,
+>
+>   - b) měrnými provozními náklady a tržní cenou elektřiny a cenou tepla u výroben tepla využívající geotermální energii.
+>
+> (2) Rozsah a celkovou výši měrných provozních nákladů a způsob tvorby ceny tepla použité Úřadem pro stanovení výše udržovací podpory tepla podle odstavce 1 stanoví prováděcí právní předpis.
+>
+> (3) Udržovací podpora tepla se vztahuje na množství tepla dodaného do rozvodného tepelného zařízení soustavy zásobování tepelnou energií anebo v případě společného spalování obnovitelného zdroje a neobnovitelného zdroje na poměrnou část dodaného tepla pocházející z obnovitelného zdroje vypočtenou způsobem stanoveným prováděcím právním předpisem.
+>
+> (4) Úřad meziročně upravuje výši udržovací podpory tepla na základě monitoringu provozních nákladů a tržní ceny elektřiny a ceny tepla a jejich změn.
+>
+> (5) Podmínkou vzniku práva na udržovací podporu tepla je registrace podpory v systému operátora trhu výrobcem, s výjimkou udržovací podpory tepla pro rok 2022. Pokud výrobce tepla v systému operátora trhu registruje udržovací podporu tepla do 31. prosince 2022, vznikne právo na udržovací podporu tepla za rok 2022 při splnění ostatních podmínek podpory, nejdříve ode dne 1. ledna 2022.
+>
+> (6) Udržovací podpora tepla není poskytována do
+>
+>   - a) předložení pravomocného usnesení podle § 35 odst. 8, pokud u výrobny tepla před registrací udržovací podpory tepla v systému operátora trhu bylo vedeno řízení o stanovení podmínek podpory z moci úřední, nebo
+>
+>   - b) předložení dokladu prokazujícího bezdlužnost v případě zjištěné nadměrné podpory u výrobny elektřiny před registrací udržovací podpory tepla v systému operátora trhu, kdy je uložena povinnost vrácení prostředků do státního rozpočtu podle § 35 odst. 5 písm. b).
+>
+> (7) Na udržovací podporu tepla dále platí požadavky, podmínky a pravidla uvedené v [[#§ 23|§ 23]] a [[#§ 24|24]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35, § 23, § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=188c4646d9d26f6611d1 -->
+
 ### § 26 — Zelený bonus na teplo
 
 > **§ 26**
@@ -1621,6 +2855,62 @@ Zelený bonus na teplo je sazbově roční (Kč/GJ), ale propláci se měsíčn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dbc03ee2fd7045ffa7d7 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 26 — Zelený bonus na teplo
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Zelený bonus na teplo je stanoven v Kč/GJ a poskytován pouze v ročním režimu.
+>
+> (2) Zúčtovacím obdobím pro úhradu zeleného bonusu na teplo je 1 měsíc nebo jeho celé násobky.
+>
+> (3) Pokud o to výrobce tepla požádá, je operátor trhu povinen, na základě vyúčtování podle odstavce 4, hradit výrobci zelený bonus na teplo.
+>
+> (4) Vyúčtování zeleného bonusu na teplo se uskutečňuje na základě naměřených hodnot
+>
+> - a) dodaného tepla z výroben tepla do rozvodného tepelného zařízení soustavy zásobování tepelnou energií podle § 24 odst. 2 písm. a) a § 25a odst. 3 anebo poměrné části dodaného tepla pocházející z obnovitelného zdroje v případě společného spalování obnovitelného zdroje a neobnovitelného zdroje podle § 25a odst. 3, nebo
+>
+> - b) užitečného tepla pro výrobny tepla podle § 24 odst. 2 písm. b) evidovaných operátorem trhu podle prováděcího právního předpisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 25a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dbc03ee2fd7045ffa7d7 -->
+
 ### § 26a — Výše zeleného bonusu na teplo
 
 > **§ 26a**
@@ -1692,6 +2982,60 @@ Výši zeleného bonusu na teplo stanoví ERÚ cenovým výměrem metodou NPV = 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1c714506f4a22f0097cb generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 26a — Výše zeleného bonusu na teplo
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Úřad stanoví pro výrobny tepla podle [[#§ 24|§ 24]] výši zeleného bonusu na teplo tak, aby při podpoře tepla vyrobeného ve výrobnách tepla uvedených do provozu od 1. ledna 2022 byl součet diskontovaných peněžních toků za dobu životnosti výrobny tepla roven nule za podmínky splnění technických a ekonomických parametrů a při zohlednění předpokládaných příjmů z prodeje elektřiny a tepla. Technické a ekonomické parametry a výši diskontní míry stanoví prováděcí právní předpis.
+>
+> (2) Úřad meziročně upravuje výši zeleného bonusu na teplo na základě monitoringu nákladů na pořízení paliva a tržní ceny elektřiny a ceny tepla a jejich změn.
+>
+> (3) Úřad stanoví v daném kalendářním roce na následující kalendářní rok výši ročního zeleného bonusu na udržovací podporu tepla způsobem uvedeným v [[#§ 25a|§ 25a]].
+>
+> (4) Úřad je povinen stanovit celkovou výši podpory tepla tak, aby pro rok, kdy je výrobna tepla uvedena do provozu, činil zelený bonus na teplo nejvýše pětinásobek průměrné výsledné ceny tepelné energie zveřejňované Úřadem stanovené jako průměr cen tepelné energie ze zemního plynu na úrovni výroby při výkonu nad 10 MWt za poslední tři ukončené kalendářní roky.
+>
+> (5) Při stanovení zelených bonusů na teplo postupuje Úřad podle [[zákona o cenách|zákona o cenách]] a výši podpory stanoví v cenovém výměru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 25a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c714506f4a22f0097cb -->
+
 ### § 26b — Přechodná transformační podpora tepla v soustavách zásobování tepelnou energií
 
 > **§ 26b**
@@ -1755,6 +3099,54 @@ PTPT je výjimečná podpora tepla z neobnovitelných zdrojů dodaného do SZTE,
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c26d2cb9dec40144a520 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 26b — Přechodná transformační podpora tepla v soustavách zásobování tepelnou energií
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Přechodná transformační podpora tepla v soustavách zásobování tepelnou energií (dále jen „přechodná transformační podpora tepla“) se vztahuje na teplo vyrobené ve výrobně tepla z neobnovitelných zdrojů, které bylo dodáno do rozvodného tepelného zařízení soustavy zásobování tepelnou energií umístěné na území České republiky, a na jehož výrobu byly výrobcem tepla z neobnovitelného zdroje nakoupeny a vyřazeny povolenky na emise skleníkových plynů podle jiného právního předpisu35).
+>
+> (2) Přechodná transformační podpora tepla se nevztahuje na teplo vymezené v nařízení vlády podle [[#§ 3|§ 3]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c26d2cb9dec40144a520 -->
+
 ### § 26c — Práva a povinnosti související s přechodnou transformační podporou tepla
 
 > **§ 26c**
@@ -1817,6 +3209,60 @@ PTPT je pro uhelné teplárny podmíněna doloženým a pravdivým závazkem uko
 **Typicky rozhodné důkazy / podklady:** doložený závazek odchodu od uhlí, roční zprávy o pokroku, údaje pro vyúčtování, projektová dokumentace a doklady o investicích do náhrady uhlí, registrace u OTE.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=192219156c86f9dbe412 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 26c — Práva a povinnosti související s přechodnou transformační podporou tepla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Právo na přechodnou transformační podporu tepla se vztahuje na držitele licence na výrobu tepelné energie, který vyrábí teplo z neobnovitelného zdroje.
+>
+> (2) Výrobce tepla z neobnovitelného zdroje, který uplatňuje přechodnou transformační podporu tepla, je povinen zaregistrovat tuto podporu v systému operátora trhu. Postup při registraci stanoví prováděcí právní předpis.
+>
+> (3) Výrobce tepla z neobnovitelného zdroje je povinen předat elektronickou formou operátorovi trhu úplné a pravdivé údaje týkající se identifikace výrobce tepla z neobnovitelného zdroje a výrobny tepla z neobnovitelného zdroje a údaje pro vyúčtování bonusu k transformaci výroby tepla podle § 26d odst. 7 a na vyžádání operátora trhu poskytnout další doplňující údaje; způsob předání údajů, rozsah údajů a termín předání a evidence údajů stanoví prováděcí právní předpis.
+>
+> (4) Výrobce tepla z neobnovitelného zdroje, který uplatňuje přechodnou transformační podporu tepla, je v případě výroby tepla z uhlí povinen úplnými a pravdivými údaji doložit závazek ukončit výrobu tepla z uhlí v dané výrobně tepla z neobnovitelného zdroje nejpozději do 31. prosince 2030 a po uvedeném datu zajistit výrobu tepla z jiných zdrojů energie než z uhlí. Způsob, rozsah a termín doložení závazku stanoví prováděcí právní předpis.
+>
+> (5) Výrobce tepla z neobnovitelného zdroje je v případě výroby tepla z uhlí povinen předávat operátorovi trhu s údaji pro vyúčtování bonusu k transformaci výroby tepla také úplné a pravdivé údaje o pokroku při plnění závazku uvedeného v odstavci 4. Způsob a rozsah údajů o pokroku plnění závazku uvedeného v odstavci 4 stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26d
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=192219156c86f9dbe412 -->
 
 ### § 26d — Forma a výše přechodné transformační podpory tepla
 
@@ -1886,6 +3332,64 @@ Bonus k transformaci výroby tepla se počítá jako rozdíl průměrné tržní
 **Typicky rozhodné důkazy / podklady:** doklad o vyřazených povolenkách, evidence tepla dodaného do SZTE, zveřejněná průměrná tržní cena povolenky, nařízení vlády s transformační cenou, vyúčtování OTE.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d3d76aa349fb1c3440d1 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 26d — Forma a výše přechodné transformační podpory tepla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Přechodná transformační podpora tepla se uskutečňuje formou bonusu k transformaci výroby tepla.
+>
+> (2) Bonus k transformaci výroby tepla je stanoven v Kč a je poskytován pouze v ročním režimu.
+>
+> (3) Zúčtovacím obdobím pro úhradu bonusu k transformaci výroby tepla je kalendářní rok.
+>
+> (4) Operátor trhu je na základě vyúčtování podle odstavce 7 a údajů podle § 26c odst. 3 až 5 povinen hradit bonus k transformaci výroby tepla výrobci tepla z neobnovitelného zdroje, který o tuto podporu požádá.
+>
+> (5) Výše bonusu k transformaci výroby tepla je stanovena jako součin rozdílu průměrné tržní ceny povolenky na emise skleníkových plynů stanovené Úřadem za kalendářní rok, za který se bonus k transformaci výroby tepla poskytuje, a ceny povolenky na emise skleníkových plynů zajištující přechod k transformaci výroby tepla stanovené nařízením vlády podle [[#§ 3|§ 3]] a množství povolenek na emise skleníkových plynů nakoupených a vyřazených výrobcem tepla z neobnovitelného zdroje podle jiného právního předpisu35) na pokrytí emisí skleníkových plynů z výroby tepla dodaného do rozvodného tepelného zařízení soustavy zásobování tepelnou energií podle § 26b odst. 1 se zohledněním § 26b odst. 2 v kalendářním roce, za který se bonus k transformaci výroby tepla poskytuje. Průměrnou tržní cenu povolenky zveřejní Úřad na svých internetových stránkách do 31. ledna roku následujícího po roku, za který se bonus k transformaci výroby tepla poskytuje.
+>
+> (6) Výše bonusu stanoveného podle odstavce 5 nesmí překročit tři čtvrtiny součinu průměrné tržní ceny povolenky stanovené podle odstavce 5 a množství povolenek na emise skleníkových plynů nakoupených a vyřazených výrobcem tepla z neobnovitelného zdroje podle jiného právního předpisu35) na pokrytí emisí skleníkových plynů z výroby tepla dodaného do rozvodného tepelného zařízení soustavy zásobování tepelnou energií podle § 26b odst. 1 se zohledněním § 26b odst. 2.
+>
+> (7) Vyúčtování bonusu k transformaci výroby tepla se uskutečňuje na základě informací o množství nakoupených a vyřazených povolenek na emise skleníkových plynů a dalších údajů evidovaných operátorem trhu podle prováděcího právního předpisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26c, § 3, § 26b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3d76aa349fb1c3440d1 -->
 
 ### § 26e — Účinná soustava zásobování tepelnou energií
 
@@ -1986,6 +3490,84 @@ Status účinné SZTE se posuzuje pro každý kalendářní rok podle stupňovan
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cbb320983094bb2c68bc generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 26e — Účinná soustava zásobování tepelnou energií
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Účinnou soustavou zásobování tepelnou energií je soustava zásobování tepelnou energií, do které bylo dodáno v kalendářním roce v období
+>
+> - a) do 31. prosince 2027 alespoň 50 % tepelné energie z obnovitelných zdrojů, 50 % odpadního tepla, 75 % tepla z kombinované výroby elektřiny a tepla nebo 50 % tepla z kombinace uvedených možností,
+>
+> - b) od 1. ledna 2028 alespoň 50 % tepelné energie z obnovitelných zdrojů, 50 % odpadního tepla, 50 % tepelné energie z obnovitelných zdrojů a odpadního tepla, 80 % tepla z vysokoúčinné kombinované výroby elektřiny a tepla nebo 50 % tepelné energie z kombinace uvedených možností, pokud podíl tepla z obnovitelných zdrojů činí alespoň 5 %,
+>
+> - c) od 1. ledna 2035 alespoň 50 % tepelné energie z obnovitelných zdrojů, 50 % odpadního tepla, 50 % tepelné energie z obnovitelných zdrojů a odpadního tepla nebo 80 % tepla z vysokoúčinné kombinované výroby elektřiny a tepla, odpadního tepla a tepelné energie z obnovitelných zdrojů, pokud podíl odpadního tepla a tepelné energie z obnovitelných zdrojů činí alespoň 35 %,
+>
+> - d) od 1. ledna 2040 alespoň 75 % tepelné energie z obnovitelných zdrojů, 75 % odpadního tepla, 75 % tepelné energie z obnovitelných zdrojů a odpadního tepla nebo 95 % tepla z vysokoúčinné kombinované výroby elektřiny a tepla, odpadního tepla a tepelné energie z obnovitelných zdrojů, pokud podíl odpadního tepla a tepelné energie z obnovitelných zdrojů činí alespoň 35 %,
+>
+> - e) od 1. ledna 2045 alespoň 75 % tepelné energie z obnovitelných zdrojů, 75 % odpadního tepla nebo 75 % tepelné energie z obnovitelných zdrojů a odpadního tepla,
+>
+> - f) od 1. ledna 2050 pouze odpadní teplo a tepelná energie z obnovitelných zdrojů.
+>
+> (2) Účinnou soustavou zásobování tepelnou energií je také soustava zásobování tepelnou energií, ve které množství emisí skleníkových plynů na jednotku tepelné energie dodané zákazníkům nepřesáhlo v kalendářním roce v období od
+>
+> - a) 1. ledna 2028 150 g/kWh,
+>
+> - b) 1. ledna 2035 100 g/kWh,
+>
+> - c) 1. ledna 2045 50 g/kWh,
+>
+> - d) 1. ledna 2050 0 g/kWh.
+>
+> (3) Způsob stanovení množství emisí skleníkových plynů na jednotku tepelné energie dodané zákazníkům v soustavě zásobování tepelnou energií stanoví prováděcí právní předpis.
+>
+> (4) Je-li vystavěna nová soustava zásobování tepelnou energií nebo provedena rekonstrukce soustavy zásobování tepelnou energií, jejíž náklady přesáhnou 50 % investičních nákladů na výstavbu nové srovnatelné soustavy zásobování tepelnou energií (dále jen „podstatná rekonstrukce“), je účinnou soustavou zásobování tepelnou energií soustava, která splňuje podmínky podle odstavce 1 nebo [[#§ 2|2]], pokud po uvedení nové soustavy zásobování tepelnou energií do provozu nebo provedení podstatné rekonstrukce soustavy zásobování tepelnou energií současně
+>
+> - a) ve zdrojích tepelné energie, ze kterých je dodávána tepelná energie do podstatně zrekonstruované soustavy zásobování tepelnou energií, nedošlo ke zvýšení spotřeby fosilních paliv jiných než zemního plynu ve srovnání s průměrnou roční spotřebou těchto paliv za tři kalendářní roky plného provozu před provedením podstatné rekonstrukce soustavy zásobování tepelnou energií a
+>
+> - b) nebyl k soustavě zásobování tepelnou energií připojený žádný nový zdroj tepelné energie, ve kterém se spotřebovává jiné fosilní palivo než zemní plyn, pokud je nová soustava zásobování tepelnou energií vystavěna nebo je provedena podstatná rekonstrukce soustavy zásobování tepelnou energií do 31. prosince 2030.
+>
+> (5) Úřad eviduje účinné soustavy zásobování tepelnou energií a zveřejňuje je na svých internetových stránkách do 30. dubna kalendářního roku následujícího po kalendářním roce, za který se vyhodnocuje splnění podmínek pro účinnou soustavu zásobování tepelnou energií. Úřad dále zveřejní na svých internetových stránkách soustavy zásobování tepelnou energií, do kterých je dodávána tepelná energie ze zdrojů tepelné energie se souhrnným instalovaným výkonem vyšším než 5 MWt, které nejsou účinnými soustavami zásobování tepelnou energií a pro které nebyl Úřadem schválen plán na zajištění účinnější spotřeby primární energie, snížení distribučních ztrát a zvýšení podílu tepelné energie z obnovitelných zdrojů na dodávce tepelné energie (dále jen „plán transformace“).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cbb320983094bb2c68bc -->
+
 ### § 26f — Povinnosti provozovatele soustavy zásobování tepelnou energií
 
 > **§ 26f**
@@ -2057,6 +3639,62 @@ Provozovatelé neúčinných SZTE nad 5 MWt mají v pětiletých cyklech povinno
 **Typicky rozhodné důkazy / podklady:** údaje předané ERÚ do 28. 2., doklad o instalovaném výkonu, vyhodnocení aCZT za rozhodný rok, společný plán transformace, korespondence s ERÚ, zprávy o pokroku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ddbd47b9bba528c4fb09 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 26f — Povinnosti provozovatele soustavy zásobování tepelnou energií
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel soustavy zásobování tepelnou energií je povinen poskytnout Úřadu do 28. února kalendářního roku pravdivé a úplné údaje za předchozí kalendářní rok pro posouzení, zda je soustava zásobování tepelnou energií účinnou soustavou zásobování tepelnou energií.
+>
+> (2) Provozovatel soustavy zásobování tepelnou energií, do které je dodávána tepelná energie ze zdrojů tepelné energie se souhrnným instalovaným výkonem vyšším než 5 MWt a která není v roce 2025 nebo v každém pátém následujícím roce účinnou soustavou zásobování tepelnou energií, je povinen vypracovat a do 30. září následujícího kalendářního roku předložit ke schválení Úřadu plán transformace. Provozuje-li soustavu zásobování tepelnou energií více provozovatelů společně, předkládají jeden společný plán transformace.
+>
+> (3) Úřad plán transformace schválí, jestliže navrhovaná opatření zajišťují splnění podmínek pro účinnou soustavu zásobování tepelnou energií do 10 let od předložení plánu transformace Úřadu ke schválení.
+>
+> (4) Pokud Úřad plán transformace neschválí, uvede důvody, pro které plán transformace neschválil, a uloží provozovateli soustavy zásobování tepelnou energií jeho přepracování a opětovné předložení Úřadu ke schválení v přiměřené lhůtě.
+>
+> (5) Provozovatel soustavy zásobování tepelnou energií je povinen se schváleným plánem transformace řídit. Zjistí-li provozovatel soustavy zásobování tepelnou energií, že není schopen řídit se schváleným plánem transformace nebo že tento plán již nezajišťuje splnění podmínek pro účinnou soustavu zásobování tepelnou energií, je povinen o tom do 30 dnů informovat Úřad včetně uvedení důvodů a do 6 měsíců předložit Úřadu nový plán transformace ke schválení.
+>
+> (6) Provozovatel soustavy zásobování tepelnou energií, pro kterou Úřad schválil plán transformace a která v předcházejícím kalendářním roce nebyla účinnou soustavou zásobování tepelnou energií, informuje Úřad do 30. června kalendářního roku o pokroku při plnění plánu transformace za předcházející kalendářní rok.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ddbd47b9bba528c4fb09 -->
 
 ### § 27 — Práva a povinnosti subjektů na trhu s teplem a s provozní podporou tepla
 
@@ -2152,6 +3790,82 @@ Povinný výkup tepla z OZE se vztahuje na SZTE se zdroji nad 25 MWt, je omezen 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6ea30c80384b7c6e2d43 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27 — Práva a povinnosti subjektů na trhu s teplem a s provozní podporou tepla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Držitel licence na rozvod tepelné energie16) v soustavě zásobování tepelnou energií s celkovým tepelným výkonem zdrojů tepelné energie nad 25 MWt je povinen od výrobce tepla vykupovat teplo vyrobené z obnovitelných zdrojů nebo z odpadního tepla a za tím účelem umožnit připojení výrobny tepla k rozvodnému tepelnému zařízení. Povinnost výkupu se vztahuje pouze na množství tepla, které neohrozí spolehlivý a bezpečný provoz dotčené soustavy zásobování tepelnou energií nebo její části nebo neomezí využití obnovitelných zdrojů nebo odpadního tepla v jiném zdroji tepelné energie připojeném k rozvodnému tepelnému zařízení.
+>
+> (2) Povinnost umožnit připojení výrobny tepla a výkupu tepla nevzniká,
+>
+> - a) pokud výrobce tepla není držitelem licence na výrobu tepelné energie podle [[energetického zákona|energetického zákona]],
+>
+> - b) pokud je rozvodné tepelné zařízení součástí účinné soustavy zásobování tepelnou energií,
+>
+> - c) pokud by došlo ke zvýšení celkových nákladů na pořízení tepla pro stávající odběratele držitele licence na rozvod tepelné energie, nebo
+>
+> - d) pokud parametry teplonosné látky neodpovídají parametrům v rozvodném tepelném zařízení soustavy zásobování tepelnou energií v místě připojení.
+>
+> (3) Výrobce tepla je povinen zajistit měření
+>
+> - a) dodaného tepla do rozvodného tepelného zařízení soustavy zásobování tepelnou energií v případě podpory podle § 24 odst. 2 písm. a) nebo [[#§ 25a|§ 25a]] způsobem podle prováděcího právního předpisu, nebo
+>
+> - b) užitečného tepla v případě podpory podle § 24 odst. 2 písm. b) způsobem podle prováděcího právního předpisu.
+>
+> (4) Výrobce tepla je povinen zaregistrovat místo předání vyrobeného tepla z výrobny tepla vyrábějící teplo z obnovitelných zdrojů do rozvodného tepelného zařízení soustavy zásobování tepelnou energií v případě výroben tepla podle § 24 odst. 2 písm. a) a [[#§ 25a|§ 25a]] nebo užitečného tepla v případě výroben tepla podle § 24 odst. 2 písm. b), ke kterému vzniká nárok na provozní podporu tepla podle tohoto zákona, v systému operátora trhu a dále registrovat všechny změny v těchto údajích podle prováděcího právního předpisu.
+>
+> (5) Výrobce tepla je povinen
+>
+> - a) předat elektronickou formou operátorovi trhu úplné a pravdivé naměřené hodnoty tepla dodaného do rozvodného tepelného zařízení soustavy zásobování tepelnou energií v případě výrobny tepla podle § 24 odst. 2 písm. a) a [[#§ 25a|§ 25a]] nebo užitečného tepla v případě výrobny tepla podle § 24 odst. 2 písm. b) a jejich evidenci a údaje týkající se identifikace výrobce tepla a výrobny tepla a na vyžádání operátora trhu poskytnout další doplňující informace týkající se předávaných údajů; způsob předání údajů, rozsah údajů a termín předání a evidence údajů stanoví prováděcí právní předpis,
+>
+> - b) vykazovat operátorovi trhu a na vyžádání též Úřadu, Státní energetické inspekci (dále jen „Inspekce“) a ministerstvu, v případě společného spalování obnovitelného zdroje a neobnovitelného zdroje zvlášť množství tepla z obnovitelného zdroje a zvlášť množství tepla z neobnovitelného zdroje, skutečné nabytí množství obnovitelného zdroje a jeho kvalitu a skutečné využití veškerého nabytého množství obnovitelného zdroje pro účely výroby tepla způsobem, který stanoví prováděcí právní předpis.
+>
+> (6) Výrobce tepla je dále povinen
+>
+> - a) udržovat a provozovat měřidlo s platným ověřením podle zákona [[o metrologii|o metrologii]],
+>
+> - b) zdržet se jakýchkoli neoprávněných zásahů do zajištění proti neoprávněné manipulaci nebo do měřicího zařízení nebo do jeho součásti či příslušenství.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 25a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ea30c80384b7c6e2d43 -->
+
 ## Díl 2 — Podpora biometanu
 
 ### § 27a — Podpora biometanu a forma podpory
@@ -2243,6 +3957,72 @@ Forma podpory biometanu se řídí datem uvedení výrobny do provozu: do 31. 12
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=221c109361526d85bd0e generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27a — Podpora biometanu a forma podpory
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Podpora biometanu formou zeleného bonusu na biometan se poskytuje na biometan vyrobený ve výrobně biometanu na území České republiky připojené k distribuční nebo přepravní soustavě24) České republiky nebo dodaný do čerpací stanice nebo výdejní jednotky25), která je přímo připojená k výrobně biometanu. U výroben biometanu uvedených do provozu od 1. ledna 2026 se podpora biometanu poskytuje pouze formou aukčního bonusu na biometan vyrobený ve výrobně biometanu s energetickým výkonem do hodnoty stanovené v nařízení vlády podle [[#§ 3|§ 3]] umístěné na území České republiky, která je připojena k plynárenské soustavě České republiky a ze které výrobce biometanu dodává plyn povinně vykupujícímu plyn.
+>
+> (2) Podpora biometanu se vztahuje na biometan vyrobený ve výrobně biometanu
+>
+> - a) v souladu s požadavky na kvalitu biometanu a odorizaci stanovenými prováděcím právním předpisem,
+>
+> - b) z paliv z biomasy splňující kritéria udržitelnosti pro paliva z biomasy a úspor emisí skleníkových plynů podle prováděcího právního předpisu; paliva z biomasy vyrobená z odpadů a zbytků jiných než zbytků ze zemědělství, akvakultury, rybolovu a lesnictví musí splňovat pouze kritéria úspor emisí skleníkových plynů,
+>
+> - c) využívající biomasu nebo bioplyn z podporovaného druhu a parametrů obnovitelných zdrojů podle prováděcího právního předpisu,
+>
+> - d) provozované držitelem licence na výrobu plynu,
+>
+> - e) s výrobními technologickými celky, které nejsou v den uvedení do provozu starší 5 let; to platí pro výrobnu biometanu, která nevznikla úpravou výrobny elektřiny využívající bioplyn,
+>
+> - f) z biokapalin, které splňují kritéria udržitelnosti a úspor emisí skleníkových plynů stanovená prováděcím právním předpisem, přičemž biokapaliny vyrobené z odpadů a zbytků jiných než zbytků ze zemědělství, akvakultury, rybolovu a lesnictví musí splňovat pouze kritéria úspor emisí skleníkových plynů, vyjma biokaplin vyrobených z tuhého komunálního odpadu, které nepodléhají ani kritériím úspor emisí skleníkových plynů.
+>
+> (3) Podpora biometanu se nevztahuje na
+>
+> - a) neoprávněnou distribuci biometanu v distribuční soustavě nebo neoprávněnou přepravu biometanu v přepravní soustavě podle jiného právního předpisu26), nebo
+>
+> - b) biometan naměřený měřicím zařízením, které zaznamenalo naměřené hodnoty nesprávně tak, že došlo k prospěchu výrobce biometanu v důsledku neoprávněného zásahu do tohoto měřicího zařízení nebo porušení zajištění proti neoprávněné manipulaci nebo chyby a poruchy měřicího zařízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=221c109361526d85bd0e -->
+
 ### § 27b — Zelený bonus na biometan
 
 > **§ 27b**
@@ -2310,6 +4090,60 @@ Zelený bonus na biometan je sazbově roční (Kč/MWh spalného tepla), zúčto
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4d2fcd1196b07d72d7f6 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27b — Zelený bonus na biometan
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Zelený bonus na biometan je stanoven v Kč/MWh spalného tepla a je poskytován v ročním režimu.
+>
+> (2) Zúčtovacím obdobím pro úhradu zeleného bonusu na biometan je 1 měsíc.
+>
+> (3) Pokud není výrobce biometanu subjektem zúčtování27) nebo nepřenesl odpovědnost za odchylku na jiný subjekt zúčtování, je vykupující biometanu povinen převzít odpovědnost za odchylku28).
+>
+> (4) Pokud o to výrobce biometanu požádá, je operátor trhu povinen na základě vyúčtování podle odstavce 5 hradit výrobci biometanu zelený bonus na biometan.
+>
+> (5) Vyúčtování zeleného bonusu na biometan se uskutečňuje na základě naměřených hodnot a vykázaných údajů předaných výrobcem biometanu a provozovatelem přepravní nebo distribuční soustavy operátorovi trhu v rozsahu, způsobem a termínu podle prováděcího právního předpisu. Nepředá-li výrobce biometanu operátorovi trhu naměřené hodnoty a vykázané údaje podle věty první, nárok na úhradu zeleného bonusu na biometan nevzniká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4d2fcd1196b07d72d7f6 -->
+
 ### § 27ba — Aukční bonus na biometan
 
 > **§ 27ba**
@@ -2376,6 +4210,60 @@ Aukční bonus na biometan funguje jako zákonný měsíční CfD: při ceně pl
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o udělení práva z aukce (referenční cena), měsíční jednotkové ceny plynu, naměřené hodnoty dodaného biometanu, žádost o úhradu, doklady o úhradě clawbacku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0f85eb11cb9426e3434a generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27ba — Aukční bonus na biometan
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Aukční bonus na biometan je stanoven v Kč/MWh spalného tepla a je poskytován v měsíčním režimu.
+>
+> (2) Zúčtovacím obdobím pro úhradu aukčního bonusu na biometan je 1 měsíc.
+>
+> (3) Pokud o to výrobce biometanu požádá, je operátor trhu povinen na základě vyúčtování podle odstavce 4 hradit výrobci biometanu aukční bonus na biometan.
+>
+> (4) Vyúčtování aukčního bonusu na biometan se uskutečňuje na základě naměřených hodnot a vykázaných údajů předaných výrobcem biometanu a provozovatelem přepravní nebo distribuční soustavy operátorovi trhu v rozsahu, způsobem a termínu podle prováděcího právního předpisu. Nepředá-li výrobce biometanu operátorovi trhu naměřené hodnoty a vykázané údaje podle věty první nebo nesplní-li podmínky stanovené v rozhodnutí o udělení práva na podporu z aukce, nárok na úhradu aukčního bonusu na biometan nevzniká.
+>
+> (5) V případě, kdy je u podpory aukčním bonusem na biometan dosaženo vyšší měsíční jednotkové ceny plynu, než je referenční aukční cena, nárok na podporu v daném měsíci nevzniká a výrobce biometanu je povinen uhradit rozdíl mezi měsíční jednotkovou cenou plynu a referenční aukční cenou operátorovi trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f85eb11cb9426e3434a -->
 
 ### § 27bb — Vyhlášení aukce na podporu biometanu
 
@@ -2469,6 +4357,82 @@ Vyhlášení aukce na podporu biometanu musí obsahovat všechny taxativně vyme
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3a8757e3cee5880be387 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27bb — Vyhlášení aukce na podporu biometanu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo vyhlašuje aukci na podporu biometanu a ve vyhlášení aukce stanoví
+>
+> - a) lhůtu pro podání nabídky, která nesmí být kratší než 2 měsíce ode dne vyhlášení aukce,
+>
+> - b) náležitosti nabídky, kromě obecných náležitostí podání podle správního řádu,
+>
+> - c) celkovou hodnotu soutěženého energetického výkonu a výkonové rozmezí výroben biometanu,
+>
+> - d) minimální podíl pokročilého biometanu na celkovém množství biometanu vyrobeného za vykazované období,
+>
+> - e) maximální výslednou výši produkce emisí skleníkových plynů vyrobeného biometanu za vykazované období,
+>
+> - f) lhůtu pro uvedení výrobny biometanu do provozu,
+>
+> - g) formu a způsob podání nabídky,
+>
+> - h) výši finanční jistoty, její formu, způsob a lhůty prokázání jednotlivých částí finanční jistoty,
+>
+> - i) pravidla pro hodnocení nabídek,
+>
+> - j) způsob a formu sdělení vyhodnocení nabídek a výsledek aukce předkladatelům nabídek,
+>
+> - k) důvody pro zrušení aukce,
+>
+> - l) způsob a postup úhrady rozdílu mezi měsíční jednotkovou cenou plynu a referenční aukční cenou operátorovi trhu v případě, kdy je dosaženo vyšší měsíční jednotkové ceny plynu, než je referenční aukční cena,
+>
+> - m) měsíční minimální množství plynu dodané povinně vykupujícímu plyn,
+>
+> - n) podmínky, požadavky a kritéria na výrobnu biometanu a předkladatele nabídky.
+>
+> (2) Ministerstvo může ve vyhlášení aukce ve spolupráci s Úřadem stanovit maximální referenční aukční cenu a postup pro meziroční úpravu výše referenční aukční ceny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3a8757e3cee5880be387 -->
+
 ### § 27bc — Finanční jistota
 
 > **§ 27bc**
@@ -2524,6 +4488,58 @@ Finanční jistota se prokazuje výhradně složením peněžních prostředků 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5c261ba183152cedc1ea generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27bc — Finanční jistota
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Předkladatel nabídky je povinen prokázat jednotlivé části finanční jistoty ve lhůtě a výši stanovené ve vyhlášení aukce.
+>
+> (2) Finanční jistota může být poskytnuta
+>
+> - a) složením peněžních prostředků na zvláštní účet ministerstva, nebo
+>
+> - b) bankovní zárukou, kterou přijalo ministerstvo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c261ba183152cedc1ea -->
+
 ### § 27bd — Vyhodnocení nabídek
 
 > **§ 27bd**
@@ -2572,6 +4588,52 @@ Nabídky v aukci na biometan se vyhodnocují podle § 10c použitého obdobně a
 **Typicky rozhodné důkazy / podklady:** vyhlášení aukce s pravidly hodnocení, podané nabídky, zpráva o vyhodnocení, dokumentace aplikace § 10c.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=737b606afb33a1e3705c generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27bd — Vyhodnocení nabídek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Pro vyhodnocení nabídek u aukce na podporu biometanu ministerstvem se § 10c použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=737b606afb33a1e3705c -->
 
 ### § 27be — Rozhodnutí o udělení nebo neudělení práva na podporu z aukce
 
@@ -2668,6 +4730,88 @@ Rozhodnutí o udělení práva na podporu je individuálním správním aktem; p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=136258e8e6633f7420e7 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27be — Rozhodnutí o udělení nebo neudělení práva na podporu z aukce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Pokud předkladatel nabídky, která uspěla v aukci, ve lhůtě stanovené ve zprávě prokáže druhou část finanční jistoty, ministerstvo do 30 dnů ode dne uplynutí této lhůty vydá rozhodnutí o udělení práva na podporu z aukce. Pokud předkladatel této nabídky neprokáže druhou část finanční jistoty ve lhůtě stanovené ve zprávě, ministerstvo vyzve k prokázání druhé části finanční jistoty dalšího předkladatele nabídky, která splnila podmínky stanovené ve vyhlášení aukce, a to v pořadí, které vyplývá ze zprávy.
+>
+> (2) V rozhodnutí o udělení práva na podporu z aukce se kromě obecných náležitostí rozhodnutí stanovených správním řádem ve výroku uvede
+>
+> - a) identifikace výrobny biometanu včetně energetického výkonu a druhu podporovaného zdroje energie,
+>
+> - b) energetický výkon výrobny biometanu, v jehož rozsahu vzniká právo na podporu z aukce, je-li odlišný od energetického výkonu podle písmene a),
+>
+> - c) minimální podíl pokročilého biometanu na celkovém množství biometanu vyrobeného za vykazované období,
+>
+> - d) maximální výsledná výše produkce emisí skleníkových plynů vyrobeného biometanu za vykazované období,
+>
+> - e) referenční aukční cena,
+>
+> - f) lhůta pro uvedení výrobny biometanu do provozu,
+>
+> - g) způsob a postup úhrady rozdílu mezi měsíční jednotkovou cenou plynu a referenční aukční cenou operátorovi trhu v případě, kdy je dosaženo vyšší měsíční jednotkové ceny plynu, než je referenční aukční cena,
+>
+> - h) měsíční minimální množství plynu dodané povinně vykupujícímu plyn.
+>
+> (3) Předkladatel nabídky, kterému bylo uděleno právo na podporu z aukce, je povinen uvést výrobnu biometanu do provozu ve lhůtě stanovené v rozhodnutí o udělení práva na podporu z aukce a vyrábět biometan za podmínek stanovených tímto zákonem a rozhodnutím o udělení práva na podporu z aukce.
+>
+> (4) Povinnost uvést výrobnu biometanu do provozu podle odstavce 3 se považuje za splněnou, pokud
+>
+> - a) předkladatel nabídky uvede ve lhůtě stanovené v rozhodnutí o udělení práva na podporu z aukce do provozu výrobnu biometanu, jejíž energetický výkon je nejvýše o 20 % nižší nebo je vyšší než energetický výkon výrobny biometanu podle její identifikace v rozhodnutí o udělení práva na podporu z aukce,
+>
+> - b) skutečná výše energetického výkonu spadá do výkonového rozmezí výroben biometanu stanoveného ve vyhlášení aukce a
+>
+> - c) předkladatel nabídky oznámí ministerstvu nejpozději v den uvedení výrobny biometanu do provozu skutečnou výši energetického výkonu.
+>
+> (5) Ministerstvo změní rozhodnutí o udělení práva na podporu z aukce neprodleně poté, co se dozví o uvedení do provozu výrobny biometanu podle odstavce 4. Právo na podporu z aukce vzniká v případě výrobny biometanu s energetickým výkonem, který je oproti energetickému výkonu výrobny biometanu podle její původní identifikace v rozhodnutí o udělení práva na podporu z aukce
+>
+> - a) nižší, v rozsahu odpovídajícím skutečné výši energetického výkonu,
+>
+> - b) vyšší, v rozsahu odpovídajícím energetickému výkonu výrobny biometanu podle její původní identifikace v rozhodnutí o udělení práva na podporu z aukce.
+>
+> (6) Předkladateli nabídky, která neuspěla v aukci, ministerstvo vydá rozhodnutí o neudělení práva na podporu z aukce. Proti rozhodnutí ministerstva nelze podat rozklad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=136258e8e6633f7420e7 -->
+
 ### § 27bf — Použití finanční jistoty a odnětí práva na podporu z aukce
 
 > **§ 27bf**
@@ -2716,6 +4860,52 @@ Při nesplnění podmínek rozhodnutí o udělení práva (zejm. neuvedení výr
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o udělení práva (lhůta, podmínky), doklad o uvedení/neuvedení do provozu, údaje o podílu pokročilého biometanu a emisích, doklad o finanční jistotě, dokumentace řízení dle § 10e.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=353ade4e6805bff8aab6 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27bf — Použití finanční jistoty a odnětí práva na podporu z aukce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Pro použití finanční jistoty a odnětí práva na podporu z aukce se u aukce na podporu biometanu [[#§ 10e|§ 10e]] použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=353ade4e6805bff8aab6 -->
 
 ### § 27bg — Povinně vykupující plyn
 
@@ -2775,6 +4965,58 @@ Povinně vykupující plyn je nucenou protistranou výrobce s aukčním bonusem;
 **Typicky rozhodné důkazy / podklady:** zveřejnění MPO o výběru vykupujícího a cenovém mechanismu, výzva k uzavření smlouvy a doklad o doručení, návrh smlouvy o dodávce plynu, korespondence o jednání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f4ec4f81fd7662aaae2b generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27bg — Povinně vykupující plyn
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Povinně vykupující plyn je povinen
+>
+> - a) uzavřít smlouvu o dodávce plynu s výrobcem biometanu a vykupovat plyn za měsíční jednotkovou cenu plynu, na který se vztahuje podpora biometanu formou aukčního bonusu, a
+>
+> - b) převzít odpovědnost za odchylku28) v předávacím místě výroby biometanu.
+>
+> (2) Ministerstvo vybere minimálně na 3 roky povinně vykupujícího plyn a tuto informaci spolu se způsobem stanovení měsíční jednotkové ceny plynu zveřejňuje na internetových stránkách.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f4ec4f81fd7662aaae2b -->
 
 ### § 27c — Výše zeleného bonusu na biometan
 
@@ -2840,6 +5082,58 @@ Výši zeleného bonusu na biometan určuje ERÚ cenovým výměrem podle metody
 **Typicky rozhodné důkazy / podklady:** cenový výměr ERÚ, prováděcí předpis s parametry a diskontní mírou, ekonomický model výrobny, data OTE o ceně plynu na vnitrodenním trhu, podklady monitoringu nákladů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4ae7b3d94267a2d457f2 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27c — Výše zeleného bonusu na biometan
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Úřad stanoví v daném kalendářním roce na následující kalendářní rok výši ročního zeleného bonusu na pokročilý biometan tak, aby součet diskontovaných peněžních toků za dobu životnosti výrobny biometanu byl roven nule za podmínky splnění technických a ekonomických parametrů a při zohlednění předpokládaných příjmů z prodeje biometanu. Úřad může stanovit samostatně výši ročního zeleného bonusu na pokročilý biometan a na ostatní biometan. Technické a ekonomické parametry a výši diskontní míry stanoví prováděcí právní předpis.
+>
+> (2) Úřad meziročně upravuje výši zeleného bonusu na biometan na základě monitoringu nákladů na pořízení paliva a ceny zemního plynu a jejich změn.
+>
+> (3) Úřad je povinen stanovit celkovou výši podpory biometanu tak, aby pro rok, kdy je výrobna biometanu uvedena do provozu, činil zelený bonus na biometan nejvýše pětinásobek průměrné tržní ceny plynu na vnitrodenním trhu s plynem organizovaném operátorem trhu stanovený jako průměr z hodnot ročních vážených průměrných cen za každý ukončený kalendářní rok v posledních třech letech.
+>
+> (4) Při stanovení zelených bonusů na biometan postupuje Úřad podle [[zákona o cenách|zákona o cenách]] a výši podpory stanoví v cenovém výměru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4ae7b3d94267a2d457f2 -->
 
 ### § 27d — Práva a povinnosti osob na trhu s biometanem
 
@@ -2923,6 +5217,72 @@ Pro výrobny biometanu připojené přímo k čerpacím stanicím nebo výdejní
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9b5f5bf7c8b4c3c071b4 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27d — Práva a povinnosti osob na trhu s biometanem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel přepravní soustavy, provozovatel distribuční soustavy nebo jiný výrobce plynu jsou povinni přednostně připojit výrobnu biometanu za účelem přístupu k jimi provozovanému plynárenskému zařízení, a to v nejbližším místě připojení, pokud o to výrobce biometanu požádá a splňuje podmínky připojení stanovené jiným právním předpisem29). Tato povinnost nevzniká v případě nedostatku kapacity plynárenského zařízení, ke kterému by měla být výrobna biometanu připojena, nebo při ohrožení bezpečného a spolehlivého provozu plynárenské soustavy. Provozovatel přepravní soustavy nebo provozovatel distribuční soustavy nebo jiný výrobce plynu je povinen zaregistrovat předávací místo výrobny biometanu připojené k jím provozovanému plynárenskému zařízení jako výrobní předávací místo v systému operátora trhu a dále registrovat všechny změny v těchto údajích v rozsahu podle jiného právního předpisu. Provozovatel přepravní soustavy nebo provozovatel distribuční soustavy je dále povinen předávat do systému operátora trhu naměřené hodnoty množství vyrobeného biometanu v předávacím místě způsobem a v termínech stanovených prováděcím právním předpisem.
+>
+> (2) Provozovatel přepravní soustavy, provozovatel distribuční soustavy nebo jiný výrobce plynu jsou povinni na vyžádání výrobce biometanu poskytnout informace nezbytné pro připojení výrobny biometanu podle odstavce 1, odhad nákladů souvisejících s tímto připojením, lhůty pro přijetí a vyřízení žádosti o toto připojení a odhad doby nezbytné pro provedení tohoto připojení.
+>
+> (3) Výrobce biometanu je povinen na svůj náklad zajistit měření množství, kvality a tlaku vyrobeného biometanu v předávacím místě výrobny biometanu k plynárenskému zařízení, k němuž je výrobna biometanu připojena, a předávat tyto údaje provozovateli plynárenského zařízení a operátorovi trhu, a to způsobem, který stanoví prováděcí právní předpis. Způsob a rozsah měření biometanu, požadavky na kvalitu biometanu, odorizaci a tlak vyrobeného biometanu stanoví prováděcí právní předpis.
+>
+> (4) Výrobce biometanu je povinen předávat elektronickou formou operátorovi trhu úplné a pravdivé údaje související s výrobnou a výrobou biometanu a o surovinách využitých pro výrobu biometanu a splnění kritérií udržitelnosti a úspor emisí skleníkových plynů, a to v rozsahu, způsobem a termínu stanoveném prováděcím právním předpisem.
+>
+> (5) Výrobce biometanu, který uplatňuje právo na podporu formou zeleného bonusu na biometan vyrobený ve výrobně biometanu uvedené do provozu od 1. ledna 2023 do 31. prosince 2025 a dodaný do čerpací stanice nebo výdejní jednotky přímo připojené k výrobně biometanu bez využití plynárenské soustavy, je povinen
+>
+> - a) na svůj náklad zajistit měření množství takto dodaného biometanu stanoveným měřidlem podle zákona [[o metrologii|o metrologii]],
+>
+> - b) předat operátorovi trhu elektronickou formou údaje o množství vyrobeného biometanu dodaného do čerpací stanice nebo výdejní jednotky s rozdělením na pokročilý a ostatní biometan a údaje o surovinách využitých pro výrobu biometanu v rozsahu, termínech a způsobem stanoveným prováděcím právním předpisem.
+>
+> (6) Výrobce biometanu je dále povinen
+>
+> - a) udržovat a provozovat měřicí zařízení s platným ověřením podle zákona [[o metrologii|o metrologii]],
+>
+> - b) zdržet se jakýchkoli neoprávněných zásahů do zajištění proti neoprávněné manipulaci, do měřicího zařízení nebo do jeho součástí a příslušenství.
+>
+> (7) Výrobce biometanu je povinen předat elektronickou formou operátorovi trhu úplné a pravdivé naměřené hodnoty množství biometanu a údaje týkající se identifikace výrobce biometanu a výrobny biometanu a na vyžádání operátora trhu poskytnout další doplňující informace týkající se předávaných údajů. Způsob, rozsah a termín předání naměřených hodnot množství biometanu a údajů týkajících se identifikace výrobce biometanu a výrobny biometanu stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b5f5bf7c8b4c3c071b4 -->
+
 ### § 27e — Podmínky podpory biometanu
 
 > **§ 27e**
@@ -2997,6 +5357,64 @@ Pro výrobce s aukčním bonusem platí podmínky individuálně stanovené v ro
 **Typicky rozhodné důkazy / podklady:** doklady o vzniku/přestavbě výrobny, evidence surovin a podílu pokročilého biometanu za vykazované období, data reportovaná OTE, rozhodnutí o udělení práva na podporu z aukce, smlouva o dodávce plynu povinně vykupujícímu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=60386e002480f8727dee generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 27e — Podmínky podpory biometanu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Výrobce biometanu, který uplatňuje právo na podporu formou zeleného bonusu na biometan, je povinen
+>
+> - a) u výrobny biometanu, která vznikla úpravou výrobny elektřiny využívající bioplyn, dodržovat podíl pokročilého biometanu na celkovém vyrobeném biometanu za vykazované období alespoň ve výši 35 %,
+>
+> - b) u výrobny biometanu, která nevznikla úpravou výrobny elektřiny využívající bioplyn, dodržovat podíl pokročilého biometanu na celkovém vyrobeném biometanu za vykazované období alespoň ve výši 45 %.
+>
+> (2) Výrobce biometanu, který uplatňuje právo na podporu formou zeleného bonusu na biometan, je povinen zaregistrovat výrobnu biometanu uvedenou do provozu od 1. ledna 2023 do 31. prosince 2025, která není připojena k distribuční nebo přepravní soustavě České republiky, v systému operátora trhu a dále registrovat všechny změny těchto údajů v rozsahu podle jiného právního předpisu30).
+>
+> (3) Výrobce biometanu, který uplatňuje právo na podporu formou aukčního bonusu na biometan je povinen
+>
+> - a) dodržovat minimální podíl pokročilého biometanu na celkovém vyrobeném biometanu a dodržovat maximální výslednou produkci emisí skleníkových plynů za vykazované období ve výši podle rozhodnutí o udělení práva na podporu biometanu z aukce,
+>
+> - b) dodávat plyn povinně vykupujícím plyn na základě smlouvy o dodávce plynu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60386e002480f8727dee -->
 
 ## Přehledová tabulka nástrojů Hlavy IV a V
 

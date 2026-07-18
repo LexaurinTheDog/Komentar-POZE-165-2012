@@ -100,6 +100,80 @@ Konkrétní obsahové náležitosti záruky původu energie — identifikátory 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e8bc97ba898450eb6379 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 44 — Oblasti vydávání a náležitosti záruk původu energie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Záruku původu elektřiny lze vydat na elektřinu z
+>
+> - a) obnovitelných zdrojů a
+>
+> - b) ostatních zdrojů energie.
+>
+> (2) Záruku původu tepelné energie lze vydat na tepelnou energii z
+>
+> - a) obnovitelných zdrojů a
+>
+> - b) jaderné energie.
+>
+> (3) Záruku původu plynu lze vydat na plyn z
+>
+> - a) obnovitelných zdrojů a
+>
+> - b) ostatních zdrojů energie, s výjimkou vodíku.
+>
+> (4) Záruku původu vodíku lze vydat na vodík z
+>
+> - a) obnovitelných zdrojů a
+>
+> - b) ostatních zdrojů energie.
+>
+> (5) Pokud byla elektřina vyrobena z vysokoúčinné kombinované výroby elektřiny a tepla, uvede se tato skutečnost na záruce původu elektřiny.
+>
+> (6) Pro účely záruk původu tepelné energie se výroba a spotřeba tepelné energie na území České republiky považuje za jeden bilanční systém.
+>
+> (7) Obsahové náležitosti záruky původu energie stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e8bc97ba898450eb6379 -->
+
 ### § 45 — Pravidla pro vydávání záruk původu energie
 
 > **§ 45**
@@ -196,6 +270,74 @@ Odst. 10 výslovně ukládá prováděcímu předpisu respektovat normu pro zár
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=99b7ef1c6a322fc37a77 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 45 — Pravidla pro vydávání záruk původu energie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Záruku původu energie vydává operátor trhu v elektronické podobě na
+>
+> - a) základě žádosti výrobce, výrobce tepla, výrobce tepelné energie z jaderné energie, výrobce plynu (dále jen „výrobce energie“) na jeho účet vedený v evidenci záruk původu, nebo
+>
+> - b) účet České republiky podle [[#§ 45a|§ 45a]].
+>
+> (2) Záruka původu energie se vydává v hodnotě 1 MWh na období výroby energie jednoho kalendářního měsíce. Prováděcí právní předpis stanoví podmínky vydání záruky původu energie, která se vydává v odlišné hodnotě objemu nebo na odlišné období výroby energie než podle věty první.
+>
+> (3) Pro každou jednotku vyrobené energie lze vydat pouze jednu záruku původu energie.
+>
+> (4) Záruku původu energie lze vydat nejpozději do 12 měsíců od konce období výroby energie, na které se záruka původu energie vydává.
+>
+> (5) Záruka původu elektřiny se vydává na množství elektřiny, které bylo vyrobeno v České republice a dodáno do elektrizační soustavy České republiky.
+>
+> (6) Záruka původu plynu se vydává na množství plynu s výjimkou vodíku, které bylo vyrobeno v České republice a dodáno do plynárenské soustavy České republiky.
+>
+> (7) Záruka původu tepelné energie se vydává na množství tepelné energie, které bylo vyrobeno v České republice a dodáno do rozvodného tepelného zařízení soustavy zásobování tepelnou energií, ke které je výrobna tepla nebo výrobna tepelné energie využívající jadernou energii připojena.
+>
+> (8) Záruka původu vodíku se vydává na množství vodíku, které bylo vyrobeno v České republice a dodáno do plynárenské soustavy České republiky.
+>
+> (9) Má-li výrobce energie povinnost podle tohoto zákona nebo podle energetického zákona plnit a vykazovat plnění kritérií udržitelnosti a úspor emisí skleníkových plynů, je podmínkou pro vydání záruky původu energie doložení prohlášení o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů.
+>
+> (10) Postupy, termíny a podmínky pro vydání záruky původu energie a podmínky pro vydání záruky původu, která se vydává v odlišné hodnotě objemu než 1 MWh nebo na jiné období výroby energie než jeden kalendářní měsíc, stanoví prováděcí právní předpis v souladu s normou týkající se záruk původu energie40).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 45a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=99b7ef1c6a322fc37a77 -->
+
 ### § 45a — Omezení vydání záruky původu energie
 
 > **§ 45a**
@@ -283,6 +425,70 @@ Záruky původu elektřiny nelze vydat na elektřinu, která je sdílena (komuni
 **Typicky rozhodné důkazy / podklady:** registrace formy podpory u OTE, rozhodnutí/smlouva o investiční podpoře a její podmínky, datum uvedení výrobny do provozu, doklady o sdílení/kreditech.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e3a8c0c565b340bdc7a7 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 45a — Omezení vydání záruky původu energie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Právo na vydání záruky původu energie nemá výrobce energie, který provozuje danou výrobnu energie,
+>
+> - a) která je registrována v systému operátora trhu s formou
+>
+> - 1. podpory elektřiny, která nebyla stanovena v aukci,
+>
+> - 2. provozní podpory tepla, nebo
+>
+> - 3. podpory biometanu,
+>
+> - b) pro kterou přijal investiční podporu, která nebyla poskytnuta na základě výběrového řízení, pokud v poskytnuté investiční podpoře nebyla zohledněna tržní hodnota záruk původu energie nebo od uvedení výrobny energie do provozu neuplynulo 60 měsíců, nebo
+>
+> - c) pro kterou přijal investiční podporu, která nebyla poskytnuta na základě výběrového řízení, a současně registroval v systému operátora trhu formu podpory elektřiny, která nebyla stanovena v aukci.
+>
+> (2) V případech podle odstavce 1 vydává operátor trhu záruky původu energie bez žádosti výrobce energie na účet České republiky, za kterou jedná ministerstvo. Takto vydané záruky původu energie jsou majetkem České republiky, se kterým hospodaří ministerstvo. Způsob a postup vydání záruky původu energie na účet České republiky stanoví prováděcí právní předpis.
+>
+> (3) Záruky původu energie vydané podle odstavce 2, vyjma záruky původu biometanu, operátor trhu nabídne k převodu držitelům účtu v evidenci záruk původu energie prostřednictvím aukce záruk původu energie podle [[#§ 45g|§ 45g]]. V případě záruk původu biometanu prováděcí právní předpis stanoví, zda záruky původu biometanu operátor trhu nabídne k převodu prostřednictvím aukce záruk původu energie nebo na žádost povinně vykupujícího plyn budou přímo převedeny na povinně vykupujícího plyn za cenu za úhradu podle § 45c odst. 5.
+>
+> (4) Záruku původu elektřiny nelze vydat na elektřinu, která je sdílena, a na elektřinu, na kterou byly vydány kredity za elektřinu z obnovitelných zdrojů energie využitou v dopravě (dále jen „kredit“).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 45g, § 45c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e3a8c0c565b340bdc7a7 -->
 
 ### § 45b — Evidence záruk původu energie a vnitrostátní databáze kritérií udržitelnosti
 
@@ -375,6 +581,74 @@ Odst. 4 deleguje podrobnosti na prováděcí předpis s výslovným požadavkem 
 **Typicky rozhodné důkazy / podklady:** výpis z evidence OTE, opravená měřená data, doklad o stavu zahraniční záruky, záznam o splnění kritérií udržitelnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=93d925b693c17f970edd generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 45b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Operátor trhu provozuje evidenci záruk původu energie, jejíž součástí je vnitrostátní databáze kritérií udržitelnosti a úspor emisí skleníkových plynů pro energii vyrobenou z paliva z biomasy, nízkouhlíkových plynů a plynů z obnovitelných zdrojů, způsobem umožňujícím dálkový přístup, ve které
+>
+> - a) vytváří a vede účty držitelů účtů,
+>
+> - b) vydává a eviduje vydané záruky původu energie,
+>
+> - c) převádí a eviduje převody záruk původu energie mezi držiteli účtů v rámci České republiky nebo mezi držiteli účtů v České republice a držiteli účtů v jiném členském státu Evropské unie, ve smluvním státu Dohody o Evropském hospodářském prostoru nebo Švýcarské konfederaci (dále jen „jiný členský stát“) nebo státu, který není jiným členským státem,
+>
+> - d) eviduje uplatnění záruky původu energie,
+>
+> - e) uznává záruky původu energie vydané v jiném členském státě a eviduje uznané záruky původu energie,
+>
+> - f) ruší a eviduje zrušení záruk původu energie, pokud k vydání záruky původu energie došlo na základě neúplných nebo nepravdivých informací,
+>
+> - g) vyřazuje a eviduje vyřazení záruk původu energie,
+>
+> - h) eviduje plnění kritérií udržitelnosti a úspor emisí skleníkových plynů pro energii vyrobenou z paliva z biomasy, nízkouhlíkových plynů a plynů z obnovitelných zdrojů.
+>
+> (2) Operátor trhu je povinen na svých internetových stránkách zveřejnit pravidla používání evidence záruk původu energie, jejíž součástí je i vnitrostátní databáze kritérií udržitelnosti a úspor emisí skleníkových plynů pro energii vyrobenou z paliva z biomasy, nízkouhlíkových plynů a plynů z obnovitelných zdrojů.
+>
+> (3) Operátor trhu je povinen zajistit napojení evidence záruk původu energie na databázi Evropské unie a přenos údajů z a do uvedené databáze.
+>
+> (4) Postupy, termíny a podmínky pro vytváření a vedení účtů držitelů účtů v evidenci záruk původu, vydávání a evidenci vydaných záruk původu energie, převody a evidenci převodů záruk původu energie, uznávání záruk původu energie vydaných v jiném členském státě a evidenci uznaných záruk původu energie, rušení a evidenci zrušení záruk původu energie, vyřazení a evidenci vyřazení záruk původu energie a evidenci plnění kritérií udržitelnosti a úspor emisí skleníkových plynů pro energii vyrobenou z paliva z biomasy, nízkouhlíkových plynů a plynů z obnovitelných zdrojů stanoví prováděcí právní předpis v souladu s normou týkající se záruk původu energie40).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=93d925b693c17f970edd -->
 
 ### § 45c — Nakládání se zárukami původu energie
 
@@ -478,6 +752,90 @@ Odst. 6 doplňuje, že držitel účtu musí OTE uhradit také **hodnotu záruk 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=982e1652d29abfc52eb0 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 45c — Nakládání se zárukami původu energie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Záruka původu energie je platná po dobu 12 měsíců od konce období výroby energie, na které se záruka původu energie vydává, pokud do té doby nedojde k jejímu uplatnění.
+>
+> (2) Záruka původu energie a právo s ní spojené se považují za nehmotnou věc.
+>
+> (3) Operátor trhu vede záruky původu energie v elektronické podobě na účtu držitele účtu, kterému byla záruka původu energie vydána, nebo na účtu držitele účtu, kterému byla záruka původu energie převedena.
+>
+> (4) Držitelem účtu může být
+>
+> - a) držitel licence na výrobu elektřiny,
+>
+> - b) držitel licence na výrobu plynu,
+>
+> - c) držitel licence na výrobu tepelné energie,
+>
+> - d) držitel licence na rozvod tepelné energie,
+>
+> - e) držitel licence na obchod s elektřinou,
+>
+> - f) držitel licence na obchod s plynem,
+>
+> - g) Česká republika.
+>
+> (5) Držitel účtu, s výjimkou operátora trhu a České republiky, je povinen operátorovi trhu hradit
+>
+> - a) cenu za vedení účtu v evidenci záruk původu energie,
+>
+> - b) cenu za vydání záruky původu energie, pokud operátor trhu vydal záruku původu energie na jeho žádost,
+>
+> - c) cenu za převod záruky původu energie mimo aukci záruk původu energie,
+>
+> - d) cenu za přístup k aukci záruk původu energie,
+>
+> - e) cenu za převod záruky původu energie v aukci záruk původu energie.
+>
+> (6) Držitel účtu, s výjimkou operátora trhu a České republiky, je dále povinen uhradit operátorovi trhu částku odpovídající hodnotě záruk původu energie nakoupených v aukci záruk původu energie.
+>
+> (7) Ceny podle odstavce 5 stanoví Úřad cenovým výměrem.
+>
+> (8) Operátor trhu vyřadí neuplatněnou záruku původu energie nejpozději do 6 měsíců po skončení její platnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=982e1652d29abfc52eb0 -->
+
 ### § 45d — Nakládání se zárukami původu energie vydanými v jiném státě nebo převedenými do jiného státu
 
 > **§ 45d**
@@ -562,6 +920,66 @@ Odst. 5 specificky pro **záruky původu plynu** ze zahraničí vyžaduje dopln�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=08d31edbf1dfb0a0fa4f generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 45d — Nakládání se zárukami původu energie vydanými v jiném státě nebo převedenými do jiného státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Za záruku původu energie podle tohoto zákona se považuje i záruka původu energie vydaná v jiném členském státě, pokud ji operátor trhu uznal.
+>
+> (2) Operátor trhu uzná záruku původu energie vydanou v jiném členském státě pokud
+>
+> - a) záruka původu splňuje požadavky čl. 19 směrnice o podpoře využívání energie z obnovitelných zdrojů,
+>
+> - b) je umožněn elektronický převod záruky původu energie z evidence záruk původu energie z tohoto členského státu do evidence záruk původu energie provozované operátorem trhu a
+>
+> - c) žadatel o převod záruky původu energie prokazatelně doloží, že nedošlo k uplatnění záruky původu energie v tomto členském státě nebo k jejímu vyřazení.
+>
+> (3) Neuzná-li operátor trhu záruku původu energie vydanou v jiném členském státě, je operátor trhu povinen o neuznání a důvodech neuznání informovat ministerstvo. Ministerstvo oznámí Evropské komisi neuznání záruky původu energie včetně odůvodnění. Přijme-li Evropská komise rozhodnutí, kterým záruku původu energie uzná, uzná takovou záruku původu energie i operátor trhu.
+>
+> (4) Operátor trhu uzná záruku původu energie vydanou státem, který není jiným členským státem, pokud Evropská unie sjednala dohodu o vzájemném uznávání záruk původu energie vydaných v Evropské unii a v tomto státě a pokud dochází k přímému dovozu nebo vývozu energie mezi Evropskou unií a tímto státem a jsou splněny podmínky podle odstavce 2. V opačném případě operátor trhu záruku původu energie vydanou státem, který není jiným členským státem, neuzná.
+>
+> (5) Při převodu a uplatnění záruky původu plynu vydané v jiném členském státě nebo státě, který není jiným členským státem, ale se kterým Evropská unie sjednala dohodu o vzájemném uznávání záruk původu energie a jsou splněny podmínky podle odstavce 2, musí být v případě, že je plyn vyrobený z paliv, která musí splňovat kritéria udržitelnosti a úspor emisí skleníkových plynů, doloženo prohlášení o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=08d31edbf1dfb0a0fa4f -->
+
 ### § 45e — Uplatnění záruk původu energie
 
 > **§ 45e**
@@ -637,6 +1055,66 @@ Záruky původu plynu a vodíku vydané na účet ČR (§ 45a odst. 2) a nabyté
 **Typicky rozhodné důkazy / podklady:** smlouva o dodávce/sdružených službách, výpis z evidence OTE o uplatnění, doklad o dodaném množství, prohlášení o udržitelnosti u plynu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1f81f56057a586cc290d generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 45e — Uplatnění záruk původu energie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Uplatněním záruky původu energie dochází k jejímu zrušení.
+>
+> (2) Držitel účtu uplatní záruku původu energie k dodávce energie na základě smlouvy o dodávce této energie nebo smlouvy o sdružených službách dodávky energie zákazníkovi.
+>
+> (3) Držitel účtu může uplatnit záruku původu energie pro každou jednotku vyrobené energie pouze jednou.
+>
+> (4) Uplatněním záruky původu plynu držitel účtu dokládá zákazníkovi, že vyrobená jednotka plynu nebyla zohledněna pro účely doložení původu, a splnění kritérií udržitelnosti a úspor emisí skleníkových plynů na území České republiky ani jiného členského státu. Pokud záruka původu plynu neobsahuje informace o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů, musí držitel účtu s uplatněnou zárukou původu plynu doložit zákazníkovi také prohlášení o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů. U jednotky vyrobené energie, která byla dodána zákazníkovi přímým plynovodem, nedokládá držitel účtu záruku původu energie, ale dokládá pouze prohlášení o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů.
+>
+> (5) Držitel účtu může uplatnit záruku původu plynu nebo záruky původu vodíku pouze k dodávce plynu nebo vodíku odpovídající příslušné charakteristice soustavy.
+>
+> (6) Pokud držitel účtu nabyl záruku původu plynu nebo vodíku vydanou podle § 45a odst. 2 v aukci, nesmí tuto záruku původu dále převádět na jiného držitele účtu a smí ji uplatnit pouze k dodávce plynu zákazníkovi, kterému plyn dodává z plynárenské soustavy České republiky.
+>
+> (7) Každou jednotku vyrobené energie lze zohlednit pouze jednou.
+>
+> (8) Postup uplatnění záruky původu energie stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 45a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f81f56057a586cc290d -->
 
 ### § 45f — Povinnosti související se zárukami původu energie a evidencí kritérií udržitelnosti
 
@@ -726,6 +1204,78 @@ Provozovatelé elektrizační přenosové soustavy, distribuční soustavy elekt
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=17b3938e4c423b3f2029 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 45f — Povinnosti související se zárukami původu energie a evidencí kritérií udržitelnosti a úspor emisí skleníkových plynů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Výrobce energie je pro vydání záruky původu energie podle § 45 odst. 1 písm. a) povinen
+>
+> - a) registrovat výrobnu energie v systému operátora trhu,
+>
+> - b) registrovat se jako držitel účtu v evidenci záruk původu energie,
+>
+> - c) předat elektronickou formou operátorovi trhu úplné a pravdivé informace
+>
+> - 1. o vyrobeném a dodaném množství energie,
+>
+> - 2. o přijaté investiční podpoře,
+>
+> - 3. o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů, pokud se na výrobu energie vztahuje plnění kritérií udržitelnosti a úspor emisí skleníkových plynů, a
+>
+> - 4. dále nezbytné k vydání záruky původu energie.
+>
+> (2) Výrobce energie, který provozuje výrobnu energie, ke které nemá podle [[#§ 45a|§ 45a]] právo na vydání záruk původu energie na svůj účet, je povinen registrovat výrobnu energie v systému operátora trhu a předat operátorovi trhu úplné a pravdivé informace a údaje podle odstavce 1 písm. c).
+>
+> (3) Výrobce energie je dále pro evidenci plnění kritérií udržitelnosti a úspor emisí skleníkových plynů povinen
+>
+> - a) registrovat výrobnu energie umístěnou na území České republiky v systému operátora trhu a
+>
+> - b) neumožnit převod prohlášení o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů bez záruky původu energie na jiného účastníka trhu s elektřinou, tepelnou energií nebo plynem, pokud na stejnou jednotku vyrobené energie byla vydána záruka původu energie, která obsahuje informace o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů.
+>
+> (4) Provozovatel přenosové soustavy, provozovatel přepravní soustavy, provozovatel distribuční soustavy a provozovatel rozvodného tepelného zařízení (dále jen „provozovatel soustavy“) jsou povinni předat elektronickou formou operátorovi trhu úplné a pravdivé informace nezbytné pro registraci výroben energie, evidenci plnění kritérií udržitelnosti a úspor emisí skleníkových plynů a vydávání a uplatnění záruk původu energie.
+>
+> (5) Postup registrace výrobny energie a výrobce energie a držitele účtu v systému operátora trhu, rozsah a termíny předání informací o vyrobeném a dodaném množství energie, přijaté investiční podpoře, způsobu předávání informací o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů, informací dále nezbytných k vydání záruky původu energie a rozsah a termíny předávání informací od provozovatele soustavy nezbytných pro vydávání a uplatnění záruky původu energie stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 45, § 45a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=17b3938e4c423b3f2029 -->
+
 ### § 45g — Aukce záruk původu energie
 
 > **§ 45g**
@@ -792,6 +1342,58 @@ Vazba na finanční toky systému podpory: příjmy z aukcí záruk vydaných na
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=82973735140ded5fe5a0 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 45g — Aukce záruk původu energie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Operátor trhu organizuje elektronickou formou aukce záruk původu energie a vyhlašuje aukce záruk původu energie na svých internetových stránkách.
+>
+> (2) Aukce záruk původu energie se může zúčastnit držitel účtu v evidenci záruk původu energie podle § 45c odst. 4.
+>
+> (3) Operátor trhu zveřejňuje informace o zárukách původu energie prodaných v aukcích na svých internetových stránkách.
+>
+> (4) Způsob a formu zveřejnění pravidel organizace aukcí záruk původu energie stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 45c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=82973735140ded5fe5a0 -->
+
 ## Hlava X — Osvědčení o původu elektřiny z KVET nebo druhotných zdrojů
 
 > Hlava X (§§ 46–47a) upravuje paralelní certifikační nástroj odlišný od záruk původu: **osvědčení o původu** elektřiny z vysokoúčinné KVET nebo z druhotných zdrojů. Zatímco záruky původu dokládají množství a zdroj vyrobené energie (jsou obchodovatelné), osvědčení o původu dokazuje trvalou **schopnost zařízení** vyrábět elektřinu z KVET nebo druhotných zdrojů — jde tedy o osvědčení svázané s konkrétní výrobnou, nikoli s konkrétní výrobní dávkou. Vydávání osvědčení svěřuje zákon ministerstvu průmyslu a obchodu (nikoli OTE). Osvědčení nemá dobu platnosti stanovenou zákonem — platí, dokud je platný zápisem v evidenci MPO, a zaniká zrušením (§ 47a odst. 3).
@@ -851,6 +1453,52 @@ Osvědčení je dokladem zejména pro účely přístupu k licencím, regulovan�
 **Typicky rozhodné důkazy / podklady:** technická dokumentace a schéma zařízení, výpočet úspor primární energie a účinnosti, měření poměru elektřiny a tepla, posouzení dopadu na stávající SZTE.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=25498cef7481920641ac generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 46 — Osvědčení o původu elektřiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> Osvědčení o původu elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla nebo z druhotných zdrojů (dále jen „osvědčení o původu“) slouží k prokazování schopnosti zařízení vyrábět elektřinu z vysokoúčinné kombinované výroby elektřiny a tepla nebo z druhotných zdrojů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25498cef7481920641ac -->
 
 ### § 47 — Vydání osvědčení o původu elektřiny
 
@@ -913,6 +1561,54 @@ Zákon taxativně vyjmenovává povinné součásti žádosti: identifikátory v
 **Typicky rozhodné důkazy / podklady:** vyplněný formulář žádosti, technické schéma a popis výrobny, výpočet množství elektřiny z KVET a úspor primární energie, posouzení dopadu na stávající SZTE.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=69017f250cb07755c783 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 47 — Vydání osvědčení o původu elektřiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Osvědčení o původu vydává ministerstvo na základě žádosti výrobce elektřiny z druhotných zdrojů nebo výrobce elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla, ve které jsou uvedeny identifikační údaje výrobny elektřiny, popis a schéma výrobny elektřiny a výrobního zařízení, výpočet množství elektřiny z kombinované výroby elektřiny a tepla, účinnost, úspory primární energie a informace, zda provoz zařízení sníží dodávku tepelné energie ze stávající účinné soustavy zásobování tepelnou energií. Žádost o vydání osvědčení o původu se podává na formuláři, jehož náležitosti a vzor stanoví prováděcí právní předpis.
+>
+> (2) Výrobce elektřiny z druhotných zdrojů nebo výrobce elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla, který podá žádost o vydání osvědčení o původu, je povinen předat ministerstvu úplné a pravdivé informace nezbytné k jeho vydání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=69017f250cb07755c783 -->
 
 ### § 47a — Evidence, změny a zrušení osvědčení o původu
 
@@ -989,6 +1685,62 @@ Zrušení pro nepravdivé informace (písm. b) má retroaktivní charakter — o
 **Typicky rozhodné důkazy / podklady:** protokol o technické změně/rekonstrukci, nové měření účinnosti a úspor primární energie, evidence MPO, doklad o době, kdy se držitel o změně dozvěděl.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8cefafd02bebb9e9b031 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 47a — Evidence, změny a zrušení osvědčení o původu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Držitel osvědčení o původu je povinen bezodkladně oznámit ministerstvu veškeré změny údajů uvedených v žádosti o vydání osvědčení o původu či jiné závažné skutečnosti vztahující se k udělenému osvědčení o původu.
+>
+> (2) Vydaná osvědčení o původu eviduje ministerstvo.
+>
+> (3) Ministerstvo osvědčení o původu zruší, pokud
+>
+> - a) držitel osvědčení o jeho zrušení požádá,
+>
+> - b) osvědčení bylo vydáno na základě neúplných nebo nepravdivých informací, nebo
+>
+> - c) zařízení ztratilo schopnost vyrábět elektřinu z vysokoúčinné kombinované výroby elektřiny a tepla nebo z druhotných zdrojů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8cefafd02bebb9e9b031 -->
 
 ## Hlava XI — Ověřování plnění kritérií udržitelnosti a úspor emisí skleníkových plynů
 
@@ -1074,6 +1826,66 @@ Zvláštní situace nastává, pokud výrobce energie nebo dopravní subjekt ode
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4c2dabb777df60df6789 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 47b — Prokazování plnění kritérií udržitelnosti a úspor emisí skleníkových plynů paliv z biomasy, obnovitelných paliv nebiologického původu a recyklovaných paliv s obsahem uhlíku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Výrobce energie dokládá splnění kritérií udržitelnosti a úspor emisí skleníkových plynů nebo splnění pouze úspor emisí skleníkových plynů v rozsahu a termínech podle prováděcího právního předpisu na základě dokladu o provedeném auditu vydaného v souladu s
+>
+> - a) rozhodnutím Evropské komise podle čl. 30 odst. 5 směrnice Evropského parlamentu a Rady o podpoře využívání energie z obnovitelných zdrojů43), nebo
+>
+> - b) vnitrostátním režimem podle [[#§ 47ba|§ 47ba]], pokud se jedná o lesní biomasu pro výrobu elektřiny a výrobu tepla.
+>
+> (2) Výrobce energie je povinen zadat doklad o provedeném auditu podle odstavce 1 a o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů nebo splnění pouze úspor emisí skleníkových plynů do systému operátora trhu v rozsahu a termínech podle prováděcího právního předpisu.
+>
+> (3) Výrobce paliv z biomasy a vstupní suroviny pro výrobu paliv z biomasy pro výrobu elektřiny, tepelné energie nebo plynu, dovozce, prodejce nebo dodavatel těchto paliv a vstupních surovin pro výrobu těchto paliv dokládá splnění kritérií udržitelnosti a úspor emisí skleníkových plynů dokladem vydaným v souladu s
+>
+> - a) rozhodnutím podle čl. 30 odst. 5 směrnice Evropského parlamentu a Rady o podpoře využívání energie z obnovitelných zdrojů43), nebo
+>
+> - b) vnitrostátním režimem podle [[#§ 47ba|§ 47ba]], pokud se jedná o lesní biomasu pro výrobu elektřiny nebo výrobu tepla.
+>
+> (4) V případě, že palivem pro výrobu elektřiny nebo tepelné energie nebo pro dopravní účely je plyn odebíraný z plynárenské soustavy České republiky, musí být původ plynu a splnění kritérií udržitelnosti a úspor emisí skleníkových plynů doložen zárukou původu plynu obsahující informace o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů. V případě, že záruka původu plynu neobsahuje informace o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů, musí být doloženo k záruce původu plynu také prohlášení o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47ba
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4c2dabb777df60df6789 -->
+
 ### § 47ba — Vnitrostátní režim prokazování kritérií udržitelnosti z lesní biomasy
 
 > **§ 47ba**
@@ -1154,6 +1966,66 @@ Výrobci paliv z lesní biomasy, jejich prodejci a dodavatelé musí předat vý
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d9ae1f9163e74a5d5089 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 47ba — Vnitrostátní režim prokazování kritérií udržitelnosti a úspor emisí skleníkových plynů z lesní biomasy u výroby elektřiny nebo výroby tepla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Palivo z lesní biomasy a vstupní suroviny pro výrobu paliva z lesní biomasy splňují kritéria udržitelnosti a úspor emisí skleníkových plynů, pokud
+>
+> - a) pochází z České republiky,
+>
+> - b) splňuje požadavky podle prováděcího nařízení Komise o stanovení operativních pokynů ohledně důkazů pro prokazování souladu s kritérii udržitelnosti pro lesní biomasu uvedenými v článku 29 směrnice o podpoře využívání energie z obnovitelných zdrojů44),
+>
+> - c) splňuje požadavky týkající se využívání půdy, změny využívání půdy a lesnictví podle prováděcího nařízení Komise o stanovení operativních pokynů ohledně důkazů pro prokazování souladu s kritérii udržitelnosti pro lesní biomasu uvedenými v čl. 29 směrnice o podpoře využívání energie z obnovitelných zdrojů45),
+>
+> - d) jsou vyrobeny v souladu se závazky a cíli stanovenými v čl. 4 nařízení Evropského parlamentu a Rady o zahrnutí emisí skleníkových plynů a jejich pohlcování v důsledku využívání půdy, změn ve využívání půdy a lesnictví do rámce politiky v oblasti klimatu a energetiky do roku 203045) a s politikami a opatřeními popsanými ve vnitrostátním plánu v oblasti energetiky a klimatu.
+>
+> (2) Výrobce a výrobce tepla, kteří využívají vnitrostátní režim pro dokládání plnění kritérií udržitelnosti a úspor emisí skleníkových plynů, jsou povinni zajistit jednou ročně audit ověřující původ paliv z lesní biomasy a plnění úspor emisí skleníkových plynů. Doklad o provedeném auditu je výrobce a výrobce tepla povinen zadat do systému operátora trhu v rozsahu a termínech podle prováděcího právního předpisu.
+>
+> (3) Audit podle odstavce 2 provádí certifikační orgán podle prováděcího nařízení Komise o pravidlech pro ověřování kritérií udržitelnosti a úspor emisí skleníkových plynů a kritérií nízkého rizika nepřímé změny ve využívání půdy46) v rozsahu podle prováděcího právního předpisu.
+>
+> (4) Výrobce paliv z lesní biomasy a vstupní suroviny pro výrobu paliv z lesní biomasy, prodejce nebo dodavatel těchto paliv a vstupní suroviny pro výrobu těchto paliv, kteří využívají vnitrostátní režim prokazování plnění kritérií udržitelnosti a úspor emisí skleníkových plynů, jsou povinni doložit a předat výrobci a výrobci tepla k dodávce paliva z lesní biomasy nebo vstupní suroviny pro výrobu paliv z lesní biomasy prohlášení o původu lesní biomasy a plnění úspor emisí skleníkových plynů. Prohlášení je výrobce a výrobce tepla povinen zadat do systému operátora trhu v rozsahu a termínech podle prováděcího právního předpisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d9ae1f9163e74a5d5089 -->
+
 ### § 47bb — Kritéria úspor emisí skleníkových plynů pro RFNBO a RCF
 
 > **§ 47bb**
@@ -1223,6 +2095,58 @@ Povinnosti podle § 47d odst. 1 a § 47db odst. 1, na něž § 47bb odkazuje, up
 **Typicky rozhodné důkazy / podklady:** doklad o auditu z uznaného schématu EK, výpočet LCA dle metodiky nařízení EK, doklad o původu vstupní elektřiny z OZE pro elektrolýzu (RFNBO), doklad o původu uhlíku (RCF).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=be63b30fccca521ce531 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 47bb — Kritéria úspor emisí skleníkových plynů pro obnovitelná paliva nebiologického původu a recyklovaná paliva s obsahem uhlíku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Úspora emisí skleníkových plynů pro obnovitelné palivo nebiologického původu určené k plnění povinností uvedených v § 47d odst. 1 a § 47db odst. 1 musí činit minimálně 70 % ve srovnání se základní hodnotou produkce emisí skleníkových plynů pro fosilní pohonné hmoty stanovenou prováděcím právním předpisem.
+>
+> (2) Úspora emisí skleníkových plynů pro recyklované palivo s obsahem uhlíku určené k plnění povinností uvedených v § 47d odst. 1 a § 47db odst. 1 musí splňovat kritéria úspor emisí skleníkových plynů stanovená v nařízení Komise, kterým se doplňuje směrnice Evropského parlamentu a Rady (EU) 2018/2001 stanovením minimální hodnoty pro úspory emisí skleníkových plynů z recyklovaných paliv s obsahem uhlíku a upřesněním metodiky pro posuzování úspor emisí skleníkových plynů z kapalných a plynných paliv z obnovitelných zdrojů nebiologického původu používaných v odvětví dopravy a z recyklovaných paliv s obsahem uhlíku47).
+>
+> (3) Úspora emisí skleníkových plynů pro obnovitelné palivo nebiologického původu a recyklované palivo s obsahem uhlíku se stanoví postupem uvedeným v nařízení Komise, kterým se doplňuje směrnice Evropského parlamentu a Rady (EU) 2018/2001 stanovením minimální hodnoty pro úspory emisí skleníkových plynů z recyklovaných paliv s obsahem uhlíku a upřesněním metodiky pro posuzování úspor emisí skleníkových plynů z kapalných a plynných paliv z obnovitelných zdrojů nebiologického původu používaných v odvětví dopravy a z recyklovaných paliv s obsahem uhlíku47).
+>
+> (4) Prokázání splnění kritérií úspor emisí skleníkových plynů podle odstavců 1 a [[#§ 2|2]] se prokazuje dokladem vystaveným v souladu s rozhodnutím Evropské komise vydaným na základě čl. 30 odst. 5 směrnice Evropského parlamentu a Rady o podpoře využívání energie z obnovitelných zdrojů44).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47d, § 47db, § 2
+
+##### Souvisící předpisy
+
+- akt EU 2018/2001 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=be63b30fccca521ce531 -->
 
 ### § 47c — Evidence plnění využití obnovitelných zdrojů energie v dopravě
 
@@ -1310,3 +2234,72 @@ Tímto mechanismem zákon zajišťuje, že OTE nebude provoz evidence evidovat j
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5df51fe3f713af4fc0c1 generator=2026-07-17.4 source_sha256=6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16 -->
+#### Revizní doplnění k § 47c — Evidence plnění využití obnovitelných zdrojů energie v dopravě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/165-2012 Zákon o podporovaných zdrojích energie a o změně některých zákonů.md`; identifikátor verze: `SB-2012-00165_2026-01-01`; SHA-256: `6e15805e14cbda32686063e8be9550e8f6e7c17f13148d1ef9b7e18b4b4cfb16`.
+
+##### Znění ustanovení
+
+> (1) Operátor trhu provozuje způsobem umožňujícím dálkový přístup elektronickou evidenci dokumentů s údaji o plnění využití obnovitelných zdrojů energie v dopravě (dále jen „evidence plnění využití obnovitelných zdrojů energie v dopravě“).
+>
+> (2) Evidence plnění využití obnovitelných zdrojů energie v dopravě umožňuje zejména
+>
+> - a) vkládat a uchovávat dokumenty týkající se kritérií udržitelnosti a emisí skleníkových plynů, pokud tento zákon nebo jiný právní předpis ukládá povinnost uchovávat dokumenty po stanovenou dobu,
+>
+> - b) evidovat převody a využití pohonných hmot vyrobených z obnovitelných zdrojů energie na splnění povinnosti zajištění minimálního podílu biopaliv, pokročilého biometanu a elektřiny z obnovitelných zdrojů energie v dopravě,
+>
+> - c) vkládat a uchovávat další dokumenty, pokud tak stanoví tento zákon nebo jiný právní předpis.
+>
+> (3) Operátor trhu je povinen osobě, která je podle tohoto zákona nebo jiného právního předpisu povinna dokládat plnění využití obnovitelných zdrojů energie v dopravě, umožnit přístup k evidenci plnění využití obnovitelných zdrojů energie v dopravě, na základě její žádosti elektronickou formou v systému operátora trhu.
+>
+> (4) Operátor trhu je povinen ministerstvu, Ministerstvu zemědělství a Inspekci umožnit přístup k evidenci plnění využití obnovitelných zdrojů energie v dopravě a v rozsahu jejich věcné působnosti umožnit přístup ke všem údajům a elektronickým dokumentům evidovaným v evidenci plnění využití obnovitelných zdrojů energie v dopravě.
+>
+> (5) Operátor trhu je povinen požadovat od osoby, která žádá o přístup k evidenci plnění využití obnovitelných zdrojů energie v dopravě nebo požaduje údaje z evidence plnění využití obnovitelných zdrojů energie v dopravě, s výjimkou ministerstva, Ministerstva zemědělství a Inspekce, úhradu ve výši, která nesmí přesáhnout jeho náklady spojené se zajištěním přístupu a poskytnutím požadovaných údajů.
+>
+> (6) V případě, že úhrady poskytnuté operátorovi trhu za zajištění přístupu a poskytování požadovaných údajů z evidence plnění využití obnovitelných zdrojů energie v dopravě nejsou dostatečné k pokrytí celkových nákladů operátora trhu souvisejících s provozem evidence plnění využití obnovitelných zdrojů energie v dopravě, kompenzuje operátorovi trhu zbývající část nákladů souvisejících s provozem evidence plnění využití obnovitelných zdrojů energie v dopravě ministerstvo, a to na základě písemné žádosti operátora trhu, která musí obsahovat
+>
+> - a) podklady prokazující celkové náklady operátora trhu související s provozem evidence plnění využití obnovitelných zdrojů energie v dopravě,
+>
+> - b) celkovou výši úhrad poskytnutých operátorovi trhu podle odstavce 5 a
+>
+> - c) vyčíslení zbývající nepokryté části nákladů operátora trhu souvisejících s provozem evidence plnění využití obnovitelných zdrojů energie v dopravě.
+>
+> (7) Operátor trhu je povinen předložit žádost podle odstavce 6 ministerstvu nejpozději do 15. února kalendářního roku následujícího po kalendářním roce, ve kterém operátorovi trhu náklady související s provozem evidence plnění využití obnovitelných zdrojů energie v dopravě vznikly.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5df51fe3f713af4fc0c1 -->
