@@ -579,7 +579,7 @@ Solární odvod je 100% příjmem státního rozpočtu; obce, na jejichž územ�
 
 #### Větrný poplatek jako nový místní poplatek
 
-Poplatek za větrnou energii (§§ 22a–22k) byl do zákona č. 165/2012 Sb. vložen novelou č. 382/2021 Sb. s účinností od 1. 7. 2021. Jde o zcela nový typ poplatku v českém právu, který nemá přímou historickou analogii v zákoně o místních poplatcích. Poplatek dopadá na **nové větrné instalace** (viz § 22b odst. 1 — povolení záměru muselo nabýt právní moci po nabytí účinnosti tohoto zákona) a nemá charakter regulatorní platby za podporu OZE (větrné výrobny zpravidla podporu z POZE nečerpají), nýbrž kompenzace vůči obcím, jejichž území větrné parky využívají.
+Poplatek za větrnou energii (§§ 22a–22k) byl do zákona č. 165/2012 Sb. vložen jako nový díl 2 hlavy IV zákonem č. 249/2025 Sb., o urychlení využívání některých obnovitelných zdrojů energie (§ 40 bod 3; účinnost podle § 43 téhož zákona). Jde o zcela nový typ poplatku v českém právu, který nemá přímou historickou analogii v zákoně o místních poplatcích. Poplatek dopadá na **nové větrné instalace** (viz § 22b odst. 1 — povolení záměru muselo nabýt právní moci po nabytí účinnosti tohoto zákona) a nemá charakter regulatorní platby za podporu OZE (větrné výrobny zpravidla podporu z POZE nečerpají), nýbrž kompenzace vůči obcím, jejichž území větrné parky využívají.
 
 #### Poplatník (odst. 1)
 
